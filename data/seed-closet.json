@@ -1,0 +1,1671 @@
+{
+  "app": "closet",
+  "version": 1,
+  "updatedAt": "2026-11-26T23:27:08+00:00",
+  "profile": {
+    "heightCm": 171,
+    "sizes": {
+      "top": "M",
+      "bottom": "38",
+      "shoesEu": 42
+    },
+    "city": "Guimarães",
+    "lat": 41.4425,
+    "lon": -8.2918
+  },
+  "items": [
+    {
+      "id": "cl_black_trousers",
+      "name": "Black trousers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "38",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 22,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "party",
+        "date",
+        "interview",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "charcoal",
+          "black",
+          "light-blue",
+          "beige",
+          "camel"
+        ],
+        "avoidWith": [],
+        "notes": "Re-check waist fit while cutting."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_beige_chinos",
+      "name": "Beige chinos",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "chinos",
+      "layer": null,
+      "colors": {
+        "primary": "beige",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "38",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 26,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "navy",
+          "white",
+          "brown"
+        ],
+        "avoidWith": [
+          "beige"
+        ],
+        "notes": "Pairs cleanly with dark charcoal knitwear and black coat."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_navy_trousers",
+      "name": "Navy trousers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": null,
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "38",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 22,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "beige",
+          "camel",
+          "light-blue",
+          "grey"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Avoid pairing with plain black tops unless high contrast."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_tiffosi_light_jeans",
+      "name": "Light-wash Tiffosi jeans",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "jeans",
+      "layer": null,
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Tiffosi",
+        "size": "38",
+        "fabric": "denim",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 26,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "black",
+          "charcoal",
+          "camel",
+          "brown"
+        ],
+        "avoidWith": [],
+        "notes": "Pale casual wash; great with white tees, hoodie or puffer."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_white_tees",
+      "name": "White t-shirts",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "white",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "cotton",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "beige",
+          "light-blue",
+          "blue",
+          "brown",
+          "charcoal"
+        ],
+        "avoidWith": [],
+        "notes": "Core base layer under shirts, knitwear, and outerwear."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_springfield_camel_crewneck",
+      "name": "Springfield camel crewneck",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "crewneck",
+      "layer": "mid",
+      "colors": {
+        "primary": "camel",
+        "secondary": [
+          "red"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Springfield",
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 6,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "blue",
+          "light-blue",
+          "navy",
+          "white"
+        ],
+        "avoidWith": [
+          "camel",
+          "beige"
+        ],
+        "notes": "Small red 'Just a Biker' chest embroidery; casual everyday knit."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_light_blue_shirt",
+      "name": "Light-blue shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 28,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "beige",
+          "white",
+          "blue"
+        ],
+        "avoidWith": [],
+        "notes": "Works open over white tee or buttoned under coat."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_beige_shirt",
+      "name": "Beige shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "beige",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 28,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "blue",
+          "brown"
+        ],
+        "avoidWith": [
+          "beige"
+        ],
+        "notes": ""
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_red_striped_shirt",
+      "name": "Red-striped shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "red",
+        "secondary": [
+          "white"
+        ],
+        "tone": "accent",
+        "pattern": "striped"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 28,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "beige",
+          "blue"
+        ],
+        "avoidWith": [],
+        "notes": "Keep bottoms and outerwear solid neutral."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_purple_dotted_shirt",
+      "name": "Purple dotted shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "purple",
+        "secondary": [],
+        "tone": "accent",
+        "pattern": "dotted"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 24,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "date",
+        "night-out",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "grey"
+        ],
+        "avoidWith": [],
+        "notes": "Statement pattern; pair with solid dark trousers."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_black_puffer",
+      "name": "Black puffer jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "puffer",
+      "layer": "outer",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": -2,
+        "tempMaxC": 14,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "grey",
+          "charcoal",
+          "light-blue",
+          "blue",
+          "beige",
+          "camel"
+        ],
+        "avoidWith": [],
+        "notes": "Go-to cold/rain casual outer layer."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_navy_jacket",
+      "name": "Navy jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 19,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "beige",
+          "camel",
+          "light-blue",
+          "grey"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": ""
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_brown_corduroy_jacket",
+      "name": "Brown corduroy jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "corduroy",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "beige",
+          "light-blue",
+          "blue",
+          "black"
+        ],
+        "avoidWith": [],
+        "notes": "Avoid heavy rain on corduroy."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_corduroy_shacket",
+      "name": "Corduroy shirt-jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "shirt-jacket",
+      "layer": "mid",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "corduroy",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "spring"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 20,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "black",
+          "light-blue",
+          "blue",
+          "beige"
+        ],
+        "avoidWith": [],
+        "notes": "Great over a white t-shirt."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_sneakers",
+      "name": "Sneakers",
+      "status": "owned",
+      "category": "shoes",
+      "subCategory": "sneakers",
+      "layer": null,
+      "colors": {
+        "primary": "other",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": null,
+      "care": {
+        "brand": null,
+        "size": "42",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "night-out",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "blue",
+          "light-blue",
+          "beige",
+          "navy"
+        ],
+        "avoidWith": [],
+        "notes": "Update exact color/model in app."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_watch",
+      "name": "Watch",
+      "status": "owned",
+      "category": "accessory",
+      "subCategory": "watch",
+      "layer": null,
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": null,
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": -5,
+        "tempMaxC": 40,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "party",
+        "date",
+        "interview",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "navy",
+          "white",
+          "silver"
+        ],
+        "avoidWith": [],
+        "notes": ""
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_rings",
+      "name": "Rings",
+      "status": "owned",
+      "category": "accessory",
+      "subCategory": "ring",
+      "layer": null,
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": null,
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": -5,
+        "tempMaxC": 40,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "party",
+        "date",
+        "night-out",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "silver"
+        ],
+        "avoidWith": [],
+        "notes": ""
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_md_sunglasses",
+      "name": "Massimo Dutti dark square sunglasses",
+      "status": "owned",
+      "category": "accessory",
+      "subCategory": "sunglasses",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": null,
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": "One Size",
+        "fabric": "acetate",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 40,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "party",
+        "date",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "beige",
+          "white",
+          "blue"
+        ],
+        "avoidWith": [],
+        "notes": "Dark espresso/black thick square acetate, UV cat 3. Great fit at temples."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_zara_wool_coat_black",
+      "name": "Zara Relaxed Fit Wool Blend Coat",
+      "status": "wishlist",
+      "category": "outerwear",
+      "subCategory": "coat",
+      "layer": "outer",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": "Zara",
+        "size": "M",
+        "fabric": "wool blend",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "party",
+        "date",
+        "night-out",
+        "work",
+        "everyday",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "white",
+          "beige",
+          "camel",
+          "blue",
+          "light-blue"
+        ],
+        "avoidWith": [],
+        "notes": "Ref 8281/615/800. -40% to 47.97 EUR from 26/11 20:00."
+      },
+      "meta": {
+        "priceEur": 47.97,
+        "productUrl": "https://www.zara.com/pt/en/relaxed-fit-wool-blend-coat-p08281615.html?v1=557384786",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_zara_cotton_cashmere_charcoal",
+      "name": "Zara Cotton-Cashmere Regular Fit Jumper",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "crewneck",
+      "layer": "mid",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "M",
+        "fabric": "cotton-cashmere",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "black",
+          "blue",
+          "light-blue",
+          "white"
+        ],
+        "avoidWith": [],
+        "notes": "-40% to 23.97 EUR from 26/11 20:00."
+      },
+      "meta": {
+        "priceEur": 23.97,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_pb_black_turtleneck",
+      "name": "Pull&Bear Cotton Blend High Neck Sweater",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "turtleneck",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Pull&Bear",
+        "size": "M",
+        "fabric": "cotton blend",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "party",
+        "date",
+        "night-out",
+        "2000s",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "beige",
+          "blue",
+          "silver"
+        ],
+        "avoidWith": [],
+        "notes": "Core top for 10 Dec Zara party look."
+      },
+      "meta": {
+        "priceEur": 29.95,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_regular_straight_jeans_medblue",
+      "name": "Regular straight-leg jeans (medium blue)",
+      "status": "wishlist",
+      "category": "bottom",
+      "subCategory": "jeans",
+      "layer": null,
+      "colors": {
+        "primary": "blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "38",
+        "fabric": "denim",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 24,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "white",
+          "camel",
+          "beige",
+          "brown"
+        ],
+        "avoidWith": [],
+        "notes": "On sale 17.99 EUR. Check length at 1.71m."
+      },
+      "meta": {
+        "priceEur": 17.99,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_stwd_hoodie_black",
+      "name": "Washed STWD Hoodie (Black)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "hoodie",
+      "layer": "mid",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": "Pull&Bear",
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "blue",
+          "light-blue",
+          "black",
+          "grey"
+        ],
+        "avoidWith": [],
+        "notes": "21.59 EUR from 26/11 20:00. Prefer M unless oversized look wanted."
+      },
+      "meta": {
+        "priceEur": 21.59,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_twobrothers_chain",
+      "name": "TwoBrothers Minimalista Chain (55 cm)",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "chain",
+      "layer": null,
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": null,
+      "care": {
+        "brand": "TwoBrothers",
+        "size": "55 cm",
+        "fabric": "steel/silver-tone",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": -5,
+        "tempMaxC": 40,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "party",
+        "night-out",
+        "2000s",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "white"
+        ],
+        "avoidWith": [],
+        "notes": "2 mm curb chain, 55 cm, plain rectangular plate. Wear outside turtleneck."
+      },
+      "meta": {
+        "priceEur": 22.49,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    },
+    {
+      "id": "cl_pb_double_loop_belt",
+      "name": "Pull&Bear Leather-Effect Double Loop Belt",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "belt",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": null,
+      "care": {
+        "brand": "Pull&Bear",
+        "size": null,
+        "fabric": "leather-effect",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": -5,
+        "tempMaxC": 40,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "party",
+        "date",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "beige",
+          "blue",
+          "navy"
+        ],
+        "avoidWith": [],
+        "notes": ""
+      },
+      "meta": {
+        "priceEur": 9.99,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-26T23:27:08+00:00"
+      },
+      "image": null
+    }
+  ],
+  "outfits": [
+    {
+      "id": "out_mafia_boss_2000s",
+      "name": "2000s Mafia Boss (Zara Party 10 Dec)",
+      "itemIds": [
+        "cl_zara_wool_coat_black",
+        "cl_pb_black_turtleneck",
+        "cl_black_trousers",
+        "cl_sneakers",
+        "cl_twobrothers_chain",
+        "cl_pb_double_loop_belt",
+        "cl_watch",
+        "cl_rings",
+        "cl_md_sunglasses"
+      ],
+      "occasions": [
+        "party",
+        "2000s",
+        "night-out"
+      ],
+      "notes": "Chain worn outside black turtleneck; coat open.",
+      "createdAt": "2026-11-26T23:27:08+00:00"
+    }
+  ],
+  "wearLog": []
+}
