@@ -152,8 +152,21 @@
     return !!err && (err.status === 409 || /another device/i.test(String(err.message || "")));
   }
 
+  // Closet contract: items by meta.updatedAt (keep archived), outfits by
+  // updatedAt/createdAt, wearLog union by id. The app installs ClosetMerge.
+  function mergeForSave(appId, base, local, remote) {
+    if (
+      appId === "closet" &&
+      global.ClosetMerge &&
+      typeof global.ClosetMerge.mergeCloset === "function"
+    ) {
+      return global.ClosetMerge.mergeCloset(base, local, remote);
+    }
+    return merge3(base, local, remote);
+  }
+
   function mergedBody(appId, message, local, remote) {
-    var data = remote && remote.data ? merge3(loadBase(appId), local, remote.data) : local;
+    var data = remote && remote.data ? mergeForSave(appId, loadBase(appId), local, remote.data) : local;
     var body = { message: message, content: toBase64(JSON.stringify(data)) };
     if (remote && remote.sha) body.sha = remote.sha;
     return body;
@@ -232,5 +245,5 @@
     });
   }
 
-  global.GhSync = { save: save, load: load };
+  global.GhSync = { save: save, load: load, mergeForSave: mergeForSave };
 })(typeof window !== "undefined" ? window : globalThis);
