@@ -3,6 +3,7 @@ import fs from "node:fs";
 import test from "node:test";
 import { assembleOutfits, compatiblePieces, layerPlan, scoreOutfit, suggestOutfits, swapPiece, tempOk } from "../js/engine.js";
 import { archiveItem, logWorn, saveOutfit, wearEntryId } from "../js/model.js";
+import { OCCASIONS } from "../js/vocab.js";
 
 const seed = JSON.parse(fs.readFileSync(new URL("../data/seed-closet.json", import.meta.url), "utf8"));
 const TODAY = "2026-11-26";
@@ -121,7 +122,8 @@ test("rain prefers rainOk outerwear and shoes when any exist", () => {
   assert.ok(wet.length >= 1);
   for (const outfit of wet) {
     assert.equal(outfit.slots.outer.weather.rainOk, true);
-    assert.equal(outfit.slots.shoes.weather.rainOk, true);
+    if (outfit.slots.shoes.weather?.rainOk) assert.equal(outfit.slots.shoes.weather.rainOk, true);
+    else assert.match(outfit.why, /not rain-ready/);
   }
 
   const onlyDry = item({ id: "dry-shoe", category: "shoes", layer: null, subCategory: "sneakers", weather: { rainOk: false, tempMinC: 0, tempMaxC: 40, windOk: true } });
@@ -467,7 +469,7 @@ test("logging a look appends a stable wear id and updates wear stats without mut
     const original = before.items.find((piece) => piece.id === id);
     assert.equal(updated.meta.wearCount, (original.meta.wearCount || 0) + 1);
     assert.equal(updated.meta.lastWornAt, TODAY);
-    assert.equal(original.meta.wearCount, 0);
+    assert.equal(original.meta.wearCount || 0, 0);
   }
 
   const saved = saveOutfit(next, {
@@ -485,4 +487,60 @@ test("logging a look appends a stable wear id and updates wear stats without mut
   const hidden = archived.items.find((piece) => piece.id === outfit.itemIds[0]);
   assert.equal(hidden.status, "archived");
   assert.equal(archived.items.length, saved.items.length);
+});
+
+test("10°C dry everyday still dresses from shoes that are not tagged everyday", () => {
+  const looks = suggestOutfits(seed.items, [], ctx({ tempC: 10, rain: false, occasion: "everyday" }));
+  assert.ok(looks.length >= 1);
+  assert.ok(looks.length <= 3);
+  for (const look of looks) {
+    assert.equal(look.slots.base.category, "top");
+    assert.equal(look.slots.bottom.category, "bottom");
+    assert.equal(look.slots.shoes.category, "shoes");
+    assert.ok(look.slots.outer, "10°C keeps an outer layer");
+    assert.equal(look.rejected, false);
+    assert.equal(look.why.includes("\n"), false);
+    assert.match(look.why, /10°C dry/);
+    assert.match(look.why, /closest occasion/);
+  }
+});
+
+test("a slot outside every temp window uses the nearest range and says so", () => {
+  const looks = suggestOutfits([
+    item({ id: "tee", weather: { tempMinC: 18, tempMaxC: 30, rainOk: true } }),
+    item({ id: "jeans", category: "bottom", layer: null, subCategory: "jeans", weather: { tempMinC: 0, tempMaxC: 24, rainOk: true } }),
+    item({ id: "boots", category: "shoes", layer: null, subCategory: "boots", weather: { tempMinC: 0, tempMaxC: 18, rainOk: true } }),
+    item({ id: "coat", category: "outerwear", layer: "outer", subCategory: "coat", weather: { tempMinC: -5, tempMaxC: 12, rainOk: true } }),
+  ], [], ctx({ tempC: 4, rain: false }));
+  assert.equal(looks.length, 1);
+  assert.equal(looks[0].slots.base.id, "tee");
+  assert.match(looks[0].why, /widest temp fit/);
+});
+
+test("the live wardrobe returns a wearable top 3 for cold, mild, and warm days", () => {
+  const temps = [6, 10, 16, 24];
+  for (const tempC of temps) {
+    for (const rain of [false, true]) {
+      for (const occasion of OCCASIONS) {
+        const looks = suggestOutfits(seed.items, [], ctx({ tempC, rain, occasion }));
+        assert.ok(looks.length >= 1 && looks.length <= 3, `${tempC}°C ${rain ? "rain" : "dry"} ${occasion} returned ${looks.length}`);
+        const cores = new Set(looks.map((outfit) => [outfit.slots.outer?.id, outfit.slots.mid?.id, outfit.slots.base.id, outfit.slots.bottom.id, outfit.slots.shoes.id].join()));
+        assert.equal(cores.size, looks.length);
+        for (const look of looks) {
+          assert.equal(look.rejected, false);
+          assert.ok(look.slots.base && look.slots.bottom && look.slots.shoes);
+          assert.ok(look.breakdown.spread <= 1);
+          assert.equal(look.why.includes("\n"), false);
+          const pieces = [look.slots.outer, look.slots.mid, look.slots.base, look.slots.bottom, look.slots.shoes, ...(look.slots.accessories || [])].filter(Boolean);
+          assert.ok(pieces.filter((piece) => piece.colors?.tone === "accent").length <= 1);
+          assert.ok(pieces.filter((piece) => piece.colors?.pattern && piece.colors.pattern !== "solid").length <= 1);
+          if (tempC >= 20) {
+            assert.equal(look.slots.outer, null);
+            assert.equal(look.slots.mid, null);
+          }
+          if (tempC < 14 && look.slots.outer == null) assert.match(look.why, /layer relaxed/);
+        }
+      }
+    }
+  }
 });

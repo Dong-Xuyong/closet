@@ -59,23 +59,101 @@ function matchesKind(item, kind) {
   return false;
 }
 
-function occasionPool(items, predicate, ctx) {
-  const owned = (items || []).filter(
-    (item) => item && item.status === "owned" && predicate(item) && tempOk(item, ctx.tempC)
-  );
-  const occasion = ctx.occasion || "everyday";
-  const matched = owned.filter((item) => (item.occasions || []).includes(occasion));
-  if (matched.length) return matched;
-  if (occasion !== "everyday") {
-    return owned.filter((item) => (item.occasions || []).includes("everyday"));
-  }
-  return matched;
+function tempDistance(item, tempC) {
+  const min = item?.weather?.tempMinC;
+  const max = item?.weather?.tempMaxC;
+  let distance = 0;
+  if (typeof min === "number" && tempC < min - 3) distance = Math.max(distance, min - 3 - tempC);
+  if (typeof max === "number" && tempC > max + 3) distance = Math.max(distance, tempC - (max + 3));
+  return distance;
 }
 
-function preferRain(pool, rain) {
-  if (!rain) return pool;
-  const ok = pool.filter((item) => item.weather?.rainOk);
-  return ok.length ? ok : pool;
+function tagged(item, occasion) {
+  return (item.occasions || []).includes(occasion);
+}
+
+/** Exact occasion, then everyday. Anything else is a closest-occasion fallback. */
+function preferOccasion(list, occasion) {
+  const exact = list.filter((item) => tagged(item, occasion));
+  if (exact.length) return { pool: exact, closest: false };
+  if (occasion !== "everyday") {
+    const everyday = list.filter((item) => tagged(item, "everyday"));
+    if (everyday.length) return { pool: everyday, closest: false };
+  }
+  return { pool: list, closest: list.length > 0 };
+}
+
+const SLOT_CAP = { bottom: 10, base: 10, shoes: 8, outer: 8, mid: 5, accessory: 5 };
+
+function pieceRank(a, b) {
+  const favorite = Number(!!b.meta?.favorite) - Number(!!a.meta?.favorite);
+  if (favorite) return favorite;
+  const worn = (a.meta?.wearCount || 0) - (b.meta?.wearCount || 0);
+  if (worn) return worn;
+  return String(a.id).localeCompare(String(b.id));
+}
+
+/** Keep every formality represented when a slot is too wide to search in full. */
+function trimPool(pool, kind) {
+  const cap = SLOT_CAP[kind] || pool.length;
+  const sorted = pool.slice().sort(pieceRank);
+  if (sorted.length <= cap) return sorted;
+  const buckets = new Map();
+  for (const item of sorted) {
+    const key = item.formality || "casual";
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key).push(item);
+  }
+  const keys = [...buckets.keys()].sort();
+  const out = [];
+  for (let row = 0; out.length < cap; row += 1) {
+    let grew = false;
+    for (const key of keys) {
+      const item = buckets.get(key)[row];
+      if (!item) continue;
+      out.push(item);
+      grew = true;
+      if (out.length === cap) break;
+    }
+    if (!grew) break;
+  }
+  return out;
+}
+
+function uniqueNotes(notes) {
+  return [...new Set((notes || []).filter(Boolean))];
+}
+
+/**
+ * Required-slot pool, relaxed only when the stricter pool is empty:
+ * temp window → nearest range ("widest temp fit"),
+ * occasion → everyday → any owned piece ("closest occasion"),
+ * rain → rainOk, else the dry pieces ("not rain-ready").
+ */
+function fillSlot(items, predicate, ctx, kind, trim = true) {
+  const owned = (items || []).filter((item) => item && item.status === "owned" && predicate(item));
+  const occasion = ctx.occasion || "everyday";
+  const notes = [];
+  const inTemp = owned.filter((item) => tempOk(item, ctx.tempC));
+  let picked = preferOccasion(inTemp, occasion);
+  if (!picked.pool.length && owned.length) {
+    let nearest = Infinity;
+    for (const item of owned) nearest = Math.min(nearest, tempDistance(item, ctx.tempC));
+    const closest = owned.filter((item) => tempDistance(item, ctx.tempC) === nearest);
+    picked = preferOccasion(closest, occasion);
+    notes.push("widest temp fit");
+  }
+  if (picked.closest) notes.push("closest occasion");
+  let pool = picked.pool;
+  if (ctx.rain && (kind === "outer" || kind === "shoes") && pool.length) {
+    const wet = pool.filter((item) => item.weather?.rainOk);
+    if (wet.length) pool = wet;
+    else notes.push("not rain-ready");
+  }
+  return {
+    pool: trim ? trimPool(pool, kind) : pool.slice().sort(pieceRank),
+    notes: uniqueNotes(notes),
+  };
 }
 
 function mainPieces(slots) {
@@ -177,7 +255,9 @@ export function whyItWorks(slots, ctx, breakdown) {
   const formality = String(dominantFormality(slots)).replace("-", " ");
   const layer = slots.outer?.name || slots.mid?.name || "no extra layer";
   const occasion = ctx.occasion && ctx.occasion !== "everyday" ? `${String(ctx.occasion).replace("-", " ")} · ` : "";
-  return `${occasion}${temp}°C ${sky} — ${formality}, ${palette}, ${layer}.`;
+  const line = `${occasion}${temp}°C ${sky} — ${formality}, ${palette}, ${layer}.`;
+  const notes = [...new Set((slots.notes || []).filter(Boolean))];
+  return notes.length ? `${line} ${notes.join(", ")}.` : line;
 }
 
 export function scoreOutfit(slots, ctx) {
@@ -283,19 +363,21 @@ function accessorySets(list) {
 }
 
 function layerChoices(tempC, mids, outers) {
-  if (tempC >= 20) return [{ mid: null, outer: null }];
+  if (tempC >= 20) return [{ mid: null, outer: null, note: null }];
   if (tempC < 14) {
     const outerChoices = outers.length ? outers : [null];
     const midChoices = tempC < 11 ? [null, ...mids] : [null];
+    const note = outers.length ? null : "layer relaxed";
     const choices = [];
     for (const outer of outerChoices) {
-      for (const mid of midChoices) choices.push({ mid, outer });
+      for (const mid of midChoices) choices.push({ mid, outer, note });
     }
     return choices;
   }
   const choices = [];
-  for (const mid of mids) choices.push({ mid, outer: null });
-  for (const outer of outers) choices.push({ mid: null, outer });
+  for (const mid of mids) choices.push({ mid, outer: null, note: null });
+  for (const outer of outers) choices.push({ mid: null, outer, note: null });
+  if (!choices.length) choices.push({ mid: null, outer: null, note: "layer relaxed" });
   return choices;
 }
 
@@ -304,6 +386,43 @@ function finish(slots, ctx) {
   if (scored.rejected) return null;
   if (!slots.base || !slots.bottom || !slots.shoes) return null;
   return scored;
+}
+
+function remember(bestByCore, key, scored) {
+  const prev = bestByCore.get(key);
+  if (!prev || scored.score > prev.score || (scored.score === prev.score && scored.itemIds.join() < prev.itemIds.join())) {
+    bestByCore.set(key, scored);
+  }
+}
+
+function withAccessories(cores, accessorySlot, ctx) {
+  const sets = accessorySets(accessorySlot.pool.slice().sort((a, b) => a.id.localeCompare(b.id)));
+  if (sets.length <= 1) return cores;
+  const ranked = cores.slice().sort((a, b) => b.score - a.score || a.itemIds.join().localeCompare(b.itemIds.join()));
+  const upgrade = new Set(ranked.slice(0, 24).map((outfit) => outfit.itemIds.join()));
+  const bestByCore = new Map();
+  for (const outfit of cores) {
+    const key = [outfit.slots.outer?.id || "-", outfit.slots.mid?.id || "-", outfit.slots.base.id, outfit.slots.bottom.id, outfit.slots.shoes.id].join("/");
+    if (!upgrade.has(outfit.itemIds.join())) {
+      remember(bestByCore, key, outfit);
+      continue;
+    }
+    for (const set of sets) {
+      const notes = set.length ? uniqueNotes([...(outfit.slots.notes || []), ...accessorySlot.notes]) : outfit.slots.notes;
+      const slots = {
+        outer: outfit.slots.outer,
+        mid: outfit.slots.mid,
+        base: outfit.slots.base,
+        bottom: outfit.slots.bottom,
+        shoes: outfit.slots.shoes,
+        accessories: set,
+        notes,
+      };
+      const scored = finish(slots, ctx);
+      if (scored) remember(bestByCore, key, scored);
+    }
+  }
+  return [...bestByCore.values()];
 }
 
 export function assembleOutfits(items, wearLog, ctx) {
@@ -315,46 +434,50 @@ export function assembleOutfits(items, wearLog, ctx) {
     wearLog: wearLog || ctx?.wearLog || [],
   };
   const list = items || [];
-  const bottoms = occasionPool(list, (item) => item.category === "bottom", context);
-  const bases = occasionPool(list, isBase, context);
-  const shoes = preferRain(occasionPool(list, (item) => item.category === "shoes", context), context.rain);
-  let outers = preferRain(occasionPool(list, isOuter, context), context.rain);
+  const bottoms = fillSlot(list, (item) => item.category === "bottom", context, "bottom");
+  const bases = fillSlot(list, isBase, context, "base");
+  const shoes = fillSlot(list, (item) => item.category === "shoes", context, "shoes");
   const plan = layerPlan(context.tempC);
-  if (plan.lightOuterOnly) outers = outers.filter(isLightOuter);
-  const mids = plan.allowMid ? occasionPool(list, isMid, context) : [];
-  let accessories = occasionPool(list, (item) => item.category === "accessory", context);
-  accessories = accessories.slice().sort((a, b) => a.id.localeCompare(b.id));
-  const sets = accessorySets(accessories);
-  const layers = layerChoices(context.tempC, mids, outers);
+  let outers = fillSlot(list, isOuter, context, "outer");
+  if (plan.lightOuterOnly) {
+    const light = outers.pool.filter(isLightOuter);
+    outers = { pool: light, notes: light.length ? outers.notes : [] };
+  }
+  const mids = plan.allowMid ? fillSlot(list, isMid, context, "mid") : { pool: [], notes: [] };
+  const accessories = fillSlot(list, (item) => item.category === "accessory", context, "accessory");
+  const layers = layerChoices(context.tempC, mids.pool, outers.pool);
+  const coreNotes = uniqueNotes([...bottoms.notes, ...bases.notes, ...shoes.notes]);
   const bestByCore = new Map();
 
-  for (const bottom of bottoms) {
-    for (const base of bases) {
-      for (const shoe of shoes) {
+  for (const bottom of bottoms.pool) {
+    for (const base of bases.pool) {
+      for (const shoe of shoes.pool) {
         for (const layer of layers) {
+          const notes = uniqueNotes([
+            ...coreNotes,
+            ...(layer.outer ? outers.notes : []),
+            ...(layer.mid ? mids.notes : []),
+            layer.note,
+          ]);
+          const slots = {
+            outer: layer.outer,
+            mid: layer.mid,
+            base,
+            bottom,
+            shoes: shoe,
+            accessories: [],
+            notes,
+          };
+          const scored = finish(slots, context);
+          if (!scored) continue;
           const coreKey = [layer.outer?.id || "-", layer.mid?.id || "-", base.id, bottom.id, shoe.id].join("/");
-          for (const accessoriesOfLook of sets) {
-            const slots = {
-              outer: layer.outer,
-              mid: layer.mid,
-              base,
-              bottom,
-              shoes: shoe,
-              accessories: accessoriesOfLook,
-            };
-            const scored = finish(slots, context);
-            if (!scored) continue;
-            const prev = bestByCore.get(coreKey);
-            if (!prev || scored.score > prev.score || (scored.score === prev.score && scored.itemIds.join() < prev.itemIds.join())) {
-              bestByCore.set(coreKey, scored);
-            }
-          }
+          remember(bestByCore, coreKey, scored);
         }
       }
     }
   }
 
-  return [...bestByCore.values()].sort((a, b) => (
+  return withAccessories([...bestByCore.values()], accessories, context).sort((a, b) => (
     b.score - a.score || a.itemIds.join().localeCompare(b.itemIds.join())
   ));
 }
@@ -389,18 +512,14 @@ export function compatiblePieces(outfit, slot, items, ctx) {
     wearLog: ctx?.wearLog || [],
   };
   const plan = layerPlan(context.tempC);
-  const pool = (items || []).filter((item) => {
-    if (!item || item.status !== "owned") return false;
-    if (current && item.id === current.id) return false;
-    if (!matchesKind(item, parsed.kind)) return false;
-    if (!tempOk(item, context.tempC)) return false;
-    if (parsed.kind === "outer" && plan.lightOuterOnly && !isLightOuter(item)) return false;
-    return true;
-  });
-  const rainLimited = (parsed.kind === "outer" || parsed.kind === "shoes") && context.rain && pool.some((item) => item.weather?.rainOk);
+  let pool = fillSlot(items, (item) => matchesKind(item, parsed.kind), context, parsed.kind, false).pool;
+  if (current) pool = pool.filter((item) => item.id !== current.id);
+  if (parsed.kind === "outer" && plan.lightOuterOnly) {
+    const light = pool.filter(isLightOuter);
+    if (light.length) pool = light;
+  }
   return pool
     .filter((item) => {
-      if (rainLimited && !item.weather?.rainOk) return false;
       if (parsed.kind === "accessory") {
         const others = (slots.accessories || []).filter((_, index) => index !== parsed.index);
         if (others.some((other) => other.subCategory === item.subCategory)) return false;
@@ -414,6 +533,7 @@ export function compatiblePieces(outfit, slot, items, ctx) {
 export function swapPiece(outfit, slot, item, _items, ctx) {
   const parsed = parseSlot(slot);
   const slots = replaceSlot(outfit.slots || outfit, parsed, item);
+  slots.notes = (outfit.slots || outfit).notes;
   const context = {
     tempC: ctx?.tempC ?? 16,
     rain: !!ctx?.rain,

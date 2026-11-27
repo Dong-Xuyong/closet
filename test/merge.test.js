@@ -192,9 +192,18 @@ test("image field resolves relative paths, urls, and data-urls", () => {
 test("bundled seed uses image paths and keeps the mafia outfit", () => {
   const seed = JSON.parse(fs.readFileSync(new URL("../data/seed-closet.json", import.meta.url), "utf8"));
   assert.equal(seed.app, "closet");
-  assert.equal(seed.items.length, 104);
+  assert.equal(seed.items.length, 157);
+  const owned = seed.items.filter((piece) => piece.status === "owned");
+  assert.equal(owned.length, 125);
+  const ownedByCategory = {};
+  for (const piece of owned) ownedByCategory[piece.category] = (ownedByCategory[piece.category] || 0) + 1;
+  assert.equal(ownedByCategory.bottom, 28);
+  assert.equal(ownedByCategory.top, 54);
+  assert.equal(ownedByCategory.outerwear, 14);
+  assert.equal(ownedByCategory.accessory, 14);
+  assert.equal(ownedByCategory.shoes, 15);
   const imaged = seed.items.filter((piece) => piece.image);
-  assert.equal(imaged.length, 86);
+  assert.equal(imaged.length, 137);
   for (const piece of seed.items) {
     assert.equal("photo" in piece, false);
     if (piece.image != null) {
