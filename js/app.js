@@ -1,6 +1,7 @@
 import { compatiblePieces, scoreOutfit, suggestOutfits, swapPiece } from "./engine.js";
 import { forecastFromMeteo } from "./weather.js";
 import { mergeCloset } from "./merge.js";
+import { SEED_URL, autoLoadCloset, mergeSeedIntoCache, readGithubToken } from "./startup.js";
 import {
   archiveItem,
   blankItem,
@@ -95,12 +96,7 @@ function toast(message) {
 }
 
 function githubLinked() {
-  try {
-    const cfg = JSON.parse(localStorage.getItem("dong-gh-sync") || "null");
-    return !!(cfg && cfg.token);
-  } catch {
-    return false;
-  }
+  return readGithubToken(localStorage);
 }
 
 function persist() {
@@ -1066,28 +1062,42 @@ function restoreWeather() {
   }
 }
 
+function startQuietSync() {
+  const pending = autoLoadCloset(localStorage, globalThis.GhSync, applyRemote);
+  if (!pending || typeof pending.then !== "function") return;
+  pending.catch((error) => {
+    toast(error?.message || "Couldn't refresh from GitHub");
+  });
+}
+
 async function boot() {
+  let cached = null;
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) state = normalizeCloset(JSON.parse(raw));
+    if (raw) cached = normalizeCloset(JSON.parse(raw));
   } catch {
-    state = null;
+    cached = null;
   }
-  if (!state) {
-    try {
-      const response = await fetch("data/seed-closet.json");
-      if (!response.ok) throw new Error("seed");
-      state = normalizeCloset(await response.json());
-    } catch {
-      state = normalizeCloset({});
-      toast("Couldn't load the starter wardrobe.");
-    }
-    persist();
+  let seed = null;
+  try {
+    const response = await fetch(SEED_URL, { cache: "no-store" });
+    if (response.ok) seed = await response.json();
+  } catch {
+    seed = null;
+  }
+  const merged = mergeSeedIntoCache(cached, seed);
+  if (merged) {
+    state = normalizeCloset(merged);
+    if (seed) persist();
+  } else {
+    state = normalizeCloset({});
+    toast("Couldn't load the starter wardrobe.");
   }
   restoreWeather();
   recompute();
   render();
   if (!ui.weather.manual) loadWeather();
+  startQuietSync();
 }
 
 document.addEventListener("click", onClick);

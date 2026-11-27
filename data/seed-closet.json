@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-26T23:27:08+00:00",
+  "updatedAt": "2026-11-27T00:18:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -14,6 +14,2657 @@
     "lon": -8.2918
   },
   "items": [
+    {
+      "id": "cl_nike_navy_fleece_joggers",
+      "name": "Nike dark navy fleece joggers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "joggers",
+      "layer": null,
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "sport",
+      "fit": "relaxed",
+      "care": {
+        "brand": "Nike",
+        "size": null,
+        "fabric": "cotton fleece",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar do avesso a frio para conservar o azul-marinho."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 3,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "grey",
+          "beige",
+          "navy",
+          "green",
+          "hoodie",
+          "tshirt"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Conforto total para viagens de arbitragem, pós-treino ou dias relaxados."
+      },
+      "image": "images/cl_nike_navy_fleece_joggers.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-27T00:00:52+00:00",
+        "updatedAt": "2026-11-27T00:00:52+00:00"
+      }
+    },
+    {
+      "id": "cl_black_3stripe_joggers",
+      "name": "Black fleece joggers (3 horizontal stripes)",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "joggers",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "striped"
+      },
+      "formality": "sport",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton fleece",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 3,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "white",
+          "ecru",
+          "grey",
+          "green",
+          "hoodie",
+          "tshirt",
+          "vest"
+        ],
+        "avoidWith": [
+          "navy",
+          "striped"
+        ],
+        "notes": "Usar com parte de cima lisa (t-shirt preta/crua, Nike ACG verde ou colete acolchoado preto)."
+      },
+      "image": "images/cl_black_3stripe_joggers.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-27T00:00:52+00:00",
+        "updatedAt": "2026-11-27T00:00:52+00:00"
+      }
+    },
+    {
+      "id": "cl_nike_acg_green_tee",
+      "name": "Nike ACG Dri-FIT ADV pine green t-shirt (L)",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "tshirt",
+      "layer": "base",
+      "colors": {
+        "primary": "green",
+        "secondary": [
+          "ecru"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "oversized",
+      "care": {
+        "brand": "Nike ACG",
+        "size": "L",
+        "fabric": "Dri-FIT ADV cotton/poly blend",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Sem amaciador para preservar a respirabilidade Dri-FIT."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 14,
+        "tempMaxC": 30,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "beige",
+          "ecru",
+          "navy",
+          "light-blue",
+          "blue",
+          "grey"
+        ],
+        "avoidWith": [
+          "red"
+        ],
+        "notes": "Verde-pinheiro discreto muito bonito: fica ótimo em looks outdoor/casual com ganga preta lavada, chinos creme ou calças técnicas."
+      },
+      "image": "images/cl_nike_acg_green_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T00:00:52+00:00",
+        "updatedAt": "2026-11-27T00:00:52+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_nylon_track_pants",
+      "name": "Dark navy technical zip-pocket track pants",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "joggers",
+      "layer": null,
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "sport",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "lightweight technical nylon",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Fechar os bolsos antes de lavar; secagem rápida."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 6,
+        "tempMaxC": 22,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "referee-travel",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "grey",
+          "green",
+          "navy",
+          "tshirt",
+          "hoodie",
+          "vest"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Super práticas para deslocações de arbitragem, treino leve ou dias chuvosos casuais."
+      },
+      "image": "images/cl_navy_nylon_track_pants.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-27T00:00:52+00:00",
+        "updatedAt": "2026-11-27T00:00:52+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_cashmere_charcoal_m",
+      "name": "Zara cotton-cashmere charcoal crewneck jumper (M)",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "crewneck",
+      "layer": "mid",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "brown"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "M",
+        "fabric": "cotton-cashmere blend",
+        "washTempC": 30,
+        "washMethod": "hand",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Ref. 2893/331/816 (PVP 39,95 €). Lavar à mão a frio com detergente para lã/caxemira e secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "ecru",
+          "beige",
+          "white",
+          "blue",
+          "light-blue",
+          "brown",
+          "camel",
+          "shirt"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Malha de luxo silencioso: usa sozinha ou sobre a camisa azul-claro Zara / camisa Sacoor creme, com chinos creme ou ganga."
+      },
+      "image": "images/cl_zara_cashmere_charcoal_m.webp",
+      "meta": {
+        "priceEur": 39.95,
+        "productUrl": null,
+        "purchasedAt": "2026-11-26",
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:58:53+00:00",
+        "updatedAt": "2026-11-26T23:58:53+00:00"
+      }
+    },
+    {
+      "id": "cl_pepe_jeans_mid_blue",
+      "name": "Pepe Jeans medium-indigo jeans",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "jeans",
+      "layer": null,
+      "colors": {
+        "primary": "blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Pepe Jeans",
+        "size": null,
+        "fabric": "cotton denim",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar do avesso a frio para manter o índigo médio."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 25,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "beige",
+          "camel",
+          "brown",
+          "black",
+          "navy",
+          "grey",
+          "red",
+          "light-blue"
+        ],
+        "avoidWith": [],
+        "notes": "A ganga mais versátil do armário: combina tanto com casacos castanhos/bege como com camisolas pretas ou cinza-carvão."
+      },
+      "image": "images/cl_pepe_jeans_mid_blue.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:58:53+00:00",
+        "updatedAt": "2026-11-26T23:58:53+00:00"
+      }
+    },
+    {
+      "id": "cl_yifanfushi_brown_jacket",
+      "name": "Yifanfushi dark olive-brown button jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "brown",
+        "secondary": [
+          "olive"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Yifanfushi",
+        "size": null,
+        "fabric": "cotton/poly twill, lined",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Forro interior liso; ótima para meia-estação e dias frescos secos."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 19,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "ecru",
+          "white",
+          "beige",
+          "black",
+          "blue",
+          "light-blue",
+          "camel"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Alternativa mais leve e limpa ao casaco de bombazina castanho; ótima com chinos creme ou ganga."
+      },
+      "image": "images/cl_yifanfushi_brown_jacket.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:58:53+00:00",
+        "updatedAt": "2026-11-26T23:58:53+00:00"
+      }
+    },
+    {
+      "id": "cl_camel_corduroy_shacket",
+      "name": "Camel-taupe corduroy overshirt shacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "shacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "camel",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton corduroy",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Lavar do avesso a frio; usar aberta sobre t-shirt ou fechada como sobrecamisa."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 20,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "black",
+          "navy",
+          "light-blue",
+          "blue",
+          "charcoal"
+        ],
+        "avoidWith": [
+          "camel",
+          "brown"
+        ],
+        "notes": "Fica excelente aberta sobre a t-shirt preta Zara ou a t-shirt crua, com ganga preta lavada ou azul."
+      },
+      "image": "images/cl_camel_corduroy_shacket.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:58:53+00:00",
+        "updatedAt": "2026-11-26T23:58:53+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_tailored_trousers",
+      "name": "Dark navy tailored dress trousers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": null,
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "formal",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "wool/suiting blend",
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Limpeza a seco ou programa delicado a frio conforme etiqueta; manter o vinco."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 6,
+        "tempMaxC": 23,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "interview",
+        "work",
+        "date",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "light-blue",
+          "beige",
+          "camel",
+          "grey",
+          "navy",
+          "shirt",
+          "turtleneck",
+          "polo"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Alternativa mais formal aos chinos azul-marinho; perfeitas com a camisa azul-gelo Zara, a camisa Sacoor creme ou o blazer xadrez."
+      },
+      "image": "images/cl_navy_tailored_trousers.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_black_basic_tee",
+      "name": "Zara plain black crewneck t-shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "tshirt",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": null,
+        "fabric": "100% cotton jersey",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar com roupa escura a 30 °C."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 30,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "grey",
+          "light-blue",
+          "beige",
+          "ecru",
+          "brown",
+          "camel"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Essencial de base limpa por baixo de qualquer blazer, sobrecamisa ou casaco de bombazina."
+      },
+      "image": "images/cl_zara_black_basic_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_cream_chinos",
+      "name": "Warm cream cotton twill chinos",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "chinos",
+      "layer": null,
+      "colors": {
+        "primary": "ecru",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton twill",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Lavar apenas com cores claras; atenção em dias de chuva."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 28,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "date",
+        "everyday",
+        "work",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "navy",
+          "brown",
+          "black",
+          "light-blue",
+          "blue",
+          "camel",
+          "olive",
+          "grey"
+        ],
+        "avoidWith": [
+          "ecru",
+          "white"
+        ],
+        "notes": "Eleva qualquer look instantaneamente: fica brutal com o casaco de bombazina castanho, o polo preto Massimo Dutti ou a gola alta azul-marinho."
+      },
+      "image": "images/cl_cream_chinos.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_chinos",
+      "name": "Dark navy cotton twill chinos",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "chinos",
+      "layer": null,
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton twill",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 24,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "everyday",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "beige",
+          "camel",
+          "light-blue",
+          "grey",
+          "brown",
+          "red"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Clássico infalível com a camisa Sacoor creme, a camisa azul-claro Zara ou a gabardina bege Lion of Porches."
+      },
+      "image": "images/cl_navy_chinos.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_brown_corduroy_trousers",
+      "name": "Olive-brown wide-wale corduroy trousers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": null,
+      "colors": {
+        "primary": "brown",
+        "secondary": [
+          "olive"
+        ],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "smart-casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "wide-wale cotton corduroy",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Lavar do avesso; vaporizar em vez de passar a ferro direto para não achatar o veludo."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "ecru",
+          "white",
+          "beige",
+          "navy",
+          "black",
+          "camel",
+          "light-blue"
+        ],
+        "avoidWith": [
+          "brown"
+        ],
+        "notes": "Textura de inverno espetacular; combinar com parte de cima lisa (gola alta preta ou azul-marinho, camisola crua/bege). Evitar usar junto com o casaco de bombazina castanho."
+      },
+      "image": "images/cl_brown_corduroy_trousers.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_black_chinos",
+      "name": "Black cotton twill chinos",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "chinos",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton twill",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Lavar do avesso a frio com peças escuras para manter o preto vivo."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 24,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "everyday",
+        "date",
+        "night-out",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "white",
+          "ecru",
+          "beige",
+          "grey",
+          "light-blue",
+          "camel",
+          "red",
+          "brown"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Super versáteis para trabalho, encontros ou festa 2000s (se quiseres algo mais limpo do que ganga)."
+      },
+      "image": "images/cl_black_chinos.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:56:32+00:00",
+        "updatedAt": "2026-11-26T23:56:32+00:00"
+      }
+    },
+    {
+      "id": "cl_washed_black_straight_jeans",
+      "name": "Washed black straight-leg jeans",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "jeans",
+      "layer": null,
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "charcoal"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton denim",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar do avesso a frio com roupa escura para não desbotar em excesso."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 23,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "night-out",
+        "date",
+        "party",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "white",
+          "ecru",
+          "beige",
+          "grey",
+          "red",
+          "camel",
+          "brown",
+          "light-blue"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Base perfeita para looks escuros (sobretudo preto + gola alta preta) ou streetwear com as t-shirts oversized."
+      },
+      "image": "images/cl_washed_black_straight_jeans.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:55:28+00:00",
+        "updatedAt": "2026-11-26T23:55:28+00:00"
+      }
+    },
+    {
+      "id": "cl_light_blue_straight_jeans",
+      "name": "Light-wash blue straight-leg jeans",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "jeans",
+      "layer": null,
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "100% cotton denim",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar do avesso e com pouca frequência para preservar a lavagem clara."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 25,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "beige",
+          "black",
+          "navy",
+          "brown",
+          "camel",
+          "red"
+        ],
+        "avoidWith": [
+          "light-blue"
+        ],
+        "notes": "Excelente com o casaco de bombazina castanho, o casaco encerado, a camisola camel ou t-shirts oversized."
+      },
+      "image": "images/cl_light_blue_straight_jeans.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:55:28+00:00",
+        "updatedAt": "2026-11-26T23:55:28+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_ice_blue_concealed_shirt",
+      "name": "Zara ice-blue concealed-placket formal shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "formal",
+      "fit": "slim",
+      "care": {
+        "brand": "Zara",
+        "size": null,
+        "fabric": "poplin cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Carcela de botões oculta; engomar a vapor/médio para manter o aspeto limpo de fato."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 26,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "interview",
+        "work",
+        "party",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "cl_charcoal_suit_blazer",
+          "cl_charcoal_suit_trousers",
+          "charcoal",
+          "navy",
+          "black",
+          "grey"
+        ],
+        "avoidWith": [
+          "light-blue"
+        ],
+        "notes": "A melhor camisa do armário para usar com o fato cinza-escuro em entrevistas ou eventos formais."
+      },
+      "image": "images/cl_zara_ice_blue_concealed_shirt.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:55:28+00:00",
+        "updatedAt": "2026-11-26T23:55:28+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_light_blue_oxford_shirt",
+      "name": "Zara Man light blue slim-fit shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "slim",
+      "care": {
+        "brand": "Zara",
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Zara Man Basic Slim Fit com botões claros; ótima para usar solta ou por baixo de malhas."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 27,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "navy",
+          "charcoal",
+          "black",
+          "beige",
+          "brown",
+          "camel",
+          "grey"
+        ],
+        "avoidWith": [
+          "light-blue"
+        ],
+        "notes": "Básico versátil: funciona muito bem por baixo do casaco de bombazina castanho, da gabardina bege ou das camisolas azul-marinho."
+      },
+      "image": "images/cl_zara_light_blue_oxford_shirt.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:55:28+00:00",
+        "updatedAt": "2026-11-26T23:55:28+00:00"
+      }
+    },
+    {
+      "id": "cl_glenplaid_tweed_blazer",
+      "name": "Grey-beige Glen plaid textured blazer",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "blazer",
+      "layer": "outer",
+      "colors": {
+        "primary": "grey",
+        "secondary": [
+          "beige",
+          "brown"
+        ],
+        "tone": "earth",
+        "pattern": "checked"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "textured wool/tweed blend",
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Limpeza a seco; botões castanhos. Padrão Príncipe de Gales."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 7,
+        "tempMaxC": 19,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "date",
+        "work",
+        "party",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "ecru",
+          "white",
+          "navy",
+          "charcoal",
+          "blue",
+          "turtleneck",
+          "polo"
+        ],
+        "avoidWith": [
+          "striped",
+          "dotted"
+        ],
+        "notes": "Padrão xadrez já chama atenção — combinar com peças lisas (gola alta preta ou camisa Sacoor creme + calças escuras ou ganga)."
+      },
+      "image": "images/cl_glenplaid_tweed_blazer.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:52:02+00:00",
+        "updatedAt": "2026-11-26T23:52:02+00:00"
+      }
+    },
+    {
+      "id": "cl_charcoal_suit_trousers",
+      "name": "Dark charcoal tailored suit trousers",
+      "status": "owned",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": null,
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "formal",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "wool/suiting blend",
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Limpeza a seco; manter vinco frontal. Conjunto com o blazer cinza-escuro."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 6,
+        "tempMaxC": 22,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "interview",
+        "work",
+        "party",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "cl_charcoal_suit_blazer",
+          "black",
+          "white",
+          "ecru",
+          "light-blue",
+          "navy",
+          "turtleneck",
+          "polo",
+          "shirt"
+        ],
+        "avoidWith": [],
+        "notes": "Super versáteis também fora do fato: ficam ótimas com a gola alta preta ou o polo Massimo Dutti."
+      },
+      "image": "images/cl_charcoal_suit_trousers.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:52:02+00:00",
+        "updatedAt": "2026-11-26T23:52:02+00:00"
+      }
+    },
+    {
+      "id": "cl_charcoal_suit_blazer",
+      "name": "Dark charcoal tailored suit blazer",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "blazer",
+      "layer": "outer",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "formal",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "wool/suiting blend",
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Limpeza a seco; vaporizar em cabide largo. Faz conjunto com as calças de fato cinza-escuro."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 22,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "interview",
+        "work",
+        "party",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "cl_charcoal_suit_trousers",
+          "white",
+          "ecru",
+          "black",
+          "light-blue",
+          "blue",
+          "turtleneck",
+          "shirt"
+        ],
+        "avoidWith": [
+          "brown"
+        ],
+        "notes": "Fato completo com as calças a condizer, ou smart-casual sobre a gola alta preta / camisa Sacoor creme."
+      },
+      "image": "images/cl_charcoal_suit_blazer.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:52:02+00:00",
+        "updatedAt": "2026-11-26T23:52:02+00:00"
+      }
+    },
+    {
+      "id": "cl_md_brown_corduroy_jacket",
+      "name": "Massimo Dutti brown corduroy quilted jacket",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": null,
+        "fabric": "wide-wale corduroy, quilted lining",
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Bombazina castanha escura com forro acolchoado; evitar chuva forte."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "ecru",
+          "white",
+          "beige",
+          "blue",
+          "light-blue",
+          "black",
+          "camel"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Peça estrela de outono/inverno: fica brutal com t-shirt crua/bege ou gola alta preta e ganga."
+      },
+      "image": "images/cl_md_brown_corduroy_jacket.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:52:02+00:00",
+        "updatedAt": "2026-11-26T23:52:02+00:00"
+      }
+    },
+    {
+      "id": "cl_brown_waxed_barn_jacket",
+      "name": "Dark brown waxed barn jacket (corduroy collar)",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "waxed/matte cotton, corduroy collar, quilted lining",
+        "washTempC": 0,
+        "washMethod": "wipe",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Limpar com pano húmido ou seguir etiqueta física; não lavar a alta temperatura."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 17,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "ecru",
+          "white",
+          "beige",
+          "blue",
+          "light-blue",
+          "navy",
+          "camel"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Estilo heritage super atual; combina na perfeição com a camisa Sacoor creme, ganga azul ou chinos bege."
+      },
+      "image": "images/cl_brown_waxed_barn_jacket.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:50:57+00:00",
+        "updatedAt": "2026-11-26T23:50:57+00:00"
+      }
+    },
+    {
+      "id": "cl_lion_of_porches_beige_mac",
+      "name": "Lion of Porches beige mac trench coat",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "coat",
+      "layer": "outer",
+      "colors": {
+        "primary": "beige",
+        "secondary": [
+          "navy"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Lion of Porches",
+        "size": null,
+        "fabric": "water-repellent cotton/poly blend",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Costuras seladas no interior; ótimo contra chuva ligeira. Confirmar etiqueta física."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 7,
+        "tempMaxC": 18,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "date",
+        "interview",
+        "everyday",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "charcoal",
+          "white",
+          "blue",
+          "light-blue",
+          "turtleneck",
+          "polo",
+          "shirt"
+        ],
+        "avoidWith": [
+          "beige"
+        ],
+        "notes": "Peça elevadíssima: fica incrível sobre a gola alta preta ou azul-marinho e o polo Massimo Dutti."
+      },
+      "image": "images/cl_lion_of_porches_beige_mac.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:50:57+00:00",
+        "updatedAt": "2026-11-26T23:50:57+00:00"
+      }
+    },
+    {
+      "id": "cl_black_puffer_vest",
+      "name": "Black quilted puffer vest",
+      "status": "owned",
+      "category": "outerwear",
+      "subCategory": "vest",
+      "layer": "outer",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "nylon / quilted synthetic",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Fechar o fecho antes de lavar; não passar a ferro."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 17,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "ecru",
+          "grey",
+          "charcoal",
+          "camel",
+          "red",
+          "blue",
+          "light-blue",
+          "hoodie",
+          "crewneck"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Excelente camada intermédia ou externa sobre camisola de malha ou hoodie em dias frescos."
+      },
+      "image": "images/cl_black_puffer_vest.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:50:57+00:00",
+        "updatedAt": "2026-11-26T23:50:57+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_mockneck_argyle_knit",
+      "name": "Navy textured mock-neck sweater",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "crewneck",
+      "layer": "mid",
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "textured"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Ombros texturados e detalhe geométrico tonal; lavar delicado a 30°C e secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "grey",
+          "light-blue",
+          "white",
+          "camel"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Fica muito bem com chinos bege ou ganga clara."
+      },
+      "image": "images/cl_navy_mockneck_argyle_knit.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:48:49+00:00",
+        "updatedAt": "2026-11-26T23:48:49+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_microprint_shirt",
+      "name": "Slate navy micro-print shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "cool",
+        "pattern": "dotted"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Botões castanhos de contraste e bolso no peito; lavar do avesso."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 24,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "night-out",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "black",
+          "grey",
+          "light-blue",
+          "brown"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Os botões castanhos ligam muito bem com chinos bege ou o casaco castanho."
+      },
+      "image": "images/cl_navy_microprint_shirt.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:48:49+00:00",
+        "updatedAt": "2026-11-26T23:48:49+00:00"
+      }
+    },
+    {
+      "id": "cl_blue_striped_shirt",
+      "name": "Blue-and-white striped dress shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "blue",
+        "secondary": [
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "striped"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Riscas verticais azuis e brancas; passar a ferro médio."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 28,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "work",
+        "interview",
+        "date",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "navy",
+          "beige",
+          "black",
+          "grey",
+          "charcoal",
+          "coat"
+        ],
+        "avoidWith": [],
+        "notes": "Clássica com chinos bege ou calças azul-marinho/pretas; ótima debaixo de malha cinza ou casaco."
+      },
+      "image": "images/cl_blue_striped_shirt.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:48:49+00:00",
+        "updatedAt": "2026-11-26T23:48:49+00:00"
+      }
+    },
+    {
+      "id": "cl_sacoor_cream_shirt",
+      "name": "Sacoor Brothers cream slim-fit shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "ecru",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "slim",
+      "care": {
+        "brand": "Sacoor Brothers",
+        "size": "M",
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Slim Fit, tamanho M. Passar ligeiramente húmida."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 28,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "beige",
+          "blue",
+          "brown",
+          "charcoal",
+          "coat"
+        ],
+        "avoidWith": [],
+        "notes": "Camisa super limpa; funciona fechada para entrevistas/encontros ou por baixo de malhas e casacos."
+      },
+      "image": "images/cl_sacoor_cream_shirt.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:48:49+00:00",
+        "updatedAt": "2026-11-26T23:48:49+00:00"
+      }
+    },
+    {
+      "id": "cl_hm_black_oversized_tee",
+      "name": "H&M washed black oversized t-shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "oversized",
+      "care": {
+        "brand": "H&M",
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Preto lavado/mate, corte boxy oversized. Lavar com cores escuras."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "night-out",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "light-blue",
+          "blue",
+          "beige",
+          "black",
+          "grey",
+          "silver"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Ótima com ganga clara ou média e acessórios prateados; equilibrar com calças retas."
+      },
+      "image": "images/cl_hm_black_oversized_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:47:26+00:00",
+        "updatedAt": "2026-11-26T23:47:26+00:00"
+      }
+    },
+    {
+      "id": "cl_beige_oversized_tee",
+      "name": "Sand beige oversized t-shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "beige",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "oversized",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Algodão mais encorpado, corte oversized."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 14,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "blue",
+          "light-blue",
+          "brown",
+          "charcoal"
+        ],
+        "avoidWith": [
+          "beige"
+        ],
+        "notes": "Fica excelente com calças pretas ou ganga azul; evitar chinos exatamente do mesmo bege."
+      },
+      "image": "images/cl_beige_oversized_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:47:26+00:00",
+        "updatedAt": "2026-11-26T23:47:26+00:00"
+      }
+    },
+    {
+      "id": "cl_youka_ecru_oversized_tee",
+      "name": "YOUKA ecru oversized t-shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "ecru",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "oversized",
+      "care": {
+        "brand": "YOUKA",
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Bordado tonal discreto no peito; corte boxy oversized."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "blue",
+          "light-blue",
+          "brown",
+          "charcoal",
+          "coat"
+        ],
+        "avoidWith": [],
+        "notes": "Base limpa e versátil; equilibrar o corte oversized com calças de corte regular/straight."
+      },
+      "image": "images/cl_youka_ecru_oversized_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:47:26+00:00",
+        "updatedAt": "2026-11-26T23:47:26+00:00"
+      }
+    },
+    {
+      "id": "cl_dickies_white_graphic_tee",
+      "name": "Dickies Macho Beard Co. graphic tee",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "ecru",
+        "secondary": [
+          "black"
+        ],
+        "tone": "neutral",
+        "pattern": "graphic"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Dickies",
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Lavar e passar do avesso para proteger o estampado."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "tempMinC": 14,
+        "tempMaxC": 35,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "blue",
+          "light-blue",
+          "brown",
+          "puffer"
+        ],
+        "avoidWith": [],
+        "notes": "Estampado forte; combinar com calças e casaco lisos."
+      },
+      "image": "images/cl_dickies_white_graphic_tee.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:47:26+00:00",
+        "updatedAt": "2026-11-26T23:47:26+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_halfzip_knit",
+      "name": "Essentials dark navy half-zip sweater",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "half-zip",
+      "layer": "mid",
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Essentials",
+        "size": null,
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Etiqueta 'essentials - Designed in Portugal'. Fechar o fecho antes de lavar."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "white",
+          "grey",
+          "light-blue",
+          "camel",
+          "brown"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Super versátil por cima de t-shirt branca ou camisa clara; excelente com chinos bege."
+      },
+      "image": "images/cl_navy_halfzip_knit.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:45:30+00:00",
+        "updatedAt": "2026-11-26T23:45:30+00:00"
+      }
+    },
+    {
+      "id": "cl_red_halfzip_knit",
+      "name": "Red fine-knit half-zip sweater",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "half-zip",
+      "layer": "mid",
+      "colors": {
+        "primary": "red",
+        "secondary": [],
+        "tone": "accent",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Fechar o fecho antes de lavar a 30°C delicado; secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 5,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "blue",
+          "beige",
+          "white"
+        ],
+        "avoidWith": [
+          "red",
+          "purple"
+        ],
+        "notes": "Peça de destaque; manter calças e casaco em tons neutros (preto, marinho ou ganga)."
+      },
+      "image": "images/cl_red_halfzip_knit.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:45:30+00:00",
+        "updatedAt": "2026-11-26T23:45:30+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_turtleneck",
+      "name": "Navy fine-knit turtleneck",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "turtleneck",
+      "layer": "base",
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Confirmar marca/tamanho na etiqueta; lavar a 30°C delicado e secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "camel",
+          "grey",
+          "charcoal",
+          "white",
+          "light-blue",
+          "brown"
+        ],
+        "avoidWith": [
+          "black"
+        ],
+        "notes": "Fica top com chinos bege, calças cinza ou ganga clara."
+      },
+      "image": "images/cl_navy_turtleneck.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:45:30+00:00",
+        "updatedAt": "2026-11-26T23:45:30+00:00"
+      }
+    },
+    {
+      "id": "cl_md_knit_polo_black",
+      "name": "Massimo Dutti black 4-button knit polo",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": null,
+        "fabric": "100% cotton",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "100% algodão; 4 botões. Lavar a 30°C delicado e secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 10,
+        "tempMaxC": 21,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "night-out",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "beige",
+          "black",
+          "blue",
+          "light-blue",
+          "charcoal",
+          "coat"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Excelente com chinos bege ou calças pretas; funciona bem debaixo do sobretudo."
+      },
+      "image": "images/cl_md_knit_polo_black.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:45:30+00:00",
+        "updatedAt": "2026-11-26T23:45:30+00:00"
+      }
+    },
+    {
+      "id": "cl_black_turtleneck",
+      "name": "Black fine-knit turtleneck",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "turtleneck",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Confirmar marca, tamanho e etiqueta física; lavar a 30°C delicado e secar na horizontal."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 17,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "party",
+        "date",
+        "night-out",
+        "work",
+        "2000s"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "beige",
+          "blue",
+          "light-blue",
+          "silver",
+          "coat",
+          "chain"
+        ],
+        "avoidWith": [
+          "navy"
+        ],
+        "notes": "Fica excelente por baixo do sobretudo preto com o fio prateado por fora da gola."
+      },
+      "image": "images/cl_black_turtleneck.webp",
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-26T23:40:04+00:00",
+        "updatedAt": "2026-11-26T23:40:04+00:00"
+      }
+    },
     {
       "id": "cl_black_trousers",
       "name": "Black trousers",
@@ -366,12 +3017,12 @@
       "care": {
         "brand": "Springfield",
         "size": "M",
-        "fabric": null,
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
+        "fabric": "fine-gauge knit",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Urban Daily, tamanho M. Bordado vermelho 'Just a Biker' no peito."
       },
       "weather": {
         "seasons": [
@@ -394,14 +3045,16 @@
           "blue",
           "light-blue",
           "navy",
-          "white"
+          "white",
+          "coat"
         ],
         "avoidWith": [
           "camel",
           "beige"
         ],
-        "notes": "Small red 'Just a Biker' chest embroidery; casual everyday knit."
+        "notes": "Ótima com ganga azul média e sobretudo preto."
       },
+      "image": "images/cl_springfield_camel_crewneck.webp",
       "meta": {
         "priceEur": null,
         "productUrl": null,
@@ -409,10 +3062,9 @@
         "lastWornAt": null,
         "wearCount": 0,
         "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
+        "createdAt": "2026-11-26T23:45:30+00:00",
+        "updatedAt": "2026-11-26T23:45:30+00:00"
+      }
     },
     {
       "id": "cl_light_blue_shirt",
@@ -547,7 +3199,7 @@
     },
     {
       "id": "cl_red_striped_shirt",
-      "name": "Red-striped shirt",
+      "name": "Pepe Jeans red-striped shirt",
       "status": "owned",
       "category": "top",
       "subCategory": "shirt",
@@ -563,14 +3215,14 @@
       "formality": "smart-casual",
       "fit": "regular",
       "care": {
-        "brand": null,
-        "size": "M",
-        "fabric": null,
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
+        "brand": "Pepe Jeans",
+        "size": null,
+        "fabric": "cotton",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Pepe Jeans London, riscas finas verticais vermelhas e brancas."
       },
       "weather": {
         "seasons": [
@@ -586,7 +3238,8 @@
       "occasions": [
         "everyday",
         "date",
-        "night-out"
+        "night-out",
+        "work"
       ],
       "pairing": {
         "pairsWellWith": [
@@ -595,9 +3248,13 @@
           "beige",
           "blue"
         ],
-        "avoidWith": [],
-        "notes": "Keep bottoms and outerwear solid neutral."
+        "avoidWith": [
+          "red",
+          "purple"
+        ],
+        "notes": "Manter calças e casaco lisos em tons neutros."
       },
+      "image": "images/cl_red_striped_shirt.webp",
       "meta": {
         "priceEur": null,
         "productUrl": null,
@@ -605,71 +3262,9 @@
         "lastWornAt": null,
         "wearCount": 0,
         "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
-    },
-    {
-      "id": "cl_purple_dotted_shirt",
-      "name": "Purple dotted shirt",
-      "status": "owned",
-      "category": "top",
-      "subCategory": "shirt",
-      "layer": "base",
-      "colors": {
-        "primary": "purple",
-        "secondary": [],
-        "tone": "accent",
-        "pattern": "dotted"
-      },
-      "formality": "smart-casual",
-      "fit": "regular",
-      "care": {
-        "brand": null,
-        "size": "M",
-        "fabric": null,
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
-      },
-      "weather": {
-        "seasons": [
-          "spring",
-          "autumn"
-        ],
-        "tempMinC": 12,
-        "tempMaxC": 24,
-        "rainOk": true,
-        "windOk": false
-      },
-      "occasions": [
-        "date",
-        "night-out",
-        "party"
-      ],
-      "pairing": {
-        "pairsWellWith": [
-          "black",
-          "navy",
-          "grey"
-        ],
-        "avoidWith": [],
-        "notes": "Statement pattern; pair with solid dark trousers."
-      },
-      "meta": {
-        "priceEur": null,
-        "productUrl": null,
-        "purchasedAt": null,
-        "lastWornAt": null,
-        "wearCount": 0,
-        "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
+        "createdAt": "2026-11-26T23:48:49+00:00",
+        "updatedAt": "2026-11-26T23:48:49+00:00"
+      }
     },
     {
       "id": "cl_black_puffer",
@@ -737,14 +3332,16 @@
     },
     {
       "id": "cl_navy_jacket",
-      "name": "Navy jacket",
+      "name": "Navy technical waterproof winter jacket",
       "status": "owned",
       "category": "outerwear",
       "subCategory": "jacket",
       "layer": "outer",
       "colors": {
         "primary": "navy",
-        "secondary": [],
+        "secondary": [
+          "orange"
+        ],
         "tone": "neutral",
         "pattern": "solid"
       },
@@ -752,41 +3349,44 @@
       "fit": "regular",
       "care": {
         "brand": null,
-        "size": "M",
-        "fabric": null,
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
+        "size": null,
+        "fabric": "waterproof technical shell, fleece collar",
+        "washTempC": 30,
+        "washMethod": "delicate",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Warm / Windstop / Waterproof. Não usar amaciador para preservar a impermeabilidade."
       },
       "weather": {
         "seasons": [
-          "spring",
-          "autumn"
+          "autumn",
+          "winter"
         ],
-        "tempMinC": 10,
-        "tempMaxC": 19,
+        "tempMinC": -2,
+        "tempMaxC": 14,
         "rainOk": true,
         "windOk": true
       },
       "occasions": [
         "everyday",
-        "work"
+        "referee-travel"
       ],
       "pairing": {
         "pairsWellWith": [
           "white",
+          "ecru",
           "beige",
-          "camel",
+          "grey",
           "light-blue",
-          "grey"
+          "blue",
+          "camel"
         ],
         "avoidWith": [
           "black"
         ],
-        "notes": ""
+        "notes": "Casaco principal para dias de chuva e vento forte em Guimarães."
       },
+      "image": "images/cl_navy_jacket.webp",
       "meta": {
         "priceEur": null,
         "productUrl": null,
@@ -794,134 +3394,9 @@
         "lastWornAt": null,
         "wearCount": 0,
         "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
-    },
-    {
-      "id": "cl_brown_corduroy_jacket",
-      "name": "Brown corduroy jacket",
-      "status": "owned",
-      "category": "outerwear",
-      "subCategory": "jacket",
-      "layer": "outer",
-      "colors": {
-        "primary": "brown",
-        "secondary": [],
-        "tone": "earth",
-        "pattern": "textured"
-      },
-      "formality": "casual",
-      "fit": "regular",
-      "care": {
-        "brand": null,
-        "size": "M",
-        "fabric": "corduroy",
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
-      },
-      "weather": {
-        "seasons": [
-          "autumn",
-          "winter",
-          "spring"
-        ],
-        "tempMinC": 8,
-        "tempMaxC": 18,
-        "rainOk": false,
-        "windOk": true
-      },
-      "occasions": [
-        "everyday",
-        "date"
-      ],
-      "pairing": {
-        "pairsWellWith": [
-          "white",
-          "beige",
-          "light-blue",
-          "blue",
-          "black"
-        ],
-        "avoidWith": [],
-        "notes": "Avoid heavy rain on corduroy."
-      },
-      "meta": {
-        "priceEur": null,
-        "productUrl": null,
-        "purchasedAt": null,
-        "lastWornAt": null,
-        "wearCount": 0,
-        "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
-    },
-    {
-      "id": "cl_corduroy_shacket",
-      "name": "Corduroy shirt-jacket",
-      "status": "owned",
-      "category": "outerwear",
-      "subCategory": "shirt-jacket",
-      "layer": "mid",
-      "colors": {
-        "primary": "brown",
-        "secondary": [],
-        "tone": "earth",
-        "pattern": "textured"
-      },
-      "formality": "casual",
-      "fit": "relaxed",
-      "care": {
-        "brand": null,
-        "size": "M",
-        "fabric": "corduroy",
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
-      },
-      "weather": {
-        "seasons": [
-          "autumn",
-          "spring"
-        ],
-        "tempMinC": 12,
-        "tempMaxC": 20,
-        "rainOk": false,
-        "windOk": true
-      },
-      "occasions": [
-        "everyday"
-      ],
-      "pairing": {
-        "pairsWellWith": [
-          "white",
-          "black",
-          "light-blue",
-          "blue",
-          "beige"
-        ],
-        "avoidWith": [],
-        "notes": "Great over a white t-shirt."
-      },
-      "meta": {
-        "priceEur": null,
-        "productUrl": null,
-        "purchasedAt": null,
-        "lastWornAt": null,
-        "wearCount": 0,
-        "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
+        "createdAt": "2026-11-26T23:50:57+00:00",
+        "updatedAt": "2026-11-26T23:50:57+00:00"
+      }
     },
     {
       "id": "cl_sneakers",
@@ -1190,8 +3665,8 @@
     },
     {
       "id": "cl_zara_wool_coat_black",
-      "name": "Zara Relaxed Fit Wool Blend Coat",
-      "status": "wishlist",
+      "name": "Zara black wool blend overcoat",
+      "status": "owned",
       "category": "outerwear",
       "subCategory": "coat",
       "layer": "outer",
@@ -1202,16 +3677,16 @@
         "pattern": "solid"
       },
       "formality": "smart-casual",
-      "fit": "relaxed",
+      "fit": "regular",
       "care": {
         "brand": "Zara",
-        "size": "M",
+        "size": null,
         "fabric": "wool blend",
-        "washTempC": null,
-        "washMethod": null,
-        "tumbleDry": null,
-        "iron": null,
-        "notes": ""
+        "washTempC": 0,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "steam",
+        "notes": "Limpeza a seco; escovar após uso e pendurar em cabide estruturado."
       },
       "weather": {
         "seasons": [
@@ -1236,25 +3711,29 @@
           "black",
           "charcoal",
           "white",
+          "ecru",
           "beige",
           "camel",
           "blue",
-          "light-blue"
+          "light-blue",
+          "turtleneck",
+          "polo",
+          "chain"
         ],
         "avoidWith": [],
-        "notes": "Ref 8281/615/800. -40% to 47.97 EUR from 26/11 20:00."
+        "notes": "Peça-chave para o look de festa 2000s (gola alta preta + fio prateado + óculos Massimo Dutti) e para o dia a dia."
       },
+      "image": "images/cl_zara_wool_coat_black.webp",
       "meta": {
-        "priceEur": 47.97,
-        "productUrl": "https://www.zara.com/pt/en/relaxed-fit-wool-blend-coat-p08281615.html?v1=557384786",
+        "priceEur": null,
+        "productUrl": null,
         "purchasedAt": null,
         "lastWornAt": null,
         "wearCount": 0,
-        "favorite": false,
-        "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
-      },
-      "image": null
+        "favorite": true,
+        "createdAt": "2026-11-26T23:52:02+00:00",
+        "updatedAt": "2026-11-26T23:52:02+00:00"
+      }
     },
     {
       "id": "cl_zara_cotton_cashmere_charcoal",
@@ -1641,6 +4120,2520 @@
         "updatedAt": "2026-11-26T23:27:08+00:00"
       },
       "image": null
+    },
+    {
+      "id": "cl_mike_davis_navy_hoodie",
+      "name": "Hoodie Mike Davis azul-marinho",
+      "brand": "Mike Davis",
+      "category": "top",
+      "subCategory": "hoodie",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "red",
+        "grey"
+      ],
+      "primaryColor": "navy",
+      "pattern": "graphic",
+      "material": "algodão cardado (fleece)",
+      "weight": "medium-heavy",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Hoodie pullover azul-marinho com capuz de cordão, bolso canguru e logótipo Mike Davis (quadrado vermelho + letras cinzentas) no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar do avesso a 30 °C para proteger o estampado."
+      },
+      "weather": {
+        "minC": 6,
+        "maxC": 18,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "travel",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_washed_black_straight_jeans",
+          "cl_light_blue_straight_jeans",
+          "cl_nike_grey_fleece_joggers",
+          "cl_nike_navy_fleece_joggers",
+          "cl_black_puffer_vest"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_trousers",
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_mike_davis_navy_hoodie.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:02:00+00:00",
+        "updatedAt": "2026-11-27T00:02:00+00:00"
+      }
+    },
+    {
+      "id": "cl_nike_grey_fleece_joggers",
+      "name": "Joggers Nike fleece cinza-mescla",
+      "brand": "Nike",
+      "category": "bottom",
+      "subCategory": "joggers",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "grey",
+        "white"
+      ],
+      "primaryColor": "grey",
+      "pattern": "solid",
+      "material": "algodão cardado (fleece)",
+      "weight": "medium-heavy",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "tapered",
+        "status": "fits-well",
+        "notes": "Joggers Nike cinza-mescla com cintura elástica e cordão, punhos no tornozelo e logótipo Nike Futura bordado a branco na coxa esquerda."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 6,
+        "maxC": 20,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "gym",
+        "everyday",
+        "travel",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_mike_davis_navy_hoodie",
+          "cl_columbia_navy_hoodie",
+          "cl_megsi_green_hoodie",
+          "cl_hm_black_oversized_tee",
+          "cl_zara_black_basic_tee",
+          "cl_black_puffer_vest"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer",
+          "cl_zara_wool_coat_black"
+        ]
+      },
+      "image": "images/cl_nike_grey_fleece_joggers.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:02:00+00:00",
+        "updatedAt": "2026-11-27T00:02:00+00:00"
+      }
+    },
+    {
+      "id": "cl_columbia_navy_hoodie",
+      "name": "Hoodie Columbia azul-marinho",
+      "brand": "Columbia",
+      "category": "top",
+      "subCategory": "hoodie",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "white"
+      ],
+      "primaryColor": "navy",
+      "pattern": "graphic",
+      "material": "algodão cardado (fleece)",
+      "weight": "medium-heavy",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Hoodie pullover Columbia azul-marinho com capuz de cordão, bolso canguru e logótipo Columbia a branco no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 6,
+        "maxC": 18,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "travel",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_nike_grey_fleece_joggers",
+          "cl_washed_black_straight_jeans",
+          "cl_light_blue_straight_jeans",
+          "cl_cream_chinos",
+          "cl_black_puffer_vest"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_trousers",
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_columbia_navy_hoodie.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:02:00+00:00",
+        "updatedAt": "2026-11-27T00:02:00+00:00"
+      }
+    },
+    {
+      "id": "cl_ecru_classic_icon_sweatshirt",
+      "name": "Sweatshirt crua 'CLASSIC ICON'",
+      "brand": null,
+      "category": "top",
+      "subCategory": "sweatshirt",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "ecru",
+        "green"
+      ],
+      "primaryColor": "ecru",
+      "pattern": "graphic",
+      "material": "algodão cardado (fleece)",
+      "weight": "medium",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Sweatshirt de gola redonda em tom cru/off-white com grafismo verde-floresta 'CLASSIC ICON / We need design' no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar com cores claras do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 9,
+        "maxC": 20,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_navy_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_light_blue_straight_jeans",
+          "cl_brown_corduroy_trousers",
+          "cl_brown_waxed_barn_jacket"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_trousers"
+        ]
+      },
+      "image": "images/cl_ecru_classic_icon_sweatshirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:02:00+00:00",
+        "updatedAt": "2026-11-27T00:02:00+00:00"
+      }
+    },
+    {
+      "id": "cl_megsi_green_hoodie",
+      "name": "Hoodie MEGSI Universidade do Minho verde-floresta",
+      "brand": "Universidade do Minho (MEGSI)",
+      "category": "top",
+      "subCategory": "hoodie",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "green",
+        "white"
+      ],
+      "primaryColor": "green",
+      "pattern": "graphic",
+      "material": "algodão cardado (fleece)",
+      "weight": "medium-heavy",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Hoodie do mestrado MEGSI (Universidade do Minho, EST 1990) em verde-floresta com bordado colegial branco/prateado no peito e cordões verdes."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar do avesso a 30 °C para preservar o bordado."
+      },
+      "weather": {
+        "minC": 6,
+        "maxC": 18,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "study",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_nike_grey_fleece_joggers",
+          "cl_cream_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_light_blue_straight_jeans",
+          "cl_black_puffer_vest"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_trousers",
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_megsi_green_hoodie.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:02:00+00:00",
+        "updatedAt": "2026-11-27T00:02:00+00:00"
+      }
+    },
+    {
+      "id": "cl_khaki_cargo_shorts",
+      "name": "Calções cargo caqui/bege",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "khaki",
+        "beige"
+      ],
+      "primaryColor": "khaki",
+      "pattern": "solid",
+      "material": "sarja de algodão",
+      "weight": "medium",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Calções cargo caqui/bege com cintura elástica e bolsos laterais com pala."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_zara_black_basic_tee",
+          "cl_hm_black_oversized_tee",
+          "cl_dickies_white_graphic_tee",
+          "cl_pullbear_black_camp_ss_shirt"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_khaki_cargo_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pullbear_beige_chinos",
+      "name": "Chinos Pull&Bear bege (Smart Skinny)",
+      "brand": "Pull&Bear",
+      "category": "bottom",
+      "subCategory": "chinos",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "beige"
+      ],
+      "primaryColor": "beige",
+      "pattern": "solid",
+      "material": "sarja de algodão com elastano",
+      "weight": "medium",
+      "formality": 3,
+      "fit": {
+        "size": "EUR 42 / USA 32",
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 10,
+        "maxC": 26,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "everyday",
+        "work",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_gant_navy_snap_mockneck_knit",
+          "cl_romon_navy_basketweave_knit",
+          "cl_navy_knit_ss_polo",
+          "cl_burgundy_knit_ss_polo",
+          "cl_pullbear_brown_camp_ss_shirt"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_pullbear_beige_chinos.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_romon_navy_basketweave_knit",
+      "name": "Camisola de malha Romon azul-marinho texturizada",
+      "brand": "Romon",
+      "category": "top",
+      "subCategory": "sweater",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "navy"
+      ],
+      "primaryColor": "navy",
+      "pattern": "textured",
+      "material": "malha de algodão/lã",
+      "weight": "medium",
+      "formality": 3,
+      "fit": {
+        "size": "M",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em frio/delicado e secar na horizontal."
+      },
+      "weather": {
+        "minC": 7,
+        "maxC": 18,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "everyday",
+        "date",
+        "work",
+        "interview"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_brown_corduroy_trousers",
+          "cl_lion_of_porches_beige_mac"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_romon_navy_basketweave_knit.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_gant_navy_snap_mockneck_knit",
+      "name": "Camisola GANT azul-marinho gola alta com 4 molas",
+      "brand": "GANT",
+      "category": "top",
+      "subCategory": "sweater",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "silver"
+      ],
+      "primaryColor": "navy",
+      "pattern": "solid",
+      "material": "malha grossa de algodão/lã",
+      "weight": "heavy",
+      "formality": 3,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em frio/delicado com molas fechadas e secar na horizontal."
+      },
+      "weather": {
+        "minC": 5,
+        "maxC": 16,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "everyday",
+        "date",
+        "weekend",
+        "work"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_brown_corduroy_trousers",
+          "cl_lion_of_porches_beige_mac"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_gant_navy_snap_mockneck_knit.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_cortefiel_fairisle_burgundy_knit",
+      "name": "Camisola Cortefiel Fair Isle bordeaux/camel/marinho",
+      "brand": "Cortefiel (Italian Yarn)",
+      "category": "top",
+      "subCategory": "sweater",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "burgundy",
+        "camel",
+        "navy"
+      ],
+      "primaryColor": "burgundy",
+      "pattern": "jacquard",
+      "material": "fio italiano (mistura de lã)",
+      "weight": "heavy",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Camisola Cortefiel Italian Yarn jacquard de inverno em bordeaux, camel e azul-marinho."
+      },
+      "care": {
+        "washable": false,
+        "iron": false,
+        "notes": "Lavar à mão em água fria e secar na horizontal."
+      },
+      "weather": {
+        "minC": 3,
+        "maxC": 15,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "weekend",
+        "date",
+        "everyday"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_navy_chinos",
+          "cl_black_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_zara_wool_coat_black"
+        ],
+        "avoidWith": [
+          "cl_glenplaid_tweed_blazer"
+        ]
+      },
+      "image": "images/cl_cortefiel_fairisle_burgundy_knit.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_cream_jacquard_knit",
+      "name": "Camisola Zara creme jacquard preto e camel",
+      "brand": "Zara",
+      "category": "top",
+      "subCategory": "sweater",
+      "layer": "mid",
+      "status": "owned",
+      "colors": [
+        "cream",
+        "black",
+        "camel"
+      ],
+      "primaryColor": "cream",
+      "pattern": "jacquard",
+      "material": "malha grossa",
+      "weight": "heavy",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Camisola Zara M em malha grossa creme com riscas jacquard preto e camel."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em frio/delicado e secar na horizontal."
+      },
+      "weather": {
+        "minC": 5,
+        "maxC": 16,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "everyday",
+        "date",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_black_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_brown_corduroy_trousers",
+          "cl_zara_wool_coat_black"
+        ],
+        "avoidWith": [
+          "cl_glenplaid_tweed_blazer"
+        ]
+      },
+      "image": "images/cl_zara_cream_jacquard_knit.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:05:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_taupe_knit_ss_polo",
+      "name": "Polo de malha fina manga curta taupe/areia",
+      "brand": null,
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "taupe",
+        "beige"
+      ],
+      "primaryColor": "taupe",
+      "pattern": "solid",
+      "material": "malha fina de algodão/viscose",
+      "weight": "light",
+      "formality": 3,
+      "fit": {
+        "size": null,
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em ciclo delicado a 30 °C e secar na horizontal."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 30,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "date",
+        "everyday",
+        "work",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_navy_tailored_trousers",
+          "cl_black_chinos",
+          "cl_cream_chinos",
+          "cl_washed_black_straight_jeans"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_taupe_knit_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_burgundy_knit_ss_polo",
+      "name": "Polo de malha fina manga curta bordeaux escuro",
+      "brand": null,
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "burgundy"
+      ],
+      "primaryColor": "burgundy",
+      "pattern": "solid",
+      "material": "malha fina de algodão/viscose",
+      "weight": "light",
+      "formality": 3,
+      "fit": {
+        "size": null,
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em ciclo delicado a 30 °C e secar na horizontal."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 30,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "date",
+        "everyday",
+        "work",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_black_chinos",
+          "cl_charcoal_suit_trousers"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_burgundy_knit_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_navy_knit_ss_polo",
+      "name": "Polo de malha fina manga curta azul-marinho",
+      "brand": null,
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "navy"
+      ],
+      "primaryColor": "navy",
+      "pattern": "solid",
+      "material": "malha fina de algodão/viscose",
+      "weight": "light",
+      "formality": 3,
+      "fit": {
+        "size": null,
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Polo de malha fina manga curta azul-marinho com 3 botões."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar em ciclo delicado a 30 °C e secar na horizontal."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 30,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "date",
+        "everyday",
+        "work",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_light_blue_straight_jeans",
+          "cl_charcoal_suit_trousers"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_navy_knit_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_mike_davis_red_ss_polo",
+      "name": "Polo piqué Mike Davis vermelho",
+      "brand": "Mike Davis",
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "red",
+        "navy",
+        "white"
+      ],
+      "primaryColor": "red",
+      "pattern": "solid",
+      "material": "piqué de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Polo piqué Mike Davis vermelho com frisos azul-marinho e branco na gola e emblema no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar com cores semelhantes a 30 °C."
+      },
+      "weather": {
+        "minC": 19,
+        "maxC": 32,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "everyday",
+        "weekend",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_navy_chinos",
+          "cl_pullbear_beige_chinos",
+          "cl_light_blue_straight_jeans",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_red_striped_shirt"
+        ]
+      },
+      "image": "images/cl_mike_davis_red_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_burgundy_pique_ss_polo",
+      "name": "Polo piqué Zara Essentials bordeaux",
+      "brand": "Zara",
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "burgundy"
+      ],
+      "primaryColor": "burgundy",
+      "pattern": "solid",
+      "material": "piqué de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Polo Zara Essentials (Perfect Polo Shirt) bordeaux em piqué com botões brancos e brasão tonal no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 19,
+        "maxC": 32,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "everyday",
+        "work",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_navy_chinos",
+          "cl_washed_black_straight_jeans"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_zara_burgundy_pique_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_springfield_navy_polkadot_ss_polo",
+      "name": "Polo Springfield azul-marinho micro-bolinhas",
+      "brand": "Springfield",
+      "category": "top",
+      "subCategory": "polo",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "mint",
+        "white"
+      ],
+      "primaryColor": "navy",
+      "pattern": "polka-dot",
+      "material": "piqué de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Polo Springfield Slim M azul-marinho com micro-bolinhas menta/branco e árvore bordada em menta."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 19,
+        "maxC": 32,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "everyday",
+        "weekend",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_beige_chinos",
+          "cl_cream_chinos",
+          "cl_khaki_cargo_shorts",
+          "cl_light_blue_straight_jeans"
+        ],
+        "avoidWith": [
+          "cl_glenplaid_tweed_blazer"
+        ]
+      },
+      "image": "images/cl_springfield_navy_polkadot_ss_polo.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:07:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pullbear_brown_camp_ss_shirt",
+      "name": "Camisa manga curta Pull&Bear gola cubana castanha",
+      "brand": "Pull&Bear",
+      "category": "top",
+      "subCategory": "short-sleeve-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "brown"
+      ],
+      "primaryColor": "brown",
+      "pattern": "solid",
+      "material": "linho/algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Camisa Pull&Bear M castanho-chocolate de gola cubana e manga curta; ótima aberta sobre t-shirt branca ou abotoada."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C e passar a vapor."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date",
+        "summer",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_cream_chinos",
+          "cl_pullbear_beige_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_pullbear_brown_camp_ss_shirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:09:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_primark_black_terry_ss_shirt",
+      "name": "Camisa manga curta Primark turco/terry preta",
+      "brand": "Primark",
+      "category": "top",
+      "subCategory": "short-sleeve-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "black"
+      ],
+      "primaryColor": "black",
+      "pattern": "textured",
+      "material": "algodão turco (terrycloth)",
+      "weight": "medium",
+      "formality": 2,
+      "fit": {
+        "size": "L",
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Camisa Primark L Regular Fit preta em tecido turco com gola cubana; vibe resort de verão."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C, não precisa de ferro."
+      },
+      "weather": {
+        "minC": 19,
+        "maxC": 32,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "date",
+        "night-out",
+        "summer",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_cream_chinos",
+          "cl_pullbear_beige_chinos",
+          "cl_black_chinos",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_trousers"
+        ]
+      },
+      "image": "images/cl_primark_black_terry_ss_shirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:09:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_zara_beige_embroidered_camp_ss_shirt",
+      "name": "Camisa manga curta Zara bege bordada verde-azeitona",
+      "brand": "Zara",
+      "category": "top",
+      "subCategory": "short-sleeve-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "beige",
+        "olive"
+      ],
+      "primaryColor": "beige",
+      "pattern": "embroidered",
+      "material": "linho/algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Camisa Zara M de gola cubana em bege natural com losangos bordados em verde-azeitona."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar do avesso a 30 °C e passar a vapor."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date",
+        "summer",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_black_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_navy_chinos",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_glenplaid_tweed_blazer"
+        ]
+      },
+      "image": "images/cl_zara_beige_embroidered_camp_ss_shirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:09:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pullbear_black_camp_ss_shirt",
+      "name": "Camisa manga curta Pull&Bear gola cubana preta",
+      "brand": "Pull&Bear",
+      "category": "top",
+      "subCategory": "short-sleeve-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "black"
+      ],
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "linho/algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Camisa Pull&Bear M preta de gola cubana e manga curta; versátil para noites de verão."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date",
+        "night-out",
+        "summer"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_cream_chinos",
+          "cl_pullbear_beige_chinos",
+          "cl_light_blue_straight_jeans",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_pullbear_black_camp_ss_shirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:09:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pullbear_ecru_camp_ss_shirt",
+      "name": "Camisa manga curta Pull&Bear gola cubana crua",
+      "brand": "Pull&Bear",
+      "category": "top",
+      "subCategory": "short-sleeve-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "ecru",
+        "cream"
+      ],
+      "primaryColor": "ecru",
+      "pattern": "solid",
+      "material": "linho/algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "M",
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Camisa Pull&Bear M cru/off-white de gola cubana e manga curta."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar com cores claras a 30 °C."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date",
+        "summer",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_navy_chinos",
+          "cl_black_chinos",
+          "cl_washed_black_straight_jeans",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_nike_grey_fleece_joggers"
+        ]
+      },
+      "image": "images/cl_pullbear_ecru_camp_ss_shirt.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:09:00+00:00",
+        "updatedAt": "2026-11-27T00:11:00+00:00"
+      }
+    },
+    {
+      "id": "cl_levis_white_small_logo_tee",
+      "name": "T-shirt Levi's branca (logo pequeno)",
+      "brand": "Levi's",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "white",
+        "red"
+      ],
+      "primaryColor": "white",
+      "pattern": "logo",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "L",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt branca Levi's Standard Fit (L/G) com pequeno batwing vermelho no peito; rever estado/desgaste na triagem."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C com cores claras."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_pedro_del_hierro_tan_chino_shorts",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_pullbear_beige_chinos"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_levis_white_small_logo_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_vans_white_chest_logo_tee",
+      "name": "T-shirt Vans off-white (logo peito)",
+      "brand": "Vans",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "off-white",
+        "black",
+        "red"
+      ],
+      "primaryColor": "off-white",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "M",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt off-white Vans (M) com caixa preta VANS + Off The Wall vermelho no peito; rever desgaste na triagem."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_adidas_black_3stripe_shorts",
+          "cl_brown_drawstring_cargo_shorts",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_vans_white_chest_logo_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_tommy_black_flag_tee",
+      "name": "T-shirt Tommy Hilfiger preta",
+      "brand": "Tommy Hilfiger",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "black"
+      ],
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "L",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt preta Tommy Hilfiger (L/42) com pequena bandeira bordada no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C com cores escuras."
+      },
+      "weather": {
+        "minC": 15,
+        "maxC": 34,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "work",
+        "night-out"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_light_beige_elastic_chino_shorts",
+          "cl_pullbear_beige_chinos"
+        ],
+        "avoidWith": []
+      },
+      "image": "images/cl_tommy_black_flag_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_fred_perry_navy_tee",
+      "name": "T-shirt Fred Perry azul-marinho",
+      "brand": "Fred Perry",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "white"
+      ],
+      "primaryColor": "navy",
+      "pattern": "solid",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": "L",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt azul-marinho escuro Fred Perry (L) com coroa de louros branca bordada no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 15,
+        "maxC": 34,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "smart-casual"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_pedro_del_hierro_tan_chino_shorts",
+          "cl_light_beige_elastic_chino_shorts"
+        ],
+        "avoidWith": []
+      },
+      "image": "images/cl_fred_perry_navy_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_springfield_sage_green_tee",
+      "name": "T-shirt Springfield verde-sálvia",
+      "brand": "Springfield",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "sage",
+        "green"
+      ],
+      "primaryColor": "green",
+      "pattern": "solid",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt Springfield verde-sálvia lavado com pequena árvore tonal; gola com sinais de desgaste (candidata a triagem/casa)."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_light_beige_elastic_chino_shorts",
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_salsa_navy_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_springfield_sage_green_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_springfield_brown_pink_ikat_tee",
+      "name": "T-shirt Springfield castanha estampada",
+      "brand": "Springfield",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "brown",
+        "pink"
+      ],
+      "primaryColor": "brown",
+      "pattern": "printed",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "M",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt castanha Springfield (M) com estampado geométrico/ikat rosa."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_light_beige_elastic_chino_shorts",
+          "cl_pedro_del_hierro_tan_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_springfield_brown_pink_ikat_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_ralph_lauren_navy_tee",
+      "name": "T-shirt Polo Ralph Lauren azul-marinho",
+      "brand": "Polo Ralph Lauren",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "navy",
+        "red"
+      ],
+      "primaryColor": "navy",
+      "pattern": "solid",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt azul-marinho escuro Polo Ralph Lauren com pónei vermelho bordado no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 15,
+        "maxC": 34,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "smart-casual"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_pedro_del_hierro_tan_chino_shorts",
+          "cl_pullbear_beige_chinos"
+        ],
+        "avoidWith": []
+      },
+      "image": "images/cl_ralph_lauren_navy_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_mike_davis_peach_tee",
+      "name": "T-shirt Mike Davis pêssego",
+      "brand": "Mike Davis",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "peach",
+        "coral"
+      ],
+      "primaryColor": "peach",
+      "pattern": "logo",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt Mike Davis pêssego pastel com estampado tonal no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_offwhite_pleated_drawstring_trousers",
+          "cl_light_beige_elastic_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_adidas_peach_fleece_shorts"
+        ]
+      },
+      "image": "images/cl_mike_davis_peach_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_springfield_burgundy_tee",
+      "name": "T-shirt Springfield bordeaux",
+      "brand": "Springfield",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "burgundy"
+      ],
+      "primaryColor": "burgundy",
+      "pattern": "solid",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "L",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt bordeaux Springfield (L) com pequena árvore bordada; ligeiro desgaste na gola (rever na triagem)."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_light_beige_elastic_chino_shorts",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_offwhite_pleated_drawstring_trousers"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_springfield_burgundy_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_uminho_burgundy_tee",
+      "name": "T-shirt UMinho bordeaux",
+      "brand": "Universidade do Minho",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "burgundy",
+        "white"
+      ],
+      "primaryColor": "burgundy",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "L",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt bordeaux sou.uminho.pt (L) com estampado branco; ideal para casa/treino/casual."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "home",
+        "training"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_adidas_black_3stripe_shorts",
+          "cl_nike_grey_fleece_joggers"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_uminho_burgundy_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_mike_davis_white_logo_tee",
+      "name": "T-shirt Mike Davis off-white (logo)",
+      "brand": "Mike Davis",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "off-white",
+        "navy"
+      ],
+      "primaryColor": "off-white",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt off-white Mike Davis (TRADEMARK SINCE 1976 em azul-marinho); gola com sinais de desgaste (rever na triagem)."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_pedro_del_hierro_tan_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_mike_davis_white_logo_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pepe_jeans_white_script_tee",
+      "name": "T-shirt Pepe Jeans branca (script)",
+      "brand": "Pepe Jeans",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "white",
+        "burgundy"
+      ],
+      "primaryColor": "white",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": "S",
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt branca Pepe Jeans London (S Regular) com escrita bordeaux no peito; ótimo caimento para o cut."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C com cores claras."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_tan_pleated_drawstring_trousers",
+          "cl_pedro_del_hierro_tan_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_pepe_jeans_white_script_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_levis_red_batwing_tee",
+      "name": "T-shirt Levi's vermelha (batwing grande)",
+      "brand": "Levi's",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "red",
+        "white"
+      ],
+      "primaryColor": "red",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt vermelha Levi's com batwing branco grande no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_adidas_black_3stripe_shorts",
+          "cl_light_beige_elastic_chino_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_levis_red_batwing_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_levis_white_batwing_tee",
+      "name": "T-shirt Levi's branca (batwing grande)",
+      "brand": "Levi's",
+      "category": "top",
+      "subCategory": "t-shirt",
+      "layer": "base",
+      "status": "owned",
+      "colors": [
+        "white",
+        "red"
+      ],
+      "primaryColor": "white",
+      "pattern": "graphic",
+      "material": "algodão",
+      "weight": "light",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "T-shirt branca Levi's com batwing vermelho grande no peito."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar do avesso a 30 °C."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_salsa_navy_chino_shorts",
+          "cl_pedro_del_hierro_tan_chino_shorts",
+          "cl_khaki_cargo_shorts"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_levis_white_batwing_tee.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_light_beige_elastic_chino_shorts",
+      "name": "Calções chino bege-pedra (cintura elástica)",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "beige",
+        "stone"
+      ],
+      "primaryColor": "beige",
+      "pattern": "solid",
+      "material": "sarja de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Calções chino bege-pedra claro com cintura elástica, presilhas e bainha dobrada."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 21,
+        "maxC": 38,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "everyday",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_black_camp_ss_shirt",
+          "cl_pullbear_brown_camp_ss_shirt",
+          "cl_navy_knit_ss_polo",
+          "cl_burgundy_knit_ss_polo",
+          "cl_tommy_black_flag_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_light_beige_elastic_chino_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_pedro_del_hierro_tan_chino_shorts",
+      "name": "Calções chino Pedro del Hierro areia/camel",
+      "brand": "Pedro del Hierro",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "tan",
+        "beige"
+      ],
+      "primaryColor": "tan",
+      "pattern": "solid",
+      "material": "sarja de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Calções chino clássicos Pedro del Hierro em tom areia/camel quente, acima do joelho."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 21,
+        "maxC": 38,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "weekend",
+        "date",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_ecru_camp_ss_shirt",
+          "cl_navy_knit_ss_polo",
+          "cl_fred_perry_navy_tee",
+          "cl_ralph_lauren_navy_tee",
+          "cl_levis_white_small_logo_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_pedro_del_hierro_tan_chino_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_salsa_navy_chino_shorts",
+      "name": "Calções chino Salsa azul-marinho",
+      "brand": "Salsa",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "navy"
+      ],
+      "primaryColor": "navy",
+      "pattern": "solid",
+      "material": "sarja de algodão",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "slim",
+        "status": "fits-well",
+        "notes": "Calções chino Salsa azul-marinho escuro com corte limpo acima do joelho."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 21,
+        "maxC": 38,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "weekend",
+        "date",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_ecru_camp_ss_shirt",
+          "cl_zara_beige_embroidered_camp_ss_shirt",
+          "cl_taupe_knit_ss_polo",
+          "cl_levis_white_small_logo_tee",
+          "cl_mike_davis_peach_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_salsa_navy_chino_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_adidas_black_3stripe_shorts",
+      "name": "Calções Adidas Originals pretos (3 riscas)",
+      "brand": "Adidas Originals",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "black",
+        "white"
+      ],
+      "primaryColor": "black",
+      "pattern": "striped",
+      "material": "algodão fleece",
+      "weight": "medium",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Calções Adidas Originals pretos em fleece com bolsos com fecho, 3 riscas brancas laterais e Trefoil branco."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 18,
+        "maxC": 34,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "training",
+        "home",
+        "weekend"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_vans_white_chest_logo_tee",
+          "cl_levis_white_small_logo_tee",
+          "cl_tommy_black_flag_tee",
+          "cl_uminho_burgundy_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_adidas_black_3stripe_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_adidas_peach_fleece_shorts",
+      "name": "Calções Adidas Originals pêssego",
+      "brand": "Adidas Originals",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "peach",
+        "coral"
+      ],
+      "primaryColor": "peach",
+      "pattern": "solid",
+      "material": "algodão fleece",
+      "weight": "medium",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "regular",
+        "status": "fits-well",
+        "notes": "Calções Adidas Originals em algodão fleece pêssego pastel com Trefoil tonal bordado."
+      },
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 19,
+        "maxC": 35,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "home",
+        "weekend",
+        "training"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_levis_white_small_logo_tee",
+          "cl_tommy_black_flag_tee",
+          "cl_fred_perry_navy_tee"
+        ],
+        "avoidWith": [
+          "cl_mike_davis_peach_tee"
+        ]
+      },
+      "image": "images/cl_adidas_peach_fleece_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_brown_drawstring_cargo_shorts",
+      "name": "Calções cargo castanhos com cordão",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "brown",
+        "taupe"
+      ],
+      "primaryColor": "brown",
+      "pattern": "solid",
+      "material": "sarja de algodão",
+      "weight": "medium",
+      "formality": 1,
+      "fit": {
+        "size": null,
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Calções cargo castanho/taupe com cintura elástica, cordão cru e bolsos laterais com pala."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 20,
+        "maxC": 36,
+        "rainOk": false
+      },
+      "occasions": [
+        "casual",
+        "everyday",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_ecru_camp_ss_shirt",
+          "cl_pullbear_black_camp_ss_shirt",
+          "cl_levis_white_small_logo_tee",
+          "cl_vans_white_chest_logo_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_brown_drawstring_cargo_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_tan_pleated_drawstring_trousers",
+      "name": "Calças largas com pinças e cordão areia/camel",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "tan",
+        "camel",
+        "beige"
+      ],
+      "primaryColor": "tan",
+      "pattern": "solid",
+      "material": "algodão/linho",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Calças relaxed/largas em tom areia/camel com pinças frontais, cintura elástica e cordão — excelentes para verão smart-casual."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C e passar a vapor."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 33,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "date",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_black_camp_ss_shirt",
+          "cl_pullbear_ecru_camp_ss_shirt",
+          "cl_primark_black_terry_ss_shirt",
+          "cl_navy_knit_ss_polo",
+          "cl_tommy_black_flag_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_tan_pleated_drawstring_trousers.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
+    },
+    {
+      "id": "cl_offwhite_pleated_drawstring_trousers",
+      "name": "Calças largas com pinças e cordão off-white",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": [
+        "off-white",
+        "ecru",
+        "stone"
+      ],
+      "primaryColor": "off-white",
+      "pattern": "solid",
+      "material": "algodão/linho",
+      "weight": "light",
+      "formality": 2,
+      "fit": {
+        "size": null,
+        "cut": "relaxed",
+        "status": "fits-well",
+        "notes": "Calças relaxed/largas em off-white/pedra claro com pinças frontais, cintura elástica e cordão — ideais para looks limpos de verão."
+      },
+      "care": {
+        "washable": true,
+        "iron": true,
+        "notes": "Lavar a 30 °C com cores claras e passar a vapor."
+      },
+      "weather": {
+        "minC": 16,
+        "maxC": 33,
+        "rainOk": false
+      },
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "date",
+        "weekend",
+        "travel"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_pullbear_brown_camp_ss_shirt",
+          "cl_pullbear_black_camp_ss_shirt",
+          "cl_navy_knit_ss_polo",
+          "cl_burgundy_knit_ss_polo",
+          "cl_taupe_knit_ss_polo",
+          "cl_tommy_black_flag_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_offwhite_pleated_drawstring_trousers.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:18:00+00:00",
+        "updatedAt": "2026-11-27T00:18:00+00:00"
+      }
     }
   ],
   "outfits": [

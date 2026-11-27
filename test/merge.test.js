@@ -189,16 +189,18 @@ test("image field resolves relative paths, urls, and data-urls", () => {
   assert.equal(imageSrc("data:image/jpeg;base64,aaaa"), "data:image/jpeg;base64,aaaa");
 });
 
-test("bundled seed uses image, not photo, and keeps the mafia outfit", () => {
+test("bundled seed uses image paths and keeps the mafia outfit", () => {
   const seed = JSON.parse(fs.readFileSync(new URL("../data/seed-closet.json", import.meta.url), "utf8"));
   assert.equal(seed.app, "closet");
-  assert.equal(seed.items.length, 25);
-  assert.equal(seed.items.filter((piece) => piece.status === "owned").length, 18);
-  assert.equal(seed.items.filter((piece) => piece.status === "wishlist").length, 7);
+  assert.equal(seed.items.length, 104);
+  const imaged = seed.items.filter((piece) => piece.image);
+  assert.equal(imaged.length, 86);
   for (const piece of seed.items) {
-    assert.equal("image" in piece, true);
     assert.equal("photo" in piece, false);
-    assert.equal(piece.image, null);
+    if (piece.image != null) {
+      assert.match(piece.image, /^images\/[a-z0-9_]+\.webp$/);
+      assert.equal(fs.existsSync(new URL(`../${piece.image}`, import.meta.url)), true);
+    }
   }
   assert.equal(seed.outfits[0].id, "out_mafia_boss_2000s");
   assert.equal(seed.outfits[0].name, "2000s Mafia Boss (Zara Party 10 Dec)");
