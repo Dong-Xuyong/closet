@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:31:00+00:00",
+  "updatedAt": "2026-11-27T01:32:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -8353,94 +8353,216 @@
     {
       "id": "cl_wedze_black_fleece_hooded_jacket",
       "name": "Wedze Black Fleece-Lined Hooded Winter Jacket",
-      "brand": "Wedze",
-      "category": "outerwear",
-      "subcategory": "jacket",
-      "color": "black",
-      "colors": [
-        "black",
-        "charcoal"
-      ],
-      "seasons": [
-        "autumn",
-        "winter"
-      ],
-      "occasions": [
-        "casual",
-        "rain",
-        "commute"
-      ],
       "status": "owned",
-      "photo": "images/cl_wedze_black_fleece_hooded_jacket.webp",
-      "notes": "Matte black water-repellent shell with dark grey plush fleece lining and hood. Great for cold wet commutes and off-duty winter days.",
-      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "charcoal"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Wedze",
+        "size": null,
+        "fabric": "water-repellent poly shell, fleece-lined",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "no",
+        "notes": "Matte black technical shell with dark grey plush fleece lining and hood."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 14,
+        "rainOk": true,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "commute",
+        "weekend"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "grey",
+          "navy",
+          "white",
+          "cream",
+          "camel"
+        ],
+        "avoidWith": [],
+        "notes": "Clean matte black commuter jacket for cold wet days and off-duty winter wear."
+      },
+      "image": "images/cl_wedze_black_fleece_hooded_jacket.webp",
       "meta": {
-        "createdAt": "2026-11-27T01:31:00+00:00",
-        "updatedAt": "2026-11-27T01:31:00+00:00",
-        "source": "kinemon"
-      }
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-27T01:32:00+00:00",
+        "updatedAt": "2026-11-27T01:32:00+00:00",
+        "addedAt": "2026-11-27T01:32:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:32:00+00:00"
     },
     {
       "id": "cl_forest_green_wool_duffle_coat",
       "name": "Forest Green Wool-Blend Hooded Duffle Coat (M)",
-      "brand": "",
-      "category": "outerwear",
-      "subcategory": "coat",
-      "color": "forest green",
-      "colors": [
-        "green",
-        "forest green"
-      ],
-      "seasons": [
-        "autumn",
-        "winter"
-      ],
-      "occasions": [
-        "casual",
-        "smart-casual",
-        "date",
-        "weekend"
-      ],
       "status": "owned",
-      "photo": "images/cl_forest_green_wool_duffle_coat.webp",
-      "notes": "Forest green wool-blend hooded duffle coat with horn toggles, hidden zip, quilted striped lining, and flap pockets (size M). Standout heritage winter layer.",
-      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "category": "outerwear",
+      "subCategory": "coat",
+      "layer": "outer",
+      "colors": {
+        "primary": "green",
+        "secondary": [
+          "brown"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "wool-blend, quilted striped lining",
+        "washTempC": null,
+        "washMethod": "dry-clean",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Forest green wool-blend hooded duffle coat with horn toggles, hidden zip, and flap pockets."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 14,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date",
+        "weekend",
+        "smart-casual"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "cream",
+          "ecru",
+          "beige",
+          "navy",
+          "charcoal",
+          "black",
+          "camel",
+          "brown"
+        ],
+        "avoidWith": [
+          "red"
+        ],
+        "notes": "Standout heritage coat — looks unreal over cream chinos, navy turtlenecks, and Timberland or black zip boots."
+      },
+      "image": "images/cl_forest_green_wool_duffle_coat.webp",
       "meta": {
-        "createdAt": "2026-11-27T01:31:00+00:00",
-        "updatedAt": "2026-11-27T01:31:00+00:00",
-        "source": "kinemon"
-      }
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T01:32:00+00:00",
+        "updatedAt": "2026-11-27T01:32:00+00:00",
+        "addedAt": "2026-11-27T01:32:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:32:00+00:00"
     },
     {
       "id": "cl_colorblock_black_grey_hooded_jacket",
       "name": "Black/White/Grey Colour-Block Fleece-Lined Hooded Jacket",
-      "brand": "",
-      "category": "outerwear",
-      "subcategory": "jacket",
-      "color": "black/grey",
-      "colors": [
-        "black",
-        "white",
-        "grey"
-      ],
-      "seasons": [
-        "autumn",
-        "winter"
-      ],
-      "occasions": [
-        "casual",
-        "streetwear",
-        "weekend"
-      ],
       "status": "owned",
-      "photo": "images/cl_colorblock_black_grey_hooded_jacket.webp",
-      "notes": "Streetwear colour-block hooded zip jacket (black yoke, white stripe, grey lower body/sleeves) with dark fleece lining and chest emblem.",
-      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "grey",
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "colorblock"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": null,
+        "fabric": "poly shell, fleece-lined",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "no",
+        "notes": "Streetwear colour-block hooded zip jacket with black yoke, white chest stripe, grey lower body, and dark fleece lining."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "weekend",
+        "casual"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "grey",
+          "white",
+          "blue"
+        ],
+        "avoidWith": [
+          "brown",
+          "camel",
+          "olive"
+        ],
+        "notes": "Keep the rest of the outfit simple monochrome (black chinos or washed black jeans + Sambas or Skechers) so the colour-block panels stand out cleanly."
+      },
+      "image": "images/cl_colorblock_black_grey_hooded_jacket.webp",
       "meta": {
-        "createdAt": "2026-11-27T01:31:00+00:00",
-        "updatedAt": "2026-11-27T01:31:00+00:00",
-        "source": "kinemon"
-      }
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-27T01:32:00+00:00",
+        "updatedAt": "2026-11-27T01:32:00+00:00",
+        "addedAt": "2026-11-27T01:32:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:32:00+00:00"
     }
   ],
   "outfits": [
