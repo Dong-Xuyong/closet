@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:08:00+00:00",
+  "updatedAt": "2026-11-27T01:31:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -8349,6 +8349,98 @@
       },
       "image": null,
       "updatedAt": "2026-11-27T01:06:00+00:00"
+    },
+    {
+      "id": "cl_wedze_black_fleece_hooded_jacket",
+      "name": "Wedze Black Fleece-Lined Hooded Winter Jacket",
+      "brand": "Wedze",
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "color": "black",
+      "colors": [
+        "black",
+        "charcoal"
+      ],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "rain",
+        "commute"
+      ],
+      "status": "owned",
+      "photo": "images/cl_wedze_black_fleece_hooded_jacket.webp",
+      "notes": "Matte black water-repellent shell with dark grey plush fleece lining and hood. Great for cold wet commutes and off-duty winter days.",
+      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "meta": {
+        "createdAt": "2026-11-27T01:31:00+00:00",
+        "updatedAt": "2026-11-27T01:31:00+00:00",
+        "source": "kinemon"
+      }
+    },
+    {
+      "id": "cl_forest_green_wool_duffle_coat",
+      "name": "Forest Green Wool-Blend Hooded Duffle Coat (M)",
+      "brand": "",
+      "category": "outerwear",
+      "subcategory": "coat",
+      "color": "forest green",
+      "colors": [
+        "green",
+        "forest green"
+      ],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date",
+        "weekend"
+      ],
+      "status": "owned",
+      "photo": "images/cl_forest_green_wool_duffle_coat.webp",
+      "notes": "Forest green wool-blend hooded duffle coat with horn toggles, hidden zip, quilted striped lining, and flap pockets (size M). Standout heritage winter layer.",
+      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "meta": {
+        "createdAt": "2026-11-27T01:31:00+00:00",
+        "updatedAt": "2026-11-27T01:31:00+00:00",
+        "source": "kinemon"
+      }
+    },
+    {
+      "id": "cl_colorblock_black_grey_hooded_jacket",
+      "name": "Black/White/Grey Colour-Block Fleece-Lined Hooded Jacket",
+      "brand": "",
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "color": "black/grey",
+      "colors": [
+        "black",
+        "white",
+        "grey"
+      ],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "streetwear",
+        "weekend"
+      ],
+      "status": "owned",
+      "photo": "images/cl_colorblock_black_grey_hooded_jacket.webp",
+      "notes": "Streetwear colour-block hooded zip jacket (black yoke, white stripe, grey lower body/sleeves) with dark fleece lining and chest emblem.",
+      "updatedAt": "2026-11-27T01:31:00+00:00",
+      "meta": {
+        "createdAt": "2026-11-27T01:31:00+00:00",
+        "updatedAt": "2026-11-27T01:31:00+00:00",
+        "source": "kinemon"
+      }
     }
   ],
   "outfits": [
