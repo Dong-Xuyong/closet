@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T00:54:30+00:00",
+  "updatedAt": "2026-11-27T01:02:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -81,8 +81,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-27T00:00:52+00:00",
-        "updatedAt": "2026-11-27T00:00:52+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_3stripe_joggers",
@@ -152,8 +154,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-27T00:00:52+00:00",
-        "updatedAt": "2026-11-27T00:00:52+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_nike_acg_green_tee",
@@ -221,8 +225,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T00:00:52+00:00",
-        "updatedAt": "2026-11-27T00:00:52+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_nylon_track_pants",
@@ -289,8 +295,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-27T00:00:52+00:00",
-        "updatedAt": "2026-11-27T00:00:52+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_cashmere_charcoal_m",
@@ -363,8 +371,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:58:53+00:00",
-        "updatedAt": "2026-11-26T23:58:53+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pepe_jeans_mid_blue",
@@ -434,8 +444,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:58:53+00:00",
-        "updatedAt": "2026-11-26T23:58:53+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_yifanfushi_brown_jacket",
@@ -504,8 +516,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:58:53+00:00",
-        "updatedAt": "2026-11-26T23:58:53+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_camel_corduroy_shacket",
@@ -575,8 +589,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:58:53+00:00",
-        "updatedAt": "2026-11-26T23:58:53+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_tailored_trousers",
@@ -647,8 +663,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_black_basic_tee",
@@ -718,8 +736,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_cream_chinos",
@@ -791,8 +811,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_chinos",
@@ -861,8 +883,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_brown_corduroy_trousers",
@@ -930,8 +954,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_chinos",
@@ -1002,8 +1028,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:56:32+00:00",
-        "updatedAt": "2026-11-26T23:56:32+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_washed_black_straight_jeans",
@@ -1076,8 +1104,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:55:28+00:00",
-        "updatedAt": "2026-11-26T23:55:28+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_light_blue_straight_jeans",
@@ -1146,8 +1176,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:55:28+00:00",
-        "updatedAt": "2026-11-26T23:55:28+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_ice_blue_concealed_shirt",
@@ -1215,8 +1247,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:55:28+00:00",
-        "updatedAt": "2026-11-26T23:55:28+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_light_blue_oxford_shirt",
@@ -1285,8 +1319,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:55:28+00:00",
-        "updatedAt": "2026-11-26T23:55:28+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_glenplaid_tweed_blazer",
@@ -1359,8 +1395,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:52:02+00:00",
-        "updatedAt": "2026-11-26T23:52:02+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_charcoal_suit_trousers",
@@ -1428,8 +1466,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:52:02+00:00",
-        "updatedAt": "2026-11-26T23:52:02+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_charcoal_suit_blazer",
@@ -1498,8 +1538,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:52:02+00:00",
-        "updatedAt": "2026-11-26T23:52:02+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_md_brown_corduroy_jacket",
@@ -1567,8 +1609,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:52:02+00:00",
-        "updatedAt": "2026-11-26T23:52:02+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_brown_waxed_barn_jacket",
@@ -1635,8 +1679,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:50:57+00:00",
-        "updatedAt": "2026-11-26T23:50:57+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_lion_of_porches_beige_mac",
@@ -1709,8 +1755,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:50:57+00:00",
-        "updatedAt": "2026-11-26T23:50:57+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_puffer_vest",
@@ -1779,8 +1827,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:50:57+00:00",
-        "updatedAt": "2026-11-26T23:50:57+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_mockneck_argyle_knit",
@@ -1846,8 +1896,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:48:49+00:00",
-        "updatedAt": "2026-11-26T23:48:49+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_microprint_shirt",
@@ -1915,8 +1967,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:48:49+00:00",
-        "updatedAt": "2026-11-26T23:48:49+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_blue_striped_shirt",
@@ -1984,8 +2038,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:48:49+00:00",
-        "updatedAt": "2026-11-26T23:48:49+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_sacoor_cream_shirt",
@@ -2053,8 +2109,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:48:49+00:00",
-        "updatedAt": "2026-11-26T23:48:49+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_hm_black_oversized_tee",
@@ -2121,8 +2179,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:47:26+00:00",
-        "updatedAt": "2026-11-26T23:47:26+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_beige_oversized_tee",
@@ -2187,8 +2247,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:47:26+00:00",
-        "updatedAt": "2026-11-26T23:47:26+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_youka_ecru_oversized_tee",
@@ -2254,8 +2316,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:47:26+00:00",
-        "updatedAt": "2026-11-26T23:47:26+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_dickies_white_graphic_tee",
@@ -2319,8 +2383,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:47:26+00:00",
-        "updatedAt": "2026-11-26T23:47:26+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_halfzip_knit",
@@ -2387,8 +2453,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:45:30+00:00",
-        "updatedAt": "2026-11-26T23:45:30+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_red_halfzip_knit",
@@ -2454,8 +2522,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:45:30+00:00",
-        "updatedAt": "2026-11-26T23:45:30+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_turtleneck",
@@ -2522,8 +2592,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:45:30+00:00",
-        "updatedAt": "2026-11-26T23:45:30+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_md_knit_polo_black",
@@ -2591,8 +2663,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:45:30+00:00",
-        "updatedAt": "2026-11-26T23:45:30+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_turtleneck",
@@ -2662,8 +2736,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:40:04+00:00",
-        "updatedAt": "2026-11-26T23:40:04+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_trousers",
@@ -2729,9 +2805,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_beige_chinos",
@@ -2796,9 +2874,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_trousers",
@@ -2863,9 +2943,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_tiffosi_light_jeans",
@@ -2926,9 +3008,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_white_tees",
@@ -2993,9 +3077,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_springfield_camel_crewneck",
@@ -3063,8 +3149,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:45:30+00:00",
-        "updatedAt": "2026-11-26T23:45:30+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_light_blue_shirt",
@@ -3128,9 +3216,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_beige_shirt",
@@ -3193,9 +3283,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_red_striped_shirt",
@@ -3263,8 +3355,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:48:49+00:00",
-        "updatedAt": "2026-11-26T23:48:49+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_puffer",
@@ -3326,9 +3420,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_jacket",
@@ -3395,8 +3491,10 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:50:57+00:00",
-        "updatedAt": "2026-11-26T23:50:57+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_sneakers",
@@ -3460,9 +3558,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_watch",
@@ -3528,9 +3628,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_rings",
@@ -3593,9 +3695,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_md_sunglasses",
@@ -3660,7 +3764,8 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T00:50:00+00:00"
       },
       "image": "images/cl_md_sunglasses.webp",
       "subcategory": "sunglasses",
@@ -3671,7 +3776,7 @@
         "autumn",
         "winter"
       ],
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
       "notes": "Bold dark square acetate frame with silver diamond corner rivets — sharp with wool coats and the mafia-boss party look."
@@ -3745,8 +3850,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-26T23:52:02+00:00",
-        "updatedAt": "2026-11-26T23:52:02+00:00"
-      }
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_cotton_cashmere_charcoal",
@@ -3809,9 +3916,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pb_black_turtleneck",
@@ -3874,9 +3983,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_regular_straight_jeans_medblue",
@@ -3939,9 +4050,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_stwd_hoodie_black",
@@ -4000,9 +4113,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_twobrothers_chain",
@@ -4064,9 +4179,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pb_double_loop_belt",
@@ -4130,9 +4247,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-26T23:27:08+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "addedAt": "2026-11-27T01:02:00+00:00"
       },
-      "image": null
+      "image": null,
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_mike_davis_navy_hoodie",
@@ -4190,9 +4309,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
-        "updatedAt": "2026-11-27T00:02:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Hoodie pullover azul-marinho com capuz de cordão, bolso canguru e logótipo Mike Davis (quadrado vermelho + letras cinzentas) no peito."
+      "notes": "Hoodie pullover azul-marinho com capuz de cordão, bolso canguru e logótipo Mike Davis (quadrado vermelho + letras cinzentas) no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_nike_grey_fleece_joggers",
@@ -4251,9 +4371,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
-        "updatedAt": "2026-11-27T00:02:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Joggers Nike cinza-mescla com cintura elástica e cordão, punhos no tornozelo e logótipo Nike Futura bordado a branco na coxa esquerda."
+      "notes": "Joggers Nike cinza-mescla com cintura elástica e cordão, punhos no tornozelo e logótipo Nike Futura bordado a branco na coxa esquerda.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_columbia_navy_hoodie",
@@ -4310,9 +4431,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
-        "updatedAt": "2026-11-27T00:02:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Hoodie pullover Columbia azul-marinho com capuz de cordão, bolso canguru e logótipo Columbia a branco no peito."
+      "notes": "Hoodie pullover Columbia azul-marinho com capuz de cordão, bolso canguru e logótipo Columbia a branco no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_ecru_classic_icon_sweatshirt",
@@ -4368,9 +4490,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
-        "updatedAt": "2026-11-27T00:02:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Sweatshirt de gola redonda em tom cru/off-white com grafismo verde-floresta 'CLASSIC ICON / We need design' no peito."
+      "notes": "Sweatshirt de gola redonda em tom cru/off-white com grafismo verde-floresta 'CLASSIC ICON / We need design' no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_megsi_green_hoodie",
@@ -4428,9 +4551,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
-        "updatedAt": "2026-11-27T00:02:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Hoodie do mestrado MEGSI (Universidade do Minho, EST 1990) em verde-floresta com bordado colegial branco/prateado no peito e cordões verdes."
+      "notes": "Hoodie do mestrado MEGSI (Universidade do Minho, EST 1990) em verde-floresta com bordado colegial branco/prateado no peito e cordões verdes.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_khaki_cargo_shorts",
@@ -4485,9 +4609,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções cargo caqui/bege com cintura elástica e bolsos laterais com pala."
+      "notes": "Calções cargo caqui/bege com cintura elástica e bolsos laterais com pala.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pullbear_beige_chinos",
@@ -4542,10 +4667,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "EUR 42 / USA 32",
-      "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut."
+      "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_romon_navy_basketweave_knit",
@@ -4599,10 +4725,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo."
+      "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_gant_navy_snap_mockneck_knit",
@@ -4658,9 +4785,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas."
+      "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_cortefiel_fairisle_burgundy_knit",
@@ -4717,9 +4845,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Camisola Cortefiel Italian Yarn jacquard de inverno em bordeaux, camel e azul-marinho."
+      "notes": "Camisola Cortefiel Italian Yarn jacquard de inverno em bordeaux, camel e azul-marinho.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_cream_jacquard_knit",
@@ -4776,10 +4905,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisola Zara M em malha grossa creme com riscas jacquard preto e camel."
+      "notes": "Camisola Zara M em malha grossa creme com riscas jacquard preto e camel.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_taupe_knit_ss_polo",
@@ -4835,9 +4965,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros."
+      "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_burgundy_knit_ss_polo",
@@ -4891,9 +5022,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões."
+      "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_navy_knit_ss_polo",
@@ -4947,9 +5079,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Polo de malha fina manga curta azul-marinho com 3 botões."
+      "notes": "Polo de malha fina manga curta azul-marinho com 3 botões.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_mike_davis_red_ss_polo",
@@ -5006,9 +5139,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Polo piqué Mike Davis vermelho com frisos azul-marinho e branco na gola e emblema no peito."
+      "notes": "Polo piqué Mike Davis vermelho com frisos azul-marinho e branco na gola e emblema no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_burgundy_pique_ss_polo",
@@ -5062,9 +5196,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Polo Zara Essentials (Perfect Polo Shirt) bordeaux em piqué com botões brancos e brasão tonal no peito."
+      "notes": "Polo Zara Essentials (Perfect Polo Shirt) bordeaux em piqué com botões brancos e brasão tonal no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_springfield_navy_polkadot_ss_polo",
@@ -5121,10 +5256,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Polo Springfield Slim M azul-marinho com micro-bolinhas menta/branco e árvore bordada em menta."
+      "notes": "Polo Springfield Slim M azul-marinho com micro-bolinhas menta/branco e árvore bordada em menta.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pullbear_brown_camp_ss_shirt",
@@ -5178,10 +5314,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisa Pull&Bear M castanho-chocolate de gola cubana e manga curta; ótima aberta sobre t-shirt branca ou abotoada."
+      "notes": "Camisa Pull&Bear M castanho-chocolate de gola cubana e manga curta; ótima aberta sobre t-shirt branca ou abotoada.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_primark_black_terry_ss_shirt",
@@ -5235,10 +5372,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "Camisa Primark L Regular Fit preta em tecido turco com gola cubana; vibe resort de verão."
+      "notes": "Camisa Primark L Regular Fit preta em tecido turco com gola cubana; vibe resort de verão.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_zara_beige_embroidered_camp_ss_shirt",
@@ -5294,10 +5432,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisa Zara M de gola cubana em bege natural com losangos bordados em verde-azeitona."
+      "notes": "Camisa Zara M de gola cubana em bege natural com losangos bordados em verde-azeitona.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pullbear_black_camp_ss_shirt",
@@ -5351,10 +5490,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisa Pull&Bear M preta de gola cubana e manga curta; versátil para noites de verão."
+      "notes": "Camisa Pull&Bear M preta de gola cubana e manga curta; versátil para noites de verão.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pullbear_ecru_camp_ss_shirt",
@@ -5410,10 +5550,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
-        "updatedAt": "2026-11-27T00:11:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "Camisa Pull&Bear M cru/off-white de gola cubana e manga curta."
+      "notes": "Camisa Pull&Bear M cru/off-white de gola cubana e manga curta.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_levis_white_small_logo_tee",
@@ -5468,10 +5609,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "T-shirt branca Levi's Standard Fit (L/G) com pequeno batwing vermelho no peito; rever estado/desgaste na triagem."
+      "notes": "T-shirt branca Levi's Standard Fit (L/G) com pequeno batwing vermelho no peito; rever estado/desgaste na triagem.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_vans_white_chest_logo_tee",
@@ -5525,10 +5667,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "T-shirt off-white Vans (M) com caixa preta VANS + Off The Wall vermelho no peito; rever desgaste na triagem."
+      "notes": "T-shirt off-white Vans (M) com caixa preta VANS + Off The Wall vermelho no peito; rever desgaste na triagem.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_tommy_black_flag_tee",
@@ -5580,10 +5723,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "T-shirt preta Tommy Hilfiger (L/42) com pequena bandeira bordada no peito."
+      "notes": "T-shirt preta Tommy Hilfiger (L/42) com pequena bandeira bordada no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_fred_perry_navy_tee",
@@ -5636,10 +5780,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "T-shirt azul-marinho escuro Fred Perry (L) com coroa de louros branca bordada no peito."
+      "notes": "T-shirt azul-marinho escuro Fred Perry (L) com coroa de louros branca bordada no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_springfield_sage_green_tee",
@@ -5692,9 +5837,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt Springfield verde-sálvia lavado com pequena árvore tonal; gola com sinais de desgaste (candidata a triagem/casa)."
+      "notes": "T-shirt Springfield verde-sálvia lavado com pequena árvore tonal; gola com sinais de desgaste (candidata a triagem/casa).",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_springfield_brown_pink_ikat_tee",
@@ -5747,10 +5893,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "M",
-      "notes": "T-shirt castanha Springfield (M) com estampado geométrico/ikat rosa."
+      "notes": "T-shirt castanha Springfield (M) com estampado geométrico/ikat rosa.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_ralph_lauren_navy_tee",
@@ -5803,9 +5950,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt azul-marinho escuro Polo Ralph Lauren com pónei vermelho bordado no peito."
+      "notes": "T-shirt azul-marinho escuro Polo Ralph Lauren com pónei vermelho bordado no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_mike_davis_peach_tee",
@@ -5858,9 +6006,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt Mike Davis pêssego pastel com estampado tonal no peito."
+      "notes": "T-shirt Mike Davis pêssego pastel com estampado tonal no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_springfield_burgundy_tee",
@@ -5911,10 +6060,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "T-shirt bordeaux Springfield (L) com pequena árvore bordada; ligeiro desgaste na gola (rever na triagem)."
+      "notes": "T-shirt bordeaux Springfield (L) com pequena árvore bordada; ligeiro desgaste na gola (rever na triagem).",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_uminho_burgundy_tee",
@@ -5966,10 +6116,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "T-shirt bordeaux sou.uminho.pt (L) com estampado branco; ideal para casa/treino/casual."
+      "notes": "T-shirt bordeaux sou.uminho.pt (L) com estampado branco; ideal para casa/treino/casual.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_mike_davis_white_logo_tee",
@@ -6020,9 +6171,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt off-white Mike Davis (TRADEMARK SINCE 1976 em azul-marinho); gola com sinais de desgaste (rever na triagem)."
+      "notes": "T-shirt off-white Mike Davis (TRADEMARK SINCE 1976 em azul-marinho); gola com sinais de desgaste (rever na triagem).",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pepe_jeans_white_script_tee",
@@ -6075,10 +6227,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "S",
-      "notes": "T-shirt branca Pepe Jeans London (S Regular) com escrita bordeaux no peito; ótimo caimento para o cut."
+      "notes": "T-shirt branca Pepe Jeans London (S Regular) com escrita bordeaux no peito; ótimo caimento para o cut.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_levis_red_batwing_tee",
@@ -6130,9 +6283,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt vermelha Levi's com batwing branco grande no peito."
+      "notes": "T-shirt vermelha Levi's com batwing branco grande no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_levis_white_batwing_tee",
@@ -6184,9 +6338,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "T-shirt branca Levi's com batwing vermelho grande no peito."
+      "notes": "T-shirt branca Levi's com batwing vermelho grande no peito.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_light_beige_elastic_chino_shorts",
@@ -6243,9 +6398,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções chino bege-pedra claro com cintura elástica, presilhas e bainha dobrada."
+      "notes": "Calções chino bege-pedra claro com cintura elástica, presilhas e bainha dobrada.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_pedro_del_hierro_tan_chino_shorts",
@@ -6302,9 +6458,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções chino clássicos Pedro del Hierro em tom areia/camel quente, acima do joelho."
+      "notes": "Calções chino clássicos Pedro del Hierro em tom areia/camel quente, acima do joelho.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_salsa_navy_chino_shorts",
@@ -6359,9 +6516,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções chino Salsa azul-marinho escuro com corte limpo acima do joelho."
+      "notes": "Calções chino Salsa azul-marinho escuro com corte limpo acima do joelho.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_adidas_black_3stripe_shorts",
@@ -6416,9 +6574,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções Adidas Originals pretos em fleece com bolsos com fecho, 3 riscas brancas laterais e Trefoil branco."
+      "notes": "Calções Adidas Originals pretos em fleece com bolsos com fecho, 3 riscas brancas laterais e Trefoil branco.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_adidas_peach_fleece_shorts",
@@ -6472,9 +6631,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções Adidas Originals em algodão fleece pêssego pastel com Trefoil tonal bordado."
+      "notes": "Calções Adidas Originals em algodão fleece pêssego pastel com Trefoil tonal bordado.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_brown_drawstring_cargo_shorts",
@@ -6529,9 +6689,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções cargo castanho/taupe com cintura elástica, cordão cru e bolsos laterais com pala."
+      "notes": "Calções cargo castanho/taupe com cintura elástica, cordão cru e bolsos laterais com pala.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_tan_pleated_drawstring_trousers",
@@ -6589,9 +6750,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calças relaxed/largas em tom areia/camel com pinças frontais, cintura elástica e cordão — excelentes para verão smart-casual."
+      "notes": "Calças relaxed/largas em tom areia/camel com pinças frontais, cintura elástica e cordão — excelentes para verão smart-casual.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_offwhite_pleated_drawstring_trousers",
@@ -6650,9 +6812,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
-        "updatedAt": "2026-11-27T00:18:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calças relaxed/largas em off-white/pedra claro com pinças frontais, cintura elástica e cordão — ideais para looks limpos de verão."
+      "notes": "Calças relaxed/largas em off-white/pedra claro com pinças frontais, cintura elástica e cordão — ideais para looks limpos de verão.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_hypersports_black_compression_shorts",
@@ -6702,9 +6865,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:31:00+00:00",
-        "updatedAt": "2026-11-27T00:31:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções de compressão pretos com cós HYPERSPORTS e bolsos laterais para telemóvel; ideais para corrida e treino."
+      "notes": "Calções de compressão pretos com cós HYPERSPORTS e bolsos laterais para telemóvel; ideais para corrida e treino.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_kipsta_black_compression_shorts",
@@ -6755,9 +6919,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:31:00+00:00",
-        "updatedAt": "2026-11-27T00:31:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções térmicos/compressão Kipsta pretos com cós tonal e logo branco na perna; perfeitos por baixo dos calções de arbitragem ou corrida."
+      "notes": "Calções térmicos/compressão Kipsta pretos com cós tonal e logo branco na perna; perfeitos por baixo dos calções de arbitragem ou corrida.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_nike_running_black_shorts_1",
@@ -6809,10 +6974,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:31:00+00:00",
-        "updatedAt": "2026-11-27T00:31:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
       "size": "L",
-      "notes": "Calções de corrida Nike Running pretos (L) com cós elástico NIKE RUNNING, bolsos laterais e Swoosh refletor."
+      "notes": "Calções de corrida Nike Running pretos (L) com cós elástico NIKE RUNNING, bolsos laterais e Swoosh refletor.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_nike_black_training_shorts",
@@ -6864,9 +7030,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:31:00+00:00",
-        "updatedAt": "2026-11-27T00:31:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções desportivos Nike Dri-FIT pretos lisos com cós elástico e Swoosh refletor cinzento."
+      "notes": "Calções desportivos Nike Dri-FIT pretos lisos com cós elástico e Swoosh refletor cinzento.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_black_plain_athletic_shorts",
@@ -6917,9 +7084,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:31:00+00:00",
-        "updatedAt": "2026-11-27T00:31:00+00:00"
+        "updatedAt": "2026-11-27T01:02:00+00:00"
       },
-      "notes": "Calções desportivos pretos lisos com cordão preto e tecido técnico leve."
+      "notes": "Calções desportivos pretos lisos com cordão preto e tecido técnico leve.",
+      "updatedAt": "2026-11-27T01:02:00+00:00"
     },
     {
       "id": "cl_adidas_samba_white_black",
@@ -6952,9 +7120,13 @@
       "status": "owned",
       "image": "images/cl_adidas_samba_white_black.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Classic low-profile terrace sneaker; super versatile with pleated trousers, chinos, or jeans."
+      "notes": "Classic low-profile terrace sneaker; super versatile with pleated trousers, chinos, or jeans.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_adidas_stan_smith_white_green",
@@ -6983,9 +7155,13 @@
       "status": "owned",
       "image": "images/cl_adidas_stan_smith_white_green.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Clean white court sneaker with green heel tab; check wear/cleanliness during shoe triage."
+      "notes": "Clean white court sneaker with green heel tab; check wear/cleanliness during shoe triage.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_asics_gel_nimbus_mint_lime",
@@ -7016,9 +7192,13 @@
       "status": "owned",
       "image": "images/cl_asics_gel_nimbus_mint_lime.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "PureGEL / FF Blast Max max-cushion running shoes — ideal for São Silvestre 10 km training."
+      "notes": "PureGEL / FF Blast Max max-cushion running shoes — ideal for São Silvestre 10 km training.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_converse_chuck_taylor_high_black",
@@ -7049,9 +7229,13 @@
       "status": "owned",
       "image": "images/cl_converse_chuck_taylor_high_black.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "High-top black canvas sneakers; rubber foxing/soles slightly dirty — quick scrub will freshen them up."
+      "notes": "High-top black canvas sneakers; rubber foxing/soles slightly dirty — quick scrub will freshen them up.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_spiderking_white_taupe_sneakers",
@@ -7081,9 +7265,13 @@
       "status": "owned",
       "image": "images/cl_spiderking_white_taupe_sneakers.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Chunky white/taupe sneakers — adds subtle height boost for 1.71 m frame."
+      "notes": "Chunky white/taupe sneakers — adds subtle height boost for 1.71 m frame.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_new_balance_574_charcoal_navy",
@@ -7112,9 +7300,13 @@
       "status": "owned",
       "image": "images/cl_new_balance_574_charcoal_navy.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Charcoal suede/navy 574; heel suede shows visible wear — good beater pair or triage candidate."
+      "notes": "Charcoal suede/navy 574; heel suede shows visible wear — good beater pair or triage candidate.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_boss_white_suede_stripe_sneakers",
@@ -7146,9 +7338,13 @@
       "status": "owned",
       "image": "images/cl_boss_white_suede_stripe_sneakers.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Elevated smart-casual sneaker with navy-camel side stripe and cognac heel tab; light leather clean will make them look brand new."
+      "notes": "Elevated smart-casual sneaker with navy-camel side stripe and cognac heel tab; light leather clean will make them look brand new.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_skechers_black_sneakers",
@@ -7176,9 +7372,13 @@
       "status": "owned",
       "image": "images/cl_skechers_black_sneakers.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "All-black comfort sneakers — ideal for long Zara Espaço Guimarães shifts."
+      "notes": "All-black comfort sneakers — ideal for long Zara Espaço Guimarães shifts.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_monk_strap_dress_shoes",
@@ -7208,9 +7408,13 @@
       "status": "owned",
       "image": "images/cl_black_monk_strap_dress_shoes.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Sleek black leather single monk-strap with silver buckle; dusty in photo — wipe and polish with black cream before formal events or Zara party."
+      "notes": "Sleek black leather single monk-strap with silver buckle; dusty in photo — wipe and polish with black cream before formal events or Zara party.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_new_balance_373_black_white",
@@ -7239,9 +7443,13 @@
       "status": "owned",
       "image": "images/cl_new_balance_373_black_white.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Black suede/mesh 373; collar lining worn — beater/errands pair or triage candidate."
+      "notes": "Black suede/mesh 373; collar lining worn — beater/errands pair or triage candidate.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_adidas_black_white_running_sneakers",
@@ -7272,9 +7480,13 @@
       "status": "owned",
       "image": "images/cl_adidas_black_white_running_sneakers.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Black mesh with 3 white stripes and white midsole; visible dirt/wear — good beater/gym pair or triage candidate."
+      "notes": "Black mesh with 3 white stripes and white midsole; visible dirt/wear — good beater/gym pair or triage candidate.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_nike_romaleos_black_lifting_shoes",
@@ -7302,9 +7514,13 @@
       "status": "owned",
       "image": "images/cl_nike_romaleos_black_lifting_shoes.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Dedicated squat/weightlifting shoes with Velcro midfoot strap and raised heel."
+      "notes": "Dedicated squat/weightlifting shoes with Velcro midfoot strap and raised heel.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_reebok_classic_white_gum",
@@ -7332,9 +7548,13 @@
       "status": "owned",
       "image": "images/cl_reebok_classic_white_gum.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Heavily scuffed/dirty in photo — prime candidate to deep-clean or retire in shoe triage."
+      "notes": "Heavily scuffed/dirty in photo — prime candidate to deep-clean or retire in shoe triage.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_timberland_wheat_nubuck_boots",
@@ -7363,9 +7583,13 @@
       "status": "owned",
       "image": "images/cl_timberland_wheat_nubuck_boots.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Wheat nubuck ankle boots with dark brown padded collar and off-white sole — strong winter/rain casual boot."
+      "notes": "Wheat nubuck ankle boots with dark brown padded collar and off-white sole — strong winter/rain casual boot.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_leather_zip_ankle_boots",
@@ -7393,9 +7617,13 @@
       "status": "owned",
       "image": "images/cl_black_leather_zip_ankle_boots.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Sleek black leather zip ankle boots — perfect for winter coats AND the 10 Dec Zara 2000s mafia-boss party! Give them a quick polish."
+      "notes": "Sleek black leather zip ankle boots — perfect for winter coats AND the 10 Dec Zara 2000s mafia-boss party! Give them a quick polish.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_zara_navy_hooded_puffer",
@@ -7423,10 +7651,14 @@
       "status": "owned",
       "image": "images/cl_zara_navy_hooded_puffer.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "M",
-      "notes": "EUR M / USA M; warm quilted puffer with sealed black vertical zip pockets — great for cold Guimarães nights."
+      "notes": "EUR M / USA M; warm quilted puffer with sealed black vertical zip pockets — great for cold Guimarães nights.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_citizen_ecodrive_chrono_watch",
@@ -7461,9 +7693,13 @@
       "status": "owned",
       "image": "images/cl_citizen_ecodrive_chrono_watch.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Eco-Drive Perpetual Calendar Chronograph on steel bracelet — anchors silver jewelry and works for both formal and the 2000s mafia-boss look."
+      "notes": "Eco-Drive Perpetual Calendar Chronograph on steel bracelet — anchors silver jewelry and works for both formal and the 2000s mafia-boss look.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_tommy_navy_button_mockneck_knit",
@@ -7491,9 +7727,13 @@
       "status": "owned",
       "image": "images/cl_tommy_navy_button_mockneck_knit.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Dark navy mock-neck knit with 4-button placket and subtle red inner neck trim; layers cleanly under wool coats."
+      "notes": "Dark navy mock-neck knit with 4-button placket and subtle red inner neck trim; layers cleanly under wool coats.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_charcoal_ribbed_beanie",
@@ -7521,10 +7761,14 @@
       "status": "owned",
       "image": "images/cl_charcoal_ribbed_beanie.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Ribbed charcoal beanie with 'ACCESSORIES DEPT.' cuff patch."
+      "notes": "Ribbed charcoal beanie with 'ACCESSORIES DEPT.' cuff patch.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_ribbed_beanie",
@@ -7550,10 +7794,14 @@
       "status": "owned",
       "image": "images/cl_black_ribbed_beanie.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Clean logo-free black ribbed beanie — pairs effortlessly with black puffer or wool coats."
+      "notes": "Clean logo-free black ribbed beanie — pairs effortlessly with black puffer or wool coats.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_gold_aviator_sunglasses",
@@ -7583,10 +7831,14 @@
       "status": "owned",
       "image": "images/cl_gold_aviator_sunglasses.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Classic slim gold double-bridge aviators with dark brown lenses."
+      "notes": "Classic slim gold double-bridge aviators with dark brown lenses.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_digital_sports_watch",
@@ -7615,10 +7867,14 @@
       "status": "owned",
       "image": "images/cl_black_digital_sports_watch.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Lightweight black digital stopwatch watch on silicone strap — built for running and refereeing."
+      "notes": "Lightweight black digital stopwatch watch on silicone strap — built for running and refereeing.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_thermal_zip_gloves",
@@ -7644,9 +7900,13 @@
       "status": "owned",
       "image": "images/cl_black_thermal_zip_gloves.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Fleece-lined black softshell thermal gloves with back zipper and touchscreen fingertips — great for cold Guimarães nights."
+      "notes": "Fleece-lined black softshell thermal gloves with back zipper and touchscreen fingertips — great for cold Guimarães nights.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_silver_curb_chain_necklace",
@@ -7676,9 +7936,13 @@
       "status": "owned",
       "image": "images/cl_silver_curb_chain_necklace.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Medium silver curb chain — ready to wear over a black turtleneck for the 10 Dec Zara mafia-boss party!"
+      "notes": "Medium silver curb chain — ready to wear over a black turtleneck for the 10 Dec Zara mafia-boss party!",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_gold_green_jade_signet_ring",
@@ -7710,9 +7974,13 @@
       "status": "owned",
       "image": "images/cl_gold_green_jade_signet_ring.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Statement vintage-luxe gold signet ring with dark green cabochon stone — huge mafia-boss character piece."
+      "notes": "Statement vintage-luxe gold signet ring with dark green cabochon stone — huge mafia-boss character piece.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_silver_chunky_oval_link_bracelet",
@@ -7741,9 +8009,13 @@
       "status": "owned",
       "image": "images/cl_silver_chunky_oval_link_bracelet.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Chunky silver oval-link chain bracelet with small disc charm."
+      "notes": "Chunky silver oval-link chain bracelet with small disc charm.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_silver_curb_chain_bracelet",
@@ -7773,9 +8045,13 @@
       "status": "owned",
       "image": "images/cl_silver_curb_chain_bracelet.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Matches the silver curb-link necklace and Citizen steel watch cleanly."
+      "notes": "Matches the silver curb-link necklace and Citizen steel watch cleanly.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_silver_anchor_pendant_necklace",
@@ -7803,9 +8079,13 @@
       "status": "owned",
       "image": "images/cl_silver_anchor_pendant_necklace.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
-      "notes": "Subtle thin silver chain with small anchor pendant — great for summer/open-collar looks."
+      "notes": "Subtle thin silver chain with small anchor pendant — great for summer/open-collar looks.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_gold_geometric_sunglasses",
@@ -7835,10 +8115,14 @@
       "status": "owned",
       "image": "images/cl_gold_geometric_sunglasses.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Slim gold wire geometric square frame with dark lenses."
+      "notes": "Slim gold wire geometric square frame with dark lenses.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     },
     {
       "id": "cl_black_amber_wayfarer_sunglasses",
@@ -7869,10 +8153,14 @@
       "status": "owned",
       "image": "images/cl_black_amber_wayfarer_sunglasses.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "updatedAt": "2026-11-27T01:02:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
-      "notes": "Matte black Wayfarer frame with translucent amber/orange lenses — strong retro/2000s vibe."
+      "notes": "Matte black Wayfarer frame with translucent amber/orange lenses — strong retro/2000s vibe.",
+      "meta": {
+        "addedAt": "2026-11-27T00:50:00+00:00",
+        "updatedAt": "2026-11-27T01:02:00+00:00"
+      }
     }
   ],
   "outfits": [
