@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:06:00+00:00",
+  "updatedAt": "2026-11-27T01:08:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -3858,7 +3858,7 @@
     {
       "id": "cl_zara_cotton_cashmere_charcoal",
       "name": "Zara Cotton-Cashmere Regular Fit Jumper",
-      "status": "wishlist",
+      "status": "archived",
       "category": "top",
       "subCategory": "crewneck",
       "layer": "mid",
@@ -3916,16 +3916,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_pb_black_turtleneck",
       "name": "Pull&Bear Cotton Blend High Neck Sweater",
-      "status": "wishlist",
+      "status": "archived",
       "category": "top",
       "subCategory": "turtleneck",
       "layer": "base",
@@ -3983,16 +3983,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_regular_straight_jeans_medblue",
       "name": "Regular straight-leg jeans (medium blue)",
-      "status": "wishlist",
+      "status": "archived",
       "category": "bottom",
       "subCategory": "jeans",
       "layer": null,
@@ -4050,16 +4050,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_stwd_hoodie_black",
       "name": "Washed STWD Hoodie (Black)",
-      "status": "wishlist",
+      "status": "archived",
       "category": "top",
       "subCategory": "hoodie",
       "layer": "mid",
@@ -4113,16 +4113,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_twobrothers_chain",
       "name": "TwoBrothers Minimalista Chain (55 cm)",
-      "status": "wishlist",
+      "status": "archived",
       "category": "accessory",
       "subCategory": "chain",
       "layer": null,
@@ -4179,16 +4179,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_pb_double_loop_belt",
       "name": "Pull&Bear Leather-Effect Double Loop Belt",
-      "status": "wishlist",
+      "status": "archived",
       "category": "accessory",
       "subCategory": "belt",
       "layer": null,
@@ -4247,11 +4247,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:08:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:08:00+00:00"
     },
     {
       "id": "cl_mike_davis_navy_hoodie",
