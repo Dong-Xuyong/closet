@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T02:20:00+00:00",
+  "updatedAt": "2026-11-27T16:00:46+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -1251,6 +1251,82 @@
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "updatedAt": "2026-11-27T01:02:00+00:00"
+    },
+    {
+      "id": "cl_zara_white_poplin_shirt_s",
+      "name": "Zara white slim-fit poplin dress shirt",
+      "status": "owned",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "white",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "slim",
+      "care": {
+        "brand": "Zara",
+        "size": "S",
+        "fabric": "cotton poplin",
+        "washTempC": 30,
+        "washMethod": "machine",
+        "tumbleDry": false,
+        "iron": "medium",
+        "notes": "Bought 27 Nov 2026 at Zara Espaço Guimarães (size S, slim fit). Crisp white dress shirt for interviews, dates, blazers, and layering under knits."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 28,
+        "rainOk": false,
+        "windOk": false
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "party",
+        "date",
+        "night-out",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "cl_charcoal_suit_blazer",
+          "cl_charcoal_suit_trousers",
+          "cl_forest_green_wool_duffle_coat",
+          "cl_black_monk_strap_dress_shoes",
+          "charcoal",
+          "navy",
+          "black",
+          "grey",
+          "camel",
+          "beige",
+          "brown"
+        ],
+        "avoidWith": [],
+        "notes": "The missing crisp white dress shirt — works solo for interviews and dates, under knits and blazers, or with the charcoal suit."
+      },
+      "image": "images/cl_zara_white_poplin_shirt_s.webp",
+      "meta": {
+        "priceEur": 29.95,
+        "productUrl": null,
+        "purchasedAt": "2026-11-27",
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T16:00:46+00:00",
+        "updatedAt": "2026-11-27T16:00:46+00:00",
+        "addedAt": "2026-11-27T16:00:46+00:00"
+      },
+      "updatedAt": "2026-11-27T16:00:46+00:00"
     },
     {
       "id": "cl_zara_light_blue_oxford_shirt",
@@ -8567,7 +8643,7 @@
     {
       "id": "wl_md_white_poplin_shirt",
       "name": "[P1 · 40% OFF] Massimo Dutti Slim Fit 100% Cotton Poplin Shirt (White)",
-      "status": "wishlist",
+      "status": "archived",
       "category": "top",
       "subCategory": "shirt",
       "layer": "base",
@@ -8628,10 +8704,10 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T16:00:46+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T02:20:00+00:00"
+      "updatedAt": "2026-11-27T16:00:46+00:00"
     },
     {
       "id": "wl_blakely_charcoal_knit_scarf",
@@ -8774,8 +8850,8 @@
     },
     {
       "id": "wl_zara_black_leather_dress_belt",
-      "name": "[P2 · Staff Discount] Zara Genuine Leather Dress Belt (Black)",
-      "status": "wishlist",
+      "name": "Zara Genuine Leather Dress Belt (Black)",
+      "status": "owned",
       "category": "accessory",
       "subCategory": "belt",
       "layer": "accessory",
@@ -8791,13 +8867,13 @@
       "fit": "regular",
       "care": {
         "brand": "Zara",
-        "size": "85",
-        "fabric": "100% genuine leather",
+        "size": "S / 85 (1000 mm × 30 mm)",
+        "fabric": "100% cow leather (Made in Spain)",
         "washTempC": 30,
         "washMethod": "gentle",
         "tumbleDry": false,
         "iron": "low",
-        "notes": "Priority 2 (Zara staff-discount eligible). Size 85. Smooth black leather dress belt with silver buckle — the one belt that works for interviews with monk straps, the 10 Dec party, dates, and everyday smart-casual."
+        "notes": "Bought 27 Nov 2026 at Zara Espaço Guimarães with staff discount. Smooth black cow leather, 30 mm width, rectangular silver buckle — completes the 10 Dec 2000s party outfit and covers interviews, dates, and everyday."
       },
       "weather": {
         "seasons": [
@@ -8812,11 +8888,13 @@
         "windOk": true
       },
       "occasions": [
+        "everyday",
         "work",
-        "date",
         "party",
+        "date",
+        "night-out",
         "interview",
-        "everyday"
+        "2000s"
       ],
       "pairing": {
         "pairsWellWith": [
@@ -8834,15 +8912,15 @@
       "meta": {
         "priceEur": 25.95,
         "productUrl": "https://www.zara.com/pt/pt/cinto-de-pele-de-vestir-p06399311.html?v1=555071500",
-        "purchasedAt": null,
+        "purchasedAt": "2026-11-27",
         "lastWornAt": null,
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T16:00:46+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T02:20:00+00:00"
+      "updatedAt": "2026-11-27T16:00:46+00:00"
     },
     {
       "id": "wl_zara_black_turtleneck",
