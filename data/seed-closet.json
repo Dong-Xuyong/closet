@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T00:18:00+00:00",
+  "updatedAt": "2026-11-27T00:54:30+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -3610,8 +3610,8 @@
         "tone": "neutral",
         "pattern": "solid"
       },
-      "formality": "smart-casual",
-      "fit": null,
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "brand": "Massimo Dutti",
         "size": "One Size",
@@ -3635,10 +3635,11 @@
         "windOk": true
       },
       "occasions": [
-        "everyday",
-        "party",
+        "smart-casual",
+        "formal",
+        "night-out",
         "date",
-        "2000s"
+        "casual"
       ],
       "pairing": {
         "pairsWellWith": [
@@ -3661,7 +3662,19 @@
         "createdAt": "2026-11-26T23:27:08+00:00",
         "updatedAt": "2026-11-26T23:27:08+00:00"
       },
-      "image": null
+      "image": "images/cl_md_sunglasses.webp",
+      "subcategory": "sunglasses",
+      "brand": "Massimo Dutti",
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Bold dark square acetate frame with silver diamond corner rivets — sharp with wool coats and the mafia-boss party look."
     },
     {
       "id": "cl_zara_wool_coat_black",
@@ -4129,22 +4142,21 @@
       "subCategory": "hoodie",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "navy",
-        "red",
-        "grey"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "red",
+          "grey"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "graphic",
       "material": "algodão cardado (fleece)",
       "weight": "medium-heavy",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Hoodie pullover azul-marinho com capuz de cordão, bolso canguru e logótipo Mike Davis (quadrado vermelho + letras cinzentas) no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4179,7 +4191,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
         "updatedAt": "2026-11-27T00:02:00+00:00"
-      }
+      },
+      "notes": "Hoodie pullover azul-marinho com capuz de cordão, bolso canguru e logótipo Mike Davis (quadrado vermelho + letras cinzentas) no peito."
     },
     {
       "id": "cl_nike_grey_fleece_joggers",
@@ -4189,21 +4202,20 @@
       "subCategory": "joggers",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "grey",
-        "white"
-      ],
+      "colors": {
+        "primary": "grey",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "grey",
       "pattern": "solid",
       "material": "algodão cardado (fleece)",
       "weight": "medium-heavy",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "tapered",
-        "status": "fits-well",
-        "notes": "Joggers Nike cinza-mescla com cintura elástica e cordão, punhos no tornozelo e logótipo Nike Futura bordado a branco na coxa esquerda."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4240,7 +4252,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
         "updatedAt": "2026-11-27T00:02:00+00:00"
-      }
+      },
+      "notes": "Joggers Nike cinza-mescla com cintura elástica e cordão, punhos no tornozelo e logótipo Nike Futura bordado a branco na coxa esquerda."
     },
     {
       "id": "cl_columbia_navy_hoodie",
@@ -4250,21 +4263,20 @@
       "subCategory": "hoodie",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "navy",
-        "white"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "graphic",
       "material": "algodão cardado (fleece)",
       "weight": "medium-heavy",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Hoodie pullover Columbia azul-marinho com capuz de cordão, bolso canguru e logótipo Columbia a branco no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4299,7 +4311,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
         "updatedAt": "2026-11-27T00:02:00+00:00"
-      }
+      },
+      "notes": "Hoodie pullover Columbia azul-marinho com capuz de cordão, bolso canguru e logótipo Columbia a branco no peito."
     },
     {
       "id": "cl_ecru_classic_icon_sweatshirt",
@@ -4309,21 +4322,20 @@
       "subCategory": "sweatshirt",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "ecru",
-        "green"
-      ],
+      "colors": {
+        "primary": "ecru",
+        "secondary": [
+          "green"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "ecru",
       "pattern": "graphic",
       "material": "algodão cardado (fleece)",
       "weight": "medium",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Sweatshirt de gola redonda em tom cru/off-white com grafismo verde-floresta 'CLASSIC ICON / We need design' no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4357,7 +4369,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
         "updatedAt": "2026-11-27T00:02:00+00:00"
-      }
+      },
+      "notes": "Sweatshirt de gola redonda em tom cru/off-white com grafismo verde-floresta 'CLASSIC ICON / We need design' no peito."
     },
     {
       "id": "cl_megsi_green_hoodie",
@@ -4367,21 +4380,20 @@
       "subCategory": "hoodie",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "green",
-        "white"
-      ],
+      "colors": {
+        "primary": "green",
+        "secondary": [
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "green",
       "pattern": "graphic",
       "material": "algodão cardado (fleece)",
       "weight": "medium-heavy",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Hoodie do mestrado MEGSI (Universidade do Minho, EST 1990) em verde-floresta com bordado colegial branco/prateado no peito e cordões verdes."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4417,7 +4429,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:02:00+00:00",
         "updatedAt": "2026-11-27T00:02:00+00:00"
-      }
+      },
+      "notes": "Hoodie do mestrado MEGSI (Universidade do Minho, EST 1990) em verde-floresta com bordado colegial branco/prateado no peito e cordões verdes."
     },
     {
       "id": "cl_khaki_cargo_shorts",
@@ -4427,21 +4440,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "khaki",
-        "beige"
-      ],
+      "colors": {
+        "primary": "khaki",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "khaki",
       "pattern": "solid",
       "material": "sarja de algodão",
       "weight": "medium",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Calções cargo caqui/bege com cintura elástica e bolsos laterais com pala."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -4474,7 +4486,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Calções cargo caqui/bege com cintura elástica e bolsos laterais com pala."
     },
     {
       "id": "cl_pullbear_beige_chinos",
@@ -4484,20 +4497,18 @@
       "subCategory": "chinos",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "beige"
-      ],
+      "colors": {
+        "primary": "beige",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "beige",
       "pattern": "solid",
       "material": "sarja de algodão com elastano",
       "weight": "medium",
-      "formality": 3,
-      "fit": {
-        "size": "EUR 42 / USA 32",
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -4532,7 +4543,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "EUR 42 / USA 32",
+      "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut."
     },
     {
       "id": "cl_romon_navy_basketweave_knit",
@@ -4542,20 +4555,18 @@
       "subCategory": "sweater",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "navy"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "textured",
       "material": "malha de algodão/lã",
       "weight": "medium",
-      "formality": 3,
-      "fit": {
-        "size": "M",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4589,7 +4600,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo."
     },
     {
       "id": "cl_gant_navy_snap_mockneck_knit",
@@ -4599,21 +4612,20 @@
       "subCategory": "sweater",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "navy",
-        "silver"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "silver"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "solid",
       "material": "malha grossa de algodão/lã",
       "weight": "heavy",
-      "formality": 3,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4647,7 +4659,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas."
     },
     {
       "id": "cl_cortefiel_fairisle_burgundy_knit",
@@ -4657,22 +4670,21 @@
       "subCategory": "sweater",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "burgundy",
-        "camel",
-        "navy"
-      ],
+      "colors": {
+        "primary": "burgundy",
+        "secondary": [
+          "camel",
+          "navy"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "burgundy",
       "pattern": "jacquard",
       "material": "fio italiano (mistura de lã)",
       "weight": "heavy",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Camisola Cortefiel Italian Yarn jacquard de inverno em bordeaux, camel e azul-marinho."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": false,
         "iron": false,
@@ -4706,7 +4718,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Camisola Cortefiel Italian Yarn jacquard de inverno em bordeaux, camel e azul-marinho."
     },
     {
       "id": "cl_zara_cream_jacquard_knit",
@@ -4716,22 +4729,21 @@
       "subCategory": "sweater",
       "layer": "mid",
       "status": "owned",
-      "colors": [
-        "cream",
-        "black",
-        "camel"
-      ],
+      "colors": {
+        "primary": "cream",
+        "secondary": [
+          "black",
+          "camel"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "cream",
       "pattern": "jacquard",
       "material": "malha grossa",
       "weight": "heavy",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Camisola Zara M em malha grossa creme com riscas jacquard preto e camel."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4765,7 +4777,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisola Zara M em malha grossa creme com riscas jacquard preto e camel."
     },
     {
       "id": "cl_taupe_knit_ss_polo",
@@ -4775,21 +4789,20 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "taupe",
-        "beige"
-      ],
+      "colors": {
+        "primary": "taupe",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "taupe",
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": 3,
-      "fit": {
-        "size": null,
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4823,7 +4836,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros."
     },
     {
       "id": "cl_burgundy_knit_ss_polo",
@@ -4833,20 +4847,18 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "burgundy"
-      ],
+      "colors": {
+        "primary": "burgundy",
+        "secondary": [],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "burgundy",
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": 3,
-      "fit": {
-        "size": null,
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4880,7 +4892,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões."
     },
     {
       "id": "cl_navy_knit_ss_polo",
@@ -4890,20 +4903,18 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "navy"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": 3,
-      "fit": {
-        "size": null,
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Polo de malha fina manga curta azul-marinho com 3 botões."
-      },
+      "formality": "smart_casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -4937,7 +4948,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Polo de malha fina manga curta azul-marinho com 3 botões."
     },
     {
       "id": "cl_mike_davis_red_ss_polo",
@@ -4947,22 +4959,21 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "red",
-        "navy",
-        "white"
-      ],
+      "colors": {
+        "primary": "red",
+        "secondary": [
+          "navy",
+          "white"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "red",
       "pattern": "solid",
       "material": "piqué de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Polo piqué Mike Davis vermelho com frisos azul-marinho e branco na gola e emblema no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -4996,7 +5007,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Polo piqué Mike Davis vermelho com frisos azul-marinho e branco na gola e emblema no peito."
     },
     {
       "id": "cl_zara_burgundy_pique_ss_polo",
@@ -5006,20 +5018,18 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "burgundy"
-      ],
+      "colors": {
+        "primary": "burgundy",
+        "secondary": [],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "burgundy",
       "pattern": "solid",
       "material": "piqué de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Polo Zara Essentials (Perfect Polo Shirt) bordeaux em piqué com botões brancos e brasão tonal no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5053,7 +5063,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "notes": "Polo Zara Essentials (Perfect Polo Shirt) bordeaux em piqué com botões brancos e brasão tonal no peito."
     },
     {
       "id": "cl_springfield_navy_polkadot_ss_polo",
@@ -5063,22 +5074,21 @@
       "subCategory": "polo",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "navy",
-        "mint",
-        "white"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "mint",
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "polka-dot",
       "material": "piqué de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Polo Springfield Slim M azul-marinho com micro-bolinhas menta/branco e árvore bordada em menta."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5112,7 +5122,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Polo Springfield Slim M azul-marinho com micro-bolinhas menta/branco e árvore bordada em menta."
     },
     {
       "id": "cl_pullbear_brown_camp_ss_shirt",
@@ -5122,20 +5134,18 @@
       "subCategory": "short-sleeve-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "brown"
-      ],
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "brown",
       "pattern": "solid",
       "material": "linho/algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Camisa Pull&Bear M castanho-chocolate de gola cubana e manga curta; ótima aberta sobre t-shirt branca ou abotoada."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5169,7 +5179,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisa Pull&Bear M castanho-chocolate de gola cubana e manga curta; ótima aberta sobre t-shirt branca ou abotoada."
     },
     {
       "id": "cl_primark_black_terry_ss_shirt",
@@ -5179,20 +5191,18 @@
       "subCategory": "short-sleeve-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "black"
-      ],
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "black",
       "pattern": "textured",
       "material": "algodão turco (terrycloth)",
       "weight": "medium",
-      "formality": 2,
-      "fit": {
-        "size": "L",
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Camisa Primark L Regular Fit preta em tecido turco com gola cubana; vibe resort de verão."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -5226,7 +5236,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "Camisa Primark L Regular Fit preta em tecido turco com gola cubana; vibe resort de verão."
     },
     {
       "id": "cl_zara_beige_embroidered_camp_ss_shirt",
@@ -5236,21 +5248,20 @@
       "subCategory": "short-sleeve-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "beige",
-        "olive"
-      ],
+      "colors": {
+        "primary": "beige",
+        "secondary": [
+          "olive"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "beige",
       "pattern": "embroidered",
       "material": "linho/algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Camisa Zara M de gola cubana em bege natural com losangos bordados em verde-azeitona."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5284,7 +5295,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisa Zara M de gola cubana em bege natural com losangos bordados em verde-azeitona."
     },
     {
       "id": "cl_pullbear_black_camp_ss_shirt",
@@ -5294,20 +5307,18 @@
       "subCategory": "short-sleeve-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "black"
-      ],
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "black",
       "pattern": "solid",
       "material": "linho/algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Camisa Pull&Bear M preta de gola cubana e manga curta; versátil para noites de verão."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5341,7 +5352,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisa Pull&Bear M preta de gola cubana e manga curta; versátil para noites de verão."
     },
     {
       "id": "cl_pullbear_ecru_camp_ss_shirt",
@@ -5351,21 +5364,20 @@
       "subCategory": "short-sleeve-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "ecru",
-        "cream"
-      ],
+      "colors": {
+        "primary": "ecru",
+        "secondary": [
+          "cream"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "ecru",
       "pattern": "solid",
       "material": "linho/algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "M",
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Camisa Pull&Bear M cru/off-white de gola cubana e manga curta."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5399,7 +5411,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:09:00+00:00",
         "updatedAt": "2026-11-27T00:11:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "Camisa Pull&Bear M cru/off-white de gola cubana e manga curta."
     },
     {
       "id": "cl_levis_white_small_logo_tee",
@@ -5409,21 +5423,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "white",
-        "red"
-      ],
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "red"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "white",
       "pattern": "logo",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "L",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt branca Levi's Standard Fit (L/G) com pequeno batwing vermelho no peito; rever estado/desgaste na triagem."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5456,7 +5469,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "T-shirt branca Levi's Standard Fit (L/G) com pequeno batwing vermelho no peito; rever estado/desgaste na triagem."
     },
     {
       "id": "cl_vans_white_chest_logo_tee",
@@ -5466,22 +5481,21 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "off-white",
-        "black",
-        "red"
-      ],
+      "colors": {
+        "primary": "off-white",
+        "secondary": [
+          "black",
+          "red"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "off-white",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "M",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt off-white Vans (M) com caixa preta VANS + Off The Wall vermelho no peito; rever desgaste na triagem."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5512,7 +5526,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "T-shirt off-white Vans (M) com caixa preta VANS + Off The Wall vermelho no peito; rever desgaste na triagem."
     },
     {
       "id": "cl_tommy_black_flag_tee",
@@ -5522,20 +5538,18 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "black"
-      ],
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "black",
       "pattern": "solid",
       "material": "algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "L",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt preta Tommy Hilfiger (L/42) com pequena bandeira bordada no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5567,7 +5581,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "T-shirt preta Tommy Hilfiger (L/42) com pequena bandeira bordada no peito."
     },
     {
       "id": "cl_fred_perry_navy_tee",
@@ -5577,21 +5593,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "navy",
-        "white"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "solid",
       "material": "algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": "L",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt azul-marinho escuro Fred Perry (L) com coroa de louros branca bordada no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5622,7 +5637,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "T-shirt azul-marinho escuro Fred Perry (L) com coroa de louros branca bordada no peito."
     },
     {
       "id": "cl_springfield_sage_green_tee",
@@ -5632,21 +5649,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "sage",
-        "green"
-      ],
+      "colors": {
+        "primary": "sage",
+        "secondary": [
+          "green"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "green",
       "pattern": "solid",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt Springfield verde-sálvia lavado com pequena árvore tonal; gola com sinais de desgaste (candidata a triagem/casa)."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5677,7 +5693,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt Springfield verde-sálvia lavado com pequena árvore tonal; gola com sinais de desgaste (candidata a triagem/casa)."
     },
     {
       "id": "cl_springfield_brown_pink_ikat_tee",
@@ -5687,21 +5704,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "brown",
-        "pink"
-      ],
+      "colors": {
+        "primary": "brown",
+        "secondary": [
+          "pink"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "brown",
       "pattern": "printed",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "M",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt castanha Springfield (M) com estampado geométrico/ikat rosa."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5732,7 +5748,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "M",
+      "notes": "T-shirt castanha Springfield (M) com estampado geométrico/ikat rosa."
     },
     {
       "id": "cl_ralph_lauren_navy_tee",
@@ -5742,21 +5760,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "navy",
-        "red"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "red"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "solid",
       "material": "algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt azul-marinho escuro Polo Ralph Lauren com pónei vermelho bordado no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5787,7 +5804,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt azul-marinho escuro Polo Ralph Lauren com pónei vermelho bordado no peito."
     },
     {
       "id": "cl_mike_davis_peach_tee",
@@ -5797,21 +5815,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "peach",
-        "coral"
-      ],
+      "colors": {
+        "primary": "peach",
+        "secondary": [
+          "coral"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "peach",
       "pattern": "logo",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt Mike Davis pêssego pastel com estampado tonal no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5842,7 +5859,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt Mike Davis pêssego pastel com estampado tonal no peito."
     },
     {
       "id": "cl_springfield_burgundy_tee",
@@ -5852,20 +5870,18 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "burgundy"
-      ],
+      "colors": {
+        "primary": "burgundy",
+        "secondary": [],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "burgundy",
       "pattern": "solid",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "L",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt bordeaux Springfield (L) com pequena árvore bordada; ligeiro desgaste na gola (rever na triagem)."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -5896,7 +5912,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "T-shirt bordeaux Springfield (L) com pequena árvore bordada; ligeiro desgaste na gola (rever na triagem)."
     },
     {
       "id": "cl_uminho_burgundy_tee",
@@ -5906,21 +5924,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "burgundy",
-        "white"
-      ],
+      "colors": {
+        "primary": "burgundy",
+        "secondary": [
+          "white"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "burgundy",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "L",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt bordeaux sou.uminho.pt (L) com estampado branco; ideal para casa/treino/casual."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -5950,7 +5967,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "L",
+      "notes": "T-shirt bordeaux sou.uminho.pt (L) com estampado branco; ideal para casa/treino/casual."
     },
     {
       "id": "cl_mike_davis_white_logo_tee",
@@ -5960,21 +5979,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "off-white",
-        "navy"
-      ],
+      "colors": {
+        "primary": "off-white",
+        "secondary": [
+          "navy"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "off-white",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt off-white Mike Davis (TRADEMARK SINCE 1976 em azul-marinho); gola com sinais de desgaste (rever na triagem)."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6003,7 +6021,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt off-white Mike Davis (TRADEMARK SINCE 1976 em azul-marinho); gola com sinais de desgaste (rever na triagem)."
     },
     {
       "id": "cl_pepe_jeans_white_script_tee",
@@ -6013,21 +6032,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "white",
-        "burgundy"
-      ],
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "burgundy"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "white",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": "S",
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt branca Pepe Jeans London (S Regular) com escrita bordeaux no peito; ótimo caimento para o cut."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6058,7 +6076,9 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "size": "S",
+      "notes": "T-shirt branca Pepe Jeans London (S Regular) com escrita bordeaux no peito; ótimo caimento para o cut."
     },
     {
       "id": "cl_levis_red_batwing_tee",
@@ -6068,21 +6088,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "red",
-        "white"
-      ],
+      "colors": {
+        "primary": "red",
+        "secondary": [
+          "white"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
       "primaryColor": "red",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt vermelha Levi's com batwing branco grande no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6112,7 +6131,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt vermelha Levi's com batwing branco grande no peito."
     },
     {
       "id": "cl_levis_white_batwing_tee",
@@ -6122,21 +6142,20 @@
       "subCategory": "t-shirt",
       "layer": "base",
       "status": "owned",
-      "colors": [
-        "white",
-        "red"
-      ],
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "red"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "white",
       "pattern": "graphic",
       "material": "algodão",
       "weight": "light",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "T-shirt branca Levi's com batwing vermelho grande no peito."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6166,7 +6185,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "T-shirt branca Levi's com batwing vermelho grande no peito."
     },
     {
       "id": "cl_light_beige_elastic_chino_shorts",
@@ -6176,21 +6196,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "beige",
-        "stone"
-      ],
+      "colors": {
+        "primary": "beige",
+        "secondary": [
+          "stone"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "beige",
       "pattern": "solid",
       "material": "sarja de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Calções chino bege-pedra claro com cintura elástica, presilhas e bainha dobrada."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6225,7 +6244,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções chino bege-pedra claro com cintura elástica, presilhas e bainha dobrada."
     },
     {
       "id": "cl_pedro_del_hierro_tan_chino_shorts",
@@ -6235,21 +6255,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "tan",
-        "beige"
-      ],
+      "colors": {
+        "primary": "tan",
+        "secondary": [
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "tan",
       "pattern": "solid",
       "material": "sarja de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Calções chino clássicos Pedro del Hierro em tom areia/camel quente, acima do joelho."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6284,7 +6303,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções chino clássicos Pedro del Hierro em tom areia/camel quente, acima do joelho."
     },
     {
       "id": "cl_salsa_navy_chino_shorts",
@@ -6294,20 +6314,18 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "navy"
-      ],
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
       "primaryColor": "navy",
       "pattern": "solid",
       "material": "sarja de algodão",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "slim",
-        "status": "fits-well",
-        "notes": "Calções chino Salsa azul-marinho escuro com corte limpo acima do joelho."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6342,7 +6360,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções chino Salsa azul-marinho escuro com corte limpo acima do joelho."
     },
     {
       "id": "cl_adidas_black_3stripe_shorts",
@@ -6352,21 +6371,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "black",
-        "white"
-      ],
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "black",
       "pattern": "striped",
       "material": "algodão fleece",
       "weight": "medium",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Calções Adidas Originals pretos em fleece com bolsos com fecho, 3 riscas brancas laterais e Trefoil branco."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -6399,7 +6417,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções Adidas Originals pretos em fleece com bolsos com fecho, 3 riscas brancas laterais e Trefoil branco."
     },
     {
       "id": "cl_adidas_peach_fleece_shorts",
@@ -6409,21 +6428,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "peach",
-        "coral"
-      ],
+      "colors": {
+        "primary": "peach",
+        "secondary": [
+          "coral"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "peach",
       "pattern": "solid",
       "material": "algodão fleece",
       "weight": "medium",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "regular",
-        "status": "fits-well",
-        "notes": "Calções Adidas Originals em algodão fleece pêssego pastel com Trefoil tonal bordado."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": false,
@@ -6455,7 +6473,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções Adidas Originals em algodão fleece pêssego pastel com Trefoil tonal bordado."
     },
     {
       "id": "cl_brown_drawstring_cargo_shorts",
@@ -6465,21 +6484,20 @@
       "subCategory": "shorts",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "brown",
-        "taupe"
-      ],
+      "colors": {
+        "primary": "brown",
+        "secondary": [
+          "taupe"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "brown",
       "pattern": "solid",
       "material": "sarja de algodão",
       "weight": "medium",
-      "formality": 1,
-      "fit": {
-        "size": null,
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Calções cargo castanho/taupe com cintura elástica, cordão cru e bolsos laterais com pala."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6512,7 +6530,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calções cargo castanho/taupe com cintura elástica, cordão cru e bolsos laterais com pala."
     },
     {
       "id": "cl_tan_pleated_drawstring_trousers",
@@ -6522,22 +6541,21 @@
       "subCategory": "trousers",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "tan",
-        "camel",
-        "beige"
-      ],
+      "colors": {
+        "primary": "tan",
+        "secondary": [
+          "camel",
+          "beige"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
       "primaryColor": "tan",
       "pattern": "solid",
       "material": "algodão/linho",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Calças relaxed/largas em tom areia/camel com pinças frontais, cintura elástica e cordão — excelentes para verão smart-casual."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6572,7 +6590,8 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calças relaxed/largas em tom areia/camel com pinças frontais, cintura elástica e cordão — excelentes para verão smart-casual."
     },
     {
       "id": "cl_offwhite_pleated_drawstring_trousers",
@@ -6582,22 +6601,21 @@
       "subCategory": "trousers",
       "layer": "bottom",
       "status": "owned",
-      "colors": [
-        "off-white",
-        "ecru",
-        "stone"
-      ],
+      "colors": {
+        "primary": "off-white",
+        "secondary": [
+          "ecru",
+          "stone"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
       "primaryColor": "off-white",
       "pattern": "solid",
       "material": "algodão/linho",
       "weight": "light",
-      "formality": 2,
-      "fit": {
-        "size": null,
-        "cut": "relaxed",
-        "status": "fits-well",
-        "notes": "Calças relaxed/largas em off-white/pedra claro com pinças frontais, cintura elástica e cordão — ideais para looks limpos de verão."
-      },
+      "formality": "casual",
+      "fit": "regular",
       "care": {
         "washable": true,
         "iron": true,
@@ -6633,7 +6651,1228 @@
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:18:00+00:00",
         "updatedAt": "2026-11-27T00:18:00+00:00"
-      }
+      },
+      "notes": "Calças relaxed/largas em off-white/pedra claro com pinças frontais, cintura elástica e cordão — ideais para looks limpos de verão."
+    },
+    {
+      "id": "cl_hypersports_black_compression_shorts",
+      "name": "Calções de compressão Hypersports pretos",
+      "brand": "Hypersports",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "base",
+      "status": "owned",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "poliéster/elastano",
+      "weight": "light",
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a frio / 30 °C, sem amaciador."
+      },
+      "weather": {
+        "minC": 5,
+        "maxC": 32,
+        "rainOk": true
+      },
+      "occasions": [
+        "training",
+        "running",
+        "referee"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_nike_running_black_shorts_1",
+          "cl_nike_black_training_shorts",
+          "cl_black_plain_athletic_shorts",
+          "cl_nike_acg_pine_green_tee"
+        ],
+        "avoidWith": []
+      },
+      "image": "images/cl_hypersports_black_compression_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:31:00+00:00",
+        "updatedAt": "2026-11-27T00:31:00+00:00"
+      },
+      "notes": "Calções de compressão pretos com cós HYPERSPORTS e bolsos laterais para telemóvel; ideais para corrida e treino."
+    },
+    {
+      "id": "cl_kipsta_black_compression_shorts",
+      "name": "Calções de compressão Kipsta pretos",
+      "brand": "Kipsta",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "base",
+      "status": "owned",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "poliéster/elastano",
+      "weight": "light",
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C, sem amaciador."
+      },
+      "weather": {
+        "minC": 5,
+        "maxC": 30,
+        "rainOk": true
+      },
+      "occasions": [
+        "referee",
+        "running",
+        "training"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_nike_running_black_shorts_1",
+          "cl_nike_black_training_shorts",
+          "cl_black_plain_athletic_shorts"
+        ],
+        "avoidWith": []
+      },
+      "image": "images/cl_kipsta_black_compression_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:31:00+00:00",
+        "updatedAt": "2026-11-27T00:31:00+00:00"
+      },
+      "notes": "Calções térmicos/compressão Kipsta pretos com cós tonal e logo branco na perna; perfeitos por baixo dos calções de arbitragem ou corrida."
+    },
+    {
+      "id": "cl_nike_running_black_shorts_1",
+      "name": "Calções Nike Running pretos (cós Nike Running)",
+      "brand": "Nike",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "poliéster técnico leve",
+      "weight": "light",
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 8,
+        "maxC": 36,
+        "rainOk": true
+      },
+      "occasions": [
+        "running",
+        "training",
+        "casual"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_hypersports_black_compression_shorts",
+          "cl_kipsta_black_compression_shorts",
+          "cl_nike_acg_pine_green_tee",
+          "cl_uminho_burgundy_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_nike_running_black_shorts_1.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:31:00+00:00",
+        "updatedAt": "2026-11-27T00:31:00+00:00"
+      },
+      "size": "L",
+      "notes": "Calções de corrida Nike Running pretos (L) com cós elástico NIKE RUNNING, bolsos laterais e Swoosh refletor."
+    },
+    {
+      "id": "cl_nike_black_training_shorts",
+      "name": "Calções Nike Dri-FIT pretos",
+      "brand": "Nike",
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "poliéster técnico leve",
+      "weight": "light",
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 8,
+        "maxC": 36,
+        "rainOk": true
+      },
+      "occasions": [
+        "running",
+        "training",
+        "casual"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_hypersports_black_compression_shorts",
+          "cl_kipsta_black_compression_shorts",
+          "cl_nike_acg_pine_green_tee",
+          "cl_uminho_burgundy_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_nike_black_training_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:31:00+00:00",
+        "updatedAt": "2026-11-27T00:31:00+00:00"
+      },
+      "notes": "Calções desportivos Nike Dri-FIT pretos lisos com cós elástico e Swoosh refletor cinzento."
+    },
+    {
+      "id": "cl_black_plain_athletic_shorts",
+      "name": "Calções desportivos pretos lisos",
+      "brand": null,
+      "category": "bottom",
+      "subCategory": "shorts",
+      "layer": "bottom",
+      "status": "owned",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "primaryColor": "black",
+      "pattern": "solid",
+      "material": "poliéster técnico",
+      "weight": "light",
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "washable": true,
+        "iron": false,
+        "notes": "Lavar a 30 °C."
+      },
+      "weather": {
+        "minC": 8,
+        "maxC": 36,
+        "rainOk": true
+      },
+      "occasions": [
+        "training",
+        "running",
+        "home"
+      ],
+      "pairing": {
+        "worksWellWith": [
+          "cl_hypersports_black_compression_shorts",
+          "cl_kipsta_black_compression_shorts",
+          "cl_uminho_burgundy_tee"
+        ],
+        "avoidWith": [
+          "cl_charcoal_suit_blazer"
+        ]
+      },
+      "image": "images/cl_black_plain_athletic_shorts.webp",
+      "meta": {
+        "source": "photo-catalog",
+        "addedAt": "2026-11-27T00:31:00+00:00",
+        "updatedAt": "2026-11-27T00:31:00+00:00"
+      },
+      "notes": "Calções desportivos pretos lisos com cordão preto e tecido técnico leve."
+    },
+    {
+      "id": "cl_adidas_samba_white_black",
+      "name": "Adidas Samba OG White/Black Gum",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "Adidas",
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "black",
+          "gum"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "night-out",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_adidas_samba_white_black.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Classic low-profile terrace sneaker; super versatile with pleated trousers, chinos, or jeans."
+    },
+    {
+      "id": "cl_adidas_stan_smith_white_green",
+      "name": "Adidas Stan Smith White/Green",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "Adidas",
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "green"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_adidas_stan_smith_white_green.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Clean white court sneaker with green heel tab; check wear/cleanliness during shoe triage."
+    },
+    {
+      "id": "cl_asics_gel_nimbus_mint_lime",
+      "name": "ASICS Gel-Nimbus Mint/Lime Running Shoes",
+      "category": "shoes",
+      "subcategory": "running",
+      "brand": "ASICS",
+      "colors": {
+        "primary": "mint",
+        "secondary": [
+          "lime",
+          "white"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "sport",
+        "running"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_asics_gel_nimbus_mint_lime.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "PureGEL / FF Blast Max max-cushion running shoes — ideal for São Silvestre 10 km training."
+    },
+    {
+      "id": "cl_converse_chuck_taylor_high_black",
+      "name": "Converse Chuck Taylor All Star High Black",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "Converse",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "streetwear",
+        "gym"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_converse_chuck_taylor_high_black.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "High-top black canvas sneakers; rubber foxing/soles slightly dirty — quick scrub will freshen them up."
+    },
+    {
+      "id": "cl_spiderking_white_taupe_sneakers",
+      "name": "SpiderKing White/Taupe Chunky Sneakers",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "SpiderKing",
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "beige",
+          "taupe"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "casual",
+        "streetwear"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_spiderking_white_taupe_sneakers.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Chunky white/taupe sneakers — adds subtle height boost for 1.71 m frame."
+    },
+    {
+      "id": "cl_new_balance_574_charcoal_navy",
+      "name": "New Balance 574 Classic Charcoal/Navy",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "New Balance",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "navy",
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_new_balance_574_charcoal_navy.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Charcoal suede/navy 574; heel suede shows visible wear — good beater pair or triage candidate."
+    },
+    {
+      "id": "cl_boss_white_suede_stripe_sneakers",
+      "name": "BOSS White Leather & Beige Suede Sneakers",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "BOSS",
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "beige",
+          "navy",
+          "cognac"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "smart-casual",
+        "date",
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_boss_white_suede_stripe_sneakers.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Elevated smart-casual sneaker with navy-camel side stripe and cognac heel tab; light leather clean will make them look brand new."
+    },
+    {
+      "id": "cl_skechers_black_sneakers",
+      "name": "Skechers Triple-Black Walking Sneakers",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "Skechers",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "work",
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_skechers_black_sneakers.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "All-black comfort sneakers — ideal for long Zara Espaço Guimarães shifts."
+    },
+    {
+      "id": "cl_black_monk_strap_dress_shoes",
+      "name": "Black Leather Single Monk-Strap Dress Shoes",
+      "category": "shoes",
+      "subcategory": "dress-shoes",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "formal",
+        "smart-casual",
+        "night-out",
+        "date",
+        "interview"
+      ],
+      "formality": "smart_casual",
+      "status": "owned",
+      "image": "images/cl_black_monk_strap_dress_shoes.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Sleek black leather single monk-strap with silver buckle; dusty in photo — wipe and polish with black cream before formal events or Zara party."
+    },
+    {
+      "id": "cl_new_balance_373_black_white",
+      "name": "New Balance 373 Black/Silver",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "New Balance",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "silver",
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_new_balance_373_black_white.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Black suede/mesh 373; collar lining worn — beater/errands pair or triage candidate."
+    },
+    {
+      "id": "cl_adidas_black_white_running_sneakers",
+      "name": "Adidas Black/White Mesh Running Sneakers",
+      "category": "shoes",
+      "subcategory": "running",
+      "brand": "Adidas",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "white"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "sport",
+        "gym",
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_adidas_black_white_running_sneakers.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Black mesh with 3 white stripes and white midsole; visible dirt/wear — good beater/gym pair or triage candidate."
+    },
+    {
+      "id": "cl_nike_romaleos_black_lifting_shoes",
+      "name": "Nike Romaleos All-Black Lifting Shoes",
+      "category": "shoes",
+      "subcategory": "training",
+      "brand": "Nike",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "sport",
+        "gym"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_nike_romaleos_black_lifting_shoes.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Dedicated squat/weightlifting shoes with Velcro midfoot strap and raised heel."
+    },
+    {
+      "id": "cl_reebok_classic_white_gum",
+      "name": "Reebok Classic Leather White/Gum",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "brand": "Reebok",
+      "colors": {
+        "primary": "white",
+        "secondary": [
+          "gum"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_reebok_classic_white_gum.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Heavily scuffed/dirty in photo — prime candidate to deep-clean or retire in shoe triage."
+    },
+    {
+      "id": "cl_timberland_wheat_nubuck_boots",
+      "name": "Timberland Wheat Nubuck Chukka Boots",
+      "category": "shoes",
+      "subcategory": "boots",
+      "brand": "Timberland",
+      "colors": {
+        "primary": "wheat",
+        "secondary": [
+          "camel",
+          "brown"
+        ],
+        "tone": "earth",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_timberland_wheat_nubuck_boots.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Wheat nubuck ankle boots with dark brown padded collar and off-white sole — strong winter/rain casual boot."
+    },
+    {
+      "id": "cl_black_leather_zip_ankle_boots",
+      "name": "Black Smooth Leather Zip Ankle Boots",
+      "category": "shoes",
+      "subcategory": "boots",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "smart-casual",
+        "formal",
+        "night-out",
+        "date"
+      ],
+      "formality": "smart_casual",
+      "status": "owned",
+      "image": "images/cl_black_leather_zip_ankle_boots.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Sleek black leather zip ankle boots — perfect for winter coats AND the 10 Dec Zara 2000s mafia-boss party! Give them a quick polish."
+    },
+    {
+      "id": "cl_zara_navy_hooded_puffer",
+      "name": "Zara Dark Navy Hooded Puffer Jacket",
+      "category": "outerwear",
+      "subcategory": "puffer",
+      "brand": "Zara",
+      "colors": {
+        "primary": "navy",
+        "secondary": [
+          "black"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "commute"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_zara_navy_hooded_puffer.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "M",
+      "notes": "EUR M / USA M; warm quilted puffer with sealed black vertical zip pockets — great for cold Guimarães nights."
+    },
+    {
+      "id": "cl_citizen_ecodrive_chrono_watch",
+      "name": "Citizen Eco-Drive Chronograph Steel Watch",
+      "category": "accessory",
+      "subcategory": "watch",
+      "brand": "Citizen",
+      "colors": {
+        "primary": "silver",
+        "secondary": [
+          "navy",
+          "black"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "smart-casual",
+        "formal",
+        "night-out",
+        "date",
+        "interview",
+        "work"
+      ],
+      "formality": "smart_casual",
+      "status": "owned",
+      "image": "images/cl_citizen_ecodrive_chrono_watch.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Eco-Drive Perpetual Calendar Chronograph on steel bracelet — anchors silver jewelry and works for both formal and the 2000s mafia-boss look."
+    },
+    {
+      "id": "cl_tommy_navy_button_mockneck_knit",
+      "name": "Tommy Hilfiger Navy 4-Button Mock-Neck Knit",
+      "category": "top",
+      "subcategory": "sweater",
+      "brand": "Tommy Hilfiger",
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "date",
+        "work"
+      ],
+      "formality": "smart_casual",
+      "status": "owned",
+      "image": "images/cl_tommy_navy_button_mockneck_knit.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Dark navy mock-neck knit with 4-button placket and subtle red inner neck trim; layers cleanly under wool coats."
+    },
+    {
+      "id": "cl_charcoal_ribbed_beanie",
+      "name": "Charcoal Grey Ribbed Knit Beanie",
+      "category": "accessory",
+      "subcategory": "hat",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "commute"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_charcoal_ribbed_beanie.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Ribbed charcoal beanie with 'ACCESSORIES DEPT.' cuff patch."
+    },
+    {
+      "id": "cl_black_ribbed_beanie",
+      "name": "Black Ribbed Knit Beanie",
+      "category": "accessory",
+      "subcategory": "hat",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "commute"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_black_ribbed_beanie.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Clean logo-free black ribbed beanie — pairs effortlessly with black puffer or wool coats."
+    },
+    {
+      "id": "cl_gold_aviator_sunglasses",
+      "name": "Gold Metal Aviator Sunglasses",
+      "category": "accessory",
+      "subcategory": "sunglasses",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "gold",
+        "secondary": [
+          "brown"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_gold_aviator_sunglasses.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Classic slim gold double-bridge aviators with dark brown lenses."
+    },
+    {
+      "id": "cl_black_digital_sports_watch",
+      "name": "Black Digital Sports Stopwatch Watch",
+      "category": "accessory",
+      "subcategory": "watch",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "sport",
+        "running",
+        "referee"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_black_digital_sports_watch.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Lightweight black digital stopwatch watch on silicone strap — built for running and refereeing."
+    },
+    {
+      "id": "cl_black_thermal_zip_gloves",
+      "name": "Black Thermal Windproof Zip Gloves",
+      "category": "accessory",
+      "subcategory": "gloves",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "commute",
+        "sport"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_black_thermal_zip_gloves.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Fleece-lined black softshell thermal gloves with back zipper and touchscreen fingertips — great for cold Guimarães nights."
+    },
+    {
+      "id": "cl_silver_curb_chain_necklace",
+      "name": "Silver Curb-Link Chain Necklace",
+      "category": "accessory",
+      "subcategory": "jewelry",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "night-out",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_silver_curb_chain_necklace.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Medium silver curb chain — ready to wear over a black turtleneck for the 10 Dec Zara mafia-boss party!"
+    },
+    {
+      "id": "cl_gold_green_jade_signet_ring",
+      "name": "Gold Signet Ring with Green Jade Stone",
+      "category": "accessory",
+      "subcategory": "jewelry",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "gold",
+        "secondary": [
+          "green"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "smart-casual",
+        "night-out",
+        "date",
+        "formal"
+      ],
+      "formality": "smart_casual",
+      "status": "owned",
+      "image": "images/cl_gold_green_jade_signet_ring.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Statement vintage-luxe gold signet ring with dark green cabochon stone — huge mafia-boss character piece."
+    },
+    {
+      "id": "cl_silver_chunky_oval_link_bracelet",
+      "name": "Silver Chunky Oval-Link Bracelet",
+      "category": "accessory",
+      "subcategory": "jewelry",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "night-out",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_silver_chunky_oval_link_bracelet.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Chunky silver oval-link chain bracelet with small disc charm."
+    },
+    {
+      "id": "cl_silver_curb_chain_bracelet",
+      "name": "Silver Curb-Link Chain Bracelet",
+      "category": "accessory",
+      "subcategory": "jewelry",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "smart-casual",
+        "night-out",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_silver_curb_chain_bracelet.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Matches the silver curb-link necklace and Citizen steel watch cleanly."
+    },
+    {
+      "id": "cl_silver_anchor_pendant_necklace",
+      "name": "Silver Thin Chain with Anchor Pendant",
+      "category": "accessory",
+      "subcategory": "jewelry",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "silver",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "occasions": [
+        "casual",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_silver_anchor_pendant_necklace.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "notes": "Subtle thin silver chain with small anchor pendant — great for summer/open-collar looks."
+    },
+    {
+      "id": "cl_gold_geometric_sunglasses",
+      "name": "Gold Wire Geometric Square Sunglasses",
+      "category": "accessory",
+      "subcategory": "sunglasses",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "gold",
+        "secondary": [
+          "black"
+        ],
+        "tone": "warm",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "smart-casual",
+        "casual",
+        "date"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_gold_geometric_sunglasses.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Slim gold wire geometric square frame with dark lenses."
+    },
+    {
+      "id": "cl_black_amber_wayfarer_sunglasses",
+      "name": "Black Wayfarer Sunglasses with Amber Lenses",
+      "category": "accessory",
+      "subcategory": "sunglasses",
+      "brand": "Unbranded",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "amber",
+          "orange"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "occasions": [
+        "casual",
+        "night-out",
+        "streetwear"
+      ],
+      "formality": "casual",
+      "status": "owned",
+      "image": "images/cl_black_amber_wayfarer_sunglasses.webp",
+      "fit": "regular",
+      "updatedAt": "2026-11-27T00:50:00+00:00",
+      "createdAt": "2026-11-27T00:50:00+00:00",
+      "size": "One Size",
+      "notes": "Matte black Wayfarer frame with translucent amber/orange lenses — strong retro/2000s vibe."
     }
   ],
   "outfits": [
