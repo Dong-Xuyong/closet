@@ -20,7 +20,7 @@ test("the page is a static GitHub Pages shell wired to dong-ui", () => {
 });
 
 test("app modules parse", () => {
-  for (const file of ["js/app.js", "js/engine.js", "js/merge.js", "js/model.js", "js/vocab.js", "js/weather.js", "dong-ui/gh-sync.js"]) {
+  for (const file of ["js/app.js", "js/engine.js", "js/merge.js", "js/model.js", "js/startup.js", "js/vocab.js", "js/weather.js", "dong-ui/gh-sync.js"]) {
     const result = spawnSync(process.execPath, ["--check", file], { encoding: "utf8" });
     assert.equal(result.status, 0, result.stderr || file);
   }

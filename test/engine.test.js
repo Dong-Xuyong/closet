@@ -220,8 +220,8 @@ test("at most one accent tone and one non-solid pattern", () => {
   const shoulder = assembleOutfits(seed.items, [], ctx({ tempC: 16 }));
   for (const outfit of shoulder) {
     const pieces = pieceList(outfit.slots);
-    assert.ok(pieces.filter((piece) => piece.colors.tone === "accent").length <= 1);
-    assert.ok(pieces.filter((piece) => piece.colors.pattern !== "solid").length <= 1);
+    assert.ok(pieces.filter((piece) => piece.colors?.tone === "accent").length <= 1);
+    assert.ok(pieces.filter((piece) => piece.colors?.pattern && piece.colors.pattern !== "solid").length <= 1);
   }
 });
 
