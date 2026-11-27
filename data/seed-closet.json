@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:32:00+00:00",
+  "updatedAt": "2026-11-27T01:35:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -8563,6 +8563,286 @@
         "addedAt": "2026-11-27T01:32:00+00:00"
       },
       "updatedAt": "2026-11-27T01:32:00+00:00"
+    },
+    {
+      "id": "wl_md_white_poplin_shirt",
+      "name": "[P1 · 40% OFF] Massimo Dutti Slim Fit 100% Cotton Poplin Shirt (White)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "white",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "slim",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": null,
+        "fabric": "100% cotton poplin",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Crisp white layering shirt for under your charcoal cashmere crewneck, navy half-zip, blazers, and forest green duffle coat."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 22,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "smart-casual",
+        "date",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "charcoal",
+          "navy",
+          "black",
+          "green",
+          "brown",
+          "camel",
+          "beige"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Crisp white layering shirt for under your charcoal cashmere crewneck, navy half-zip, blazers, and forest green duffle coat."
+      },
+      "image": "images/wl_md_white_poplin_shirt.webp",
+      "meta": {
+        "priceEur": 35.95,
+        "productUrl": "https://www.massimodutti.com/pt/camisa-de-popelina-slim-fit-100-algodao-l00175175?cS=250",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "addedAt": "2026-11-27T01:35:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:35:00+00:00"
+    },
+    {
+      "id": "wl_blakely_charcoal_knit_scarf",
+      "name": "[P2 · 20% OFF] Blakely Label Knitted Scarf (Marl Charcoal)",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "scarf",
+      "layer": "accessory",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Blakely Clothing",
+        "size": null,
+        "fabric": "soft knit",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 2 (20% off: €23.00 vs €29.00, 5.0/152 reviews). You own 0 scarves — neutral marl charcoal pairs with all 14 coats/jackets (especially black wool overcoat, navy puffer, and forest green duffle)."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 14,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "commute",
+        "date",
+        "weekend"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "green",
+          "brown",
+          "beige",
+          "camel",
+          "charcoal"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 2 (20% off: €23.00 vs €29.00, 5.0/152 reviews). You own 0 scarves — neutral marl charcoal pairs with all 14 coats/jackets (especially black wool overcoat, navy puffer, and forest green duffle)."
+      },
+      "image": "images/wl_blakely_charcoal_knit_scarf.webp",
+      "meta": {
+        "priceEur": 23.0,
+        "productUrl": "https://eu.blakelyclothing.com/products/blakely-label-knitted-scarf-marl-charcoal?variant=56742775423356",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "addedAt": "2026-11-27T01:35:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:35:00+00:00"
+    },
+    {
+      "id": "wl_fusaro_merino_cardigan",
+      "name": "[P3 · 63% OFF] Fusaro Antonio Trento Merino Wool Cardigan",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "cardigan",
+      "layer": "mid",
+      "colors": {
+        "primary": "beige",
+        "secondary": [
+          "brown"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Fusaro Antonio dal 1893",
+        "size": null,
+        "fabric": "extrafine merino wool blend",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 3 (63% off: €29.00 vs €79.00, available in Pearl / Tobacco / Green). You own 0 cardigans — fine-gauge merino layers cleanly between tees/shirts and your winter coats."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "smart-casual",
+        "date",
+        "work"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "black",
+          "navy",
+          "green",
+          "cream",
+          "charcoal"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 3 (63% off: €29.00 vs €79.00, available in Pearl / Tobacco / Green). You own 0 cardigans — fine-gauge merino layers cleanly between tees/shirts and your winter coats."
+      },
+      "image": "images/wl_fusaro_merino_cardigan.webp",
+      "meta": {
+        "priceEur": 29.0,
+        "productUrl": "https://fusarouomo.eu/products/trento-cardigan-uomo-in-lana-merino?variant=52175667396941",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "addedAt": "2026-11-27T01:35:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:35:00+00:00"
+    },
+    {
+      "id": "wl_zara_black_leather_dress_belt",
+      "name": "[P4 · Staff Discount] Zara Genuine Leather Dress Belt (Black)",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "belt",
+      "layer": "accessory",
+      "colors": {
+        "primary": "black",
+        "secondary": [
+          "silver"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": null,
+        "fabric": "100% genuine leather",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 4 (€25.95 + Zara staff discount in-store). Genuine black leather dress belt with silver buckle — essential for tucked-in trousers and your 10 Dec Zara 2000s mafia-boss party outfit."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 30,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "smart-casual",
+        "date",
+        "party",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "navy",
+          "cream",
+          "beige",
+          "white"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 4 (€25.95 + Zara staff discount in-store). Genuine black leather dress belt with silver buckle — essential for tucked-in trousers and your 10 Dec Zara 2000s mafia-boss party outfit."
+      },
+      "image": "images/wl_zara_black_leather_dress_belt.webp",
+      "meta": {
+        "priceEur": 25.95,
+        "productUrl": "https://www.zara.com/pt/pt/cinto-de-pele-de-vestir-p06399311.html?v1=555071500",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "addedAt": "2026-11-27T01:35:00+00:00"
+      },
+      "updatedAt": "2026-11-27T01:35:00+00:00"
     }
   ],
   "outfits": [
