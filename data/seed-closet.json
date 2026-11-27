@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:04:00+00:00",
+  "updatedAt": "2026-11-27T01:06:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -3714,7 +3714,7 @@
         "tone": "neutral",
         "pattern": "solid"
       },
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "brand": "Massimo Dutti",
@@ -3764,7 +3764,7 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:06:00+00:00",
         "addedAt": "2026-11-27T00:50:00+00:00"
       },
       "image": "images/cl_md_sunglasses.webp",
@@ -3776,7 +3776,7 @@
         "autumn",
         "winter"
       ],
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "size": "One Size",
       "notes": "Bold dark square acetate frame with silver diamond corner rivets — sharp with wool coats and the mafia-boss party look."
@@ -4632,7 +4632,7 @@
       "pattern": "solid",
       "material": "sarja de algodão com elastano",
       "weight": "medium",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -4667,11 +4667,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "size": "EUR 42 / USA 32",
       "notes": "Chinos Pull&Bear Smart Skinny bege-pedra, EUR 42 / USA 32; acompanhar cintura durante o cut.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_romon_navy_basketweave_knit",
@@ -4691,7 +4691,7 @@
       "pattern": "textured",
       "material": "malha de algodão/lã",
       "weight": "medium",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -4725,11 +4725,11 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "size": "M",
       "notes": "Camisola Romon azul-marinho escuro com ponto basketweave em relevo.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_gant_navy_snap_mockneck_knit",
@@ -4751,7 +4751,7 @@
       "pattern": "solid",
       "material": "malha grossa de algodão/lã",
       "weight": "heavy",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -4785,10 +4785,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:05:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "notes": "Camisola GANT azul-marinho encorpada com gola alta canelada e 4 molas metálicas.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_cortefiel_fairisle_burgundy_knit",
@@ -4931,7 +4931,7 @@
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -4965,10 +4965,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "notes": "Polo de malha fina manga curta em tom taupe/areia com 3 botões escuros.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_burgundy_knit_ss_polo",
@@ -4988,7 +4988,7 @@
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -5022,10 +5022,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "notes": "Polo de malha fina manga curta em bordeaux escuro com 3 botões.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_navy_knit_ss_polo",
@@ -5045,7 +5045,7 @@
       "pattern": "solid",
       "material": "malha fina de algodão/viscose",
       "weight": "light",
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "fit": "regular",
       "care": {
         "washable": true,
@@ -5079,10 +5079,10 @@
       "meta": {
         "source": "photo-catalog",
         "addedAt": "2026-11-27T00:07:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       },
       "notes": "Polo de malha fina manga curta azul-marinho com 3 botões.",
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     },
     {
       "id": "cl_mike_davis_red_ss_polo",
@@ -7404,16 +7404,16 @@
         "date",
         "interview"
       ],
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "status": "owned",
       "image": "images/cl_black_monk_strap_dress_shoes.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "notes": "Sleek black leather single monk-strap with silver buckle; dusty in photo — wipe and polish with black cream before formal events or Zara party.",
       "meta": {
         "addedAt": "2026-11-27T00:50:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       }
     },
     {
@@ -7613,16 +7613,16 @@
         "night-out",
         "date"
       ],
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "status": "owned",
       "image": "images/cl_black_leather_zip_ankle_boots.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "notes": "Sleek black leather zip ankle boots — perfect for winter coats AND the 10 Dec Zara 2000s mafia-boss party! Give them a quick polish.",
       "meta": {
         "addedAt": "2026-11-27T00:50:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       }
     },
     {
@@ -7689,16 +7689,16 @@
         "interview",
         "work"
       ],
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "status": "owned",
       "image": "images/cl_citizen_ecodrive_chrono_watch.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "notes": "Eco-Drive Perpetual Calendar Chronograph on steel bracelet — anchors silver jewelry and works for both formal and the 2000s mafia-boss look.",
       "meta": {
         "addedAt": "2026-11-27T00:50:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       }
     },
     {
@@ -7723,16 +7723,16 @@
         "date",
         "work"
       ],
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "status": "owned",
       "image": "images/cl_tommy_navy_button_mockneck_knit.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "notes": "Dark navy mock-neck knit with 4-button placket and subtle red inner neck trim; layers cleanly under wool coats.",
       "meta": {
         "addedAt": "2026-11-27T00:50:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       }
     },
     {
@@ -7970,16 +7970,16 @@
         "date",
         "formal"
       ],
-      "formality": "smart_casual",
+      "formality": "smart-casual",
       "status": "owned",
       "image": "images/cl_gold_green_jade_signet_ring.webp",
       "fit": "regular",
-      "updatedAt": "2026-11-27T01:02:00+00:00",
+      "updatedAt": "2026-11-27T01:06:00+00:00",
       "createdAt": "2026-11-27T00:50:00+00:00",
       "notes": "Statement vintage-luxe gold signet ring with dark green cabochon stone — huge mafia-boss character piece.",
       "meta": {
         "addedAt": "2026-11-27T00:50:00+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00"
+        "updatedAt": "2026-11-27T01:06:00+00:00"
       }
     },
     {
@@ -8161,6 +8161,194 @@
         "addedAt": "2026-11-27T00:50:00+00:00",
         "updatedAt": "2026-11-27T01:02:00+00:00"
       }
+    },
+    {
+      "id": "cl_brown_corduroy_jacket",
+      "name": "Brown corduroy jacket",
+      "status": "archived",
+      "category": "outerwear",
+      "subCategory": "jacket",
+      "layer": "outer",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "corduroy",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 8,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "date"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "beige",
+          "light-blue",
+          "blue",
+          "black"
+        ],
+        "avoidWith": [],
+        "notes": "Avoid heavy rain on corduroy."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-27T01:06:00+00:00"
+      },
+      "image": null,
+      "updatedAt": "2026-11-27T01:06:00+00:00"
+    },
+    {
+      "id": "cl_corduroy_shacket",
+      "name": "Corduroy shirt-jacket",
+      "status": "archived",
+      "category": "outerwear",
+      "subCategory": "shirt-jacket",
+      "layer": "mid",
+      "colors": {
+        "primary": "brown",
+        "secondary": [],
+        "tone": "earth",
+        "pattern": "textured"
+      },
+      "formality": "casual",
+      "fit": "relaxed",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": "corduroy",
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "spring"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 20,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "black",
+          "light-blue",
+          "blue",
+          "beige"
+        ],
+        "avoidWith": [],
+        "notes": "Great over a white t-shirt."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-27T01:06:00+00:00"
+      },
+      "image": null,
+      "updatedAt": "2026-11-27T01:06:00+00:00"
+    },
+    {
+      "id": "cl_purple_dotted_shirt",
+      "name": "Purple dotted shirt",
+      "status": "archived",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "purple",
+        "secondary": [],
+        "tone": "accent",
+        "pattern": "dotted"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": null,
+        "size": "M",
+        "fabric": null,
+        "washTempC": null,
+        "washMethod": null,
+        "tumbleDry": null,
+        "iron": null,
+        "notes": ""
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "tempMinC": 12,
+        "tempMaxC": 24,
+        "rainOk": true,
+        "windOk": false
+      },
+      "occasions": [
+        "date",
+        "night-out",
+        "party"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "grey"
+        ],
+        "avoidWith": [],
+        "notes": "Statement pattern; pair with solid dark trousers."
+      },
+      "meta": {
+        "priceEur": null,
+        "productUrl": null,
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": false,
+        "createdAt": "2026-11-26T23:27:08+00:00",
+        "updatedAt": "2026-11-27T01:06:00+00:00"
+      },
+      "image": null,
+      "updatedAt": "2026-11-27T01:06:00+00:00"
     }
   ],
   "outfits": [
