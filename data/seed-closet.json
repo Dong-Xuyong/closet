@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:02:00+00:00",
+  "updatedAt": "2026-11-27T01:04:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -2744,7 +2744,7 @@
     {
       "id": "cl_black_trousers",
       "name": "Black trousers",
-      "status": "owned",
+      "status": "archived",
       "category": "bottom",
       "subCategory": "trousers",
       "layer": null,
@@ -2805,16 +2805,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_beige_chinos",
       "name": "Beige chinos",
-      "status": "owned",
+      "status": "archived",
       "category": "bottom",
       "subCategory": "chinos",
       "layer": null,
@@ -2874,16 +2874,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_navy_trousers",
       "name": "Navy trousers",
-      "status": "owned",
+      "status": "archived",
       "category": "bottom",
       "subCategory": "trousers",
       "layer": null,
@@ -2943,16 +2943,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_tiffosi_light_jeans",
       "name": "Light-wash Tiffosi jeans",
-      "status": "owned",
+      "status": "archived",
       "category": "bottom",
       "subCategory": "jeans",
       "layer": null,
@@ -3008,16 +3008,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_white_tees",
       "name": "White t-shirts",
-      "status": "owned",
+      "status": "archived",
       "category": "top",
       "subCategory": "t-shirt",
       "layer": "base",
@@ -3077,11 +3077,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_springfield_camel_crewneck",
@@ -3157,7 +3157,7 @@
     {
       "id": "cl_light_blue_shirt",
       "name": "Light-blue shirt",
-      "status": "owned",
+      "status": "archived",
       "category": "top",
       "subCategory": "shirt",
       "layer": "base",
@@ -3216,16 +3216,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_beige_shirt",
       "name": "Beige shirt",
-      "status": "owned",
+      "status": "archived",
       "category": "top",
       "subCategory": "shirt",
       "layer": "base",
@@ -3283,11 +3283,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_red_striped_shirt",
@@ -3363,7 +3363,7 @@
     {
       "id": "cl_black_puffer",
       "name": "Black puffer jacket",
-      "status": "owned",
+      "status": "archived",
       "category": "outerwear",
       "subCategory": "puffer",
       "layer": "outer",
@@ -3420,11 +3420,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_navy_jacket",
@@ -3499,7 +3499,7 @@
     {
       "id": "cl_sneakers",
       "name": "Sneakers",
-      "status": "owned",
+      "status": "archived",
       "category": "shoes",
       "subCategory": "sneakers",
       "layer": null,
@@ -3558,16 +3558,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_watch",
       "name": "Watch",
-      "status": "owned",
+      "status": "archived",
       "category": "accessory",
       "subCategory": "watch",
       "layer": null,
@@ -3628,16 +3628,16 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_rings",
       "name": "Rings",
-      "status": "owned",
+      "status": "archived",
       "category": "accessory",
       "subCategory": "ring",
       "layer": null,
@@ -3695,11 +3695,11 @@
         "wearCount": 0,
         "favorite": false,
         "createdAt": "2026-11-26T23:27:08+00:00",
-        "updatedAt": "2026-11-27T01:02:00+00:00",
+        "updatedAt": "2026-11-27T01:04:00+00:00",
         "addedAt": "2026-11-27T01:02:00+00:00"
       },
       "image": null,
-      "updatedAt": "2026-11-27T01:02:00+00:00"
+      "updatedAt": "2026-11-27T01:04:00+00:00"
     },
     {
       "id": "cl_md_sunglasses",
