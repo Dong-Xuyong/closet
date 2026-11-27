@@ -1,7 +1,7 @@
 {
   "app": "closet",
   "version": 1,
-  "updatedAt": "2026-11-27T01:35:00+00:00",
+  "updatedAt": "2026-11-27T02:20:00+00:00",
   "profile": {
     "heightCm": 171,
     "sizes": {
@@ -8581,13 +8581,13 @@
       "fit": "slim",
       "care": {
         "brand": "Massimo Dutti",
-        "size": null,
+        "size": "S",
         "fabric": "100% cotton poplin",
         "washTempC": 30,
         "washMethod": "gentle",
         "tumbleDry": false,
         "iron": "low",
-        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Crisp white layering shirt for under your charcoal cashmere crewneck, navy half-zip, blazers, and forest green duffle coat."
+        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Size S slim fit. Crisp white 100% cotton poplin for interviews, work, and layering under knits and the forest-green duffle."
       },
       "weather": {
         "seasons": [
@@ -8602,9 +8602,9 @@
       },
       "occasions": [
         "work",
-        "smart-casual",
         "date",
-        "interview"
+        "interview",
+        "everyday"
       ],
       "pairing": {
         "pairsWellWith": [
@@ -8617,7 +8617,7 @@
           "beige"
         ],
         "avoidWith": [],
-        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Crisp white layering shirt for under your charcoal cashmere crewneck, navy half-zip, blazers, and forest green duffle coat."
+        "notes": "Priority 1 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Size S slim fit. Crisp white 100% cotton poplin for interviews, work, and layering under knits and the forest-green duffle."
       },
       "image": "images/wl_md_white_poplin_shirt.webp",
       "meta": {
@@ -8628,15 +8628,15 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T01:35:00+00:00"
+      "updatedAt": "2026-11-27T02:20:00+00:00"
     },
     {
       "id": "wl_blakely_charcoal_knit_scarf",
       "name": "[P2 · 20% OFF] Blakely Label Knitted Scarf (Marl Charcoal)",
-      "status": "wishlist",
+      "status": "archived",
       "category": "accessory",
       "subCategory": "scarf",
       "layer": "accessory",
@@ -8698,15 +8698,15 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T01:35:00+00:00"
+      "updatedAt": "2026-11-27T02:20:00+00:00"
     },
     {
       "id": "wl_fusaro_merino_cardigan",
       "name": "[P3 · 63% OFF] Fusaro Antonio Trento Merino Wool Cardigan",
-      "status": "wishlist",
+      "status": "archived",
       "category": "top",
       "subCategory": "cardigan",
       "layer": "mid",
@@ -8767,14 +8767,14 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T01:35:00+00:00"
+      "updatedAt": "2026-11-27T02:20:00+00:00"
     },
     {
       "id": "wl_zara_black_leather_dress_belt",
-      "name": "[P4 · Staff Discount] Zara Genuine Leather Dress Belt (Black)",
+      "name": "[P2 · Staff Discount] Zara Genuine Leather Dress Belt (Black)",
       "status": "wishlist",
       "category": "accessory",
       "subCategory": "belt",
@@ -8791,13 +8791,13 @@
       "fit": "regular",
       "care": {
         "brand": "Zara",
-        "size": null,
+        "size": "85",
         "fabric": "100% genuine leather",
         "washTempC": 30,
         "washMethod": "gentle",
         "tumbleDry": false,
         "iron": "low",
-        "notes": "Priority 4 (€25.95 + Zara staff discount in-store). Genuine black leather dress belt with silver buckle — essential for tucked-in trousers and your 10 Dec Zara 2000s mafia-boss party outfit."
+        "notes": "Priority 2 (Zara staff-discount eligible). Size 85. Smooth black leather dress belt with silver buckle — the one belt that works for interviews with monk straps, the 10 Dec party, dates, and everyday smart-casual."
       },
       "weather": {
         "seasons": [
@@ -8813,10 +8813,10 @@
       },
       "occasions": [
         "work",
-        "smart-casual",
         "date",
         "party",
-        "interview"
+        "interview",
+        "everyday"
       ],
       "pairing": {
         "pairsWellWith": [
@@ -8828,7 +8828,7 @@
           "white"
         ],
         "avoidWith": [],
-        "notes": "Priority 4 (€25.95 + Zara staff discount in-store). Genuine black leather dress belt with silver buckle — essential for tucked-in trousers and your 10 Dec Zara 2000s mafia-boss party outfit."
+        "notes": "Priority 2 (Zara staff-discount eligible). Size 85. Smooth black leather dress belt with silver buckle — the one belt that works for interviews with monk straps, the 10 Dec party, dates, and everyday smart-casual."
       },
       "image": "images/wl_zara_black_leather_dress_belt.webp",
       "meta": {
@@ -8839,10 +8839,566 @@
         "wearCount": 0,
         "favorite": true,
         "createdAt": "2026-11-27T01:35:00+00:00",
-        "updatedAt": "2026-11-27T01:35:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
         "addedAt": "2026-11-27T01:35:00+00:00"
       },
-      "updatedAt": "2026-11-27T01:35:00+00:00"
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_zara_black_turtleneck",
+      "name": "[P3 · Staff Discount] Zara Basic Fine-Knit Turtleneck (Black)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "turtleneck",
+      "layer": "base",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "slim",
+      "care": {
+        "brand": "Zara",
+        "size": "S",
+        "fabric": "fine knit (viscose blend)",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 3 (Zara staff-discount eligible). Size S. Black gola alta for the 10 Dec 2000s mafia-boss party and winter layering under the wool overcoat or duffle."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 16,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "party",
+        "2000s",
+        "date",
+        "night-out",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "charcoal",
+          "white",
+          "grey",
+          "silver"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 3 (Zara staff-discount eligible). Size S. Black gola alta for the 10 Dec 2000s mafia-boss party and winter layering under the wool overcoat or duffle."
+      },
+      "image": "images/wl_zara_black_turtleneck.webp",
+      "meta": {
+        "priceEur": 29.95,
+        "productUrl": "https://www.zara.com/pt/pt/camisola-basica-de-gola-alta-p00304330.html?v1=555786003",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_md_anthracite_wool_scarf",
+      "name": "[P4 · 40% OFF] Massimo Dutti Fringed Wool-Blend Scarf (Anthracite)",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "scarf",
+      "layer": "accessory",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": "OS",
+        "fabric": "wool-blend with fringe",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 4 (Inditex Black Friday: €35.95 vs €60.00, 40% off). One size. Anthracite wool-blend scarf — you own 0 scarves; this pairs with all 14 coats, especially the black wool overcoat, navy puffer, and forest-green duffle, for cold Guimarães mornings."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 14,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "green",
+          "brown",
+          "beige",
+          "camel",
+          "charcoal",
+          "grey"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 4 (Inditex Black Friday: €35.95 vs €60.00, 40% off). One size. Anthracite wool-blend scarf — you own 0 scarves; this pairs with all 14 coats for cold Guimarães mornings."
+      },
+      "image": "images/wl_md_anthracite_wool_scarf.webp",
+      "meta": {
+        "priceEur": 35.95,
+        "productUrl": "https://www.massimodutti.com/pt/cachecol-com-franjas-em-mistura-de-la-l02691330?cS=807",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_md_navy_wool_cardigan",
+      "name": "[P5 · 20% OFF] Massimo Dutti 100% Wool Button Cardigan (Dark Navy)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "cardigan",
+      "layer": "mid",
+      "colors": {
+        "primary": "navy",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": "S",
+        "fabric": "100% wool",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 5 (Inditex Black Friday: €55.95 vs €70.00, 20% off). Size S. 100% wool button cardigan in dark navy — the winter smart-casual mid-layer over a white or light-blue shirt, under the wool overcoat."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "date",
+        "everyday",
+        "interview"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "light-blue",
+          "ecru",
+          "grey",
+          "beige",
+          "brown",
+          "navy"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 5 (Inditex Black Friday: €55.95 vs €70.00, 20% off). Size S. 100% wool button cardigan in dark navy — winter smart-casual mid-layer over a poplin shirt."
+      },
+      "image": "images/wl_md_navy_wool_cardigan.webp",
+      "meta": {
+        "priceEur": 55.95,
+        "productUrl": "https://www.massimodutti.com/pt/cardiga-malha-botoes-100-la-l01407222?cS=422",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_zara_silver_metal_pendant",
+      "name": "[P6 · Staff Discount] Zara Cord Necklace with Silver Metal Pendant",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "necklace",
+      "layer": "accessory",
+      "colors": {
+        "primary": "silver",
+        "secondary": [
+          "black"
+        ],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "OS",
+        "fabric": "silver-tone metal pendant on cord",
+        "washTempC": 30,
+        "washMethod": "wipe",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Priority 6 (Zara staff-discount eligible). One size (cord length typically ~50–55 cm). Closest live men's silver metal pendant at Inditex PT — a black cord with a sculptural open silver pendant for the 10 Dec party over a black turtleneck. Not a rectangular plate-chain."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring",
+          "summer"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 34,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "party",
+        "2000s",
+        "date",
+        "night-out",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "white",
+          "silver",
+          "charcoal",
+          "navy"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 6 (Zara staff-discount eligible). One size. Closest live men's silver metal pendant at Inditex PT for the 10 Dec party over a black turtleneck. Sculptural open pendant on a black cord, not a rectangular plate-chain."
+      },
+      "image": "images/wl_zara_silver_metal_pendant.webp",
+      "meta": {
+        "priceEur": 22.95,
+        "productUrl": "https://www.zara.com/pt/pt/fio-de-cordao-com-pendente-metalico-p08435348.html?v1=605502515",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_md_light_blue_twill_shirt",
+      "name": "[P7 · 40% OFF] Massimo Dutti Regular Fit 100% Cotton Twill Shirt (Light Blue)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "shirt",
+      "layer": "base",
+      "colors": {
+        "primary": "light-blue",
+        "secondary": [],
+        "tone": "cool",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Massimo Dutti",
+        "size": "S",
+        "fabric": "100% cotton twill",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 7 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Size S regular fit (may sit slightly easier than the slim white poplin). Light-blue 100% cotton twill for interview/work/date rotation next to the white shirt."
+      },
+      "weather": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 4,
+        "tempMaxC": 22,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "date",
+        "interview",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "navy",
+          "charcoal",
+          "grey",
+          "beige",
+          "brown",
+          "camel",
+          "black"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 7 (Inditex Black Friday: €35.95 vs €60.00, 40% off). Size S. Light-blue 100% cotton twill — the second dress shirt for work, dates, and interviews."
+      },
+      "image": "images/wl_md_light_blue_twill_shirt.webp",
+      "meta": {
+        "priceEur": 35.95,
+        "productUrl": "https://www.massimodutti.com/pt/camisa-regular-fit-twill-100-algodao-l02106297?cS=390",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_zara_anthracite_quarter_zip",
+      "name": "[P8 · Staff Discount] Zara Purl-Knit Quarter-Zip Sweater (Anthracite)",
+      "status": "wishlist",
+      "category": "top",
+      "subCategory": "half-zip",
+      "layer": "mid",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "S",
+        "fabric": "purl knit",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 8 (Zara staff-discount eligible). Size S. Anthracite purl-knit quarter-zip — a charcoal mid-layer you don't yet have (existing half-zips are navy and red) for work, dates, and weekend winter looks."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 2,
+        "tempMaxC": 18,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "date",
+        "everyday",
+        "night-out"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "white",
+          "black",
+          "grey",
+          "ecru",
+          "beige",
+          "navy"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 8 (Zara staff-discount eligible). Size S. Anthracite purl-knit quarter-zip fills the charcoal/camel mid-layer gap beside your navy and red half-zips."
+      },
+      "image": "images/wl_zara_anthracite_quarter_zip.webp",
+      "meta": {
+        "priceEur": 39.95,
+        "productUrl": "https://www.zara.com/pt/pt/sweater-de-malha-perolada-com-ziper-p03332310.html?v1=568717797",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_zara_anthracite_suit_trousers",
+      "name": "[P9 · 40% OFF] Zara Regular-Fit Comfort Suit Trousers (Anthracite)",
+      "status": "wishlist",
+      "category": "bottom",
+      "subCategory": "trousers",
+      "layer": "bottom",
+      "colors": {
+        "primary": "charcoal",
+        "secondary": [
+          "grey"
+        ],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "EU 38",
+        "fabric": "suiting comfort blend",
+        "washTempC": 30,
+        "washMethod": "gentle",
+        "tumbleDry": false,
+        "iron": "low",
+        "notes": "Priority 9 (Inditex Black Friday: €21.57 vs €35.95, 40% off). Size EU 38. Anthracite regular-fit tailored trousers — a sharp, discounted pair that elevates interviews, dates, and the 10 Dec party with a turtleneck or poplin shirt."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 22,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "work",
+        "date",
+        "interview",
+        "party",
+        "everyday"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "white",
+          "navy",
+          "charcoal",
+          "light-blue",
+          "silver"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 9 (Inditex Black Friday: €21.57 vs €35.95, 40% off). Size EU 38. Anthracite tailored trousers on a 40% markdown — interview, date, and party ready."
+      },
+      "image": "images/wl_zara_anthracite_suit_trousers.webp",
+      "meta": {
+        "priceEur": 21.57,
+        "productUrl": "https://www.zara.com/pt/pt/calcas-regular-fit-fato-conforto-p09621697.html?v1=558595895",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
+    },
+    {
+      "id": "wl_zara_black_washed_leather_gloves",
+      "name": "[P10 · Staff Discount] Zara Washed Leather Gloves (Black)",
+      "status": "wishlist",
+      "category": "accessory",
+      "subCategory": "gloves",
+      "layer": "accessory",
+      "colors": {
+        "primary": "black",
+        "secondary": [],
+        "tone": "neutral",
+        "pattern": "solid"
+      },
+      "formality": "smart-casual",
+      "fit": "regular",
+      "care": {
+        "brand": "Zara",
+        "size": "S/M",
+        "fabric": "washed leather",
+        "washTempC": 30,
+        "washMethod": "wipe",
+        "tumbleDry": false,
+        "iron": "none",
+        "notes": "Priority 10 (Zara staff-discount eligible). Size S/M. Black washed-leather gloves — a smart upgrade from your thermal zip gloves for cold Guimarães mornings in the wool overcoat or duffle."
+      },
+      "weather": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "tempMinC": 0,
+        "tempMaxC": 12,
+        "rainOk": false,
+        "windOk": true
+      },
+      "occasions": [
+        "everyday",
+        "work",
+        "date",
+        "referee-travel"
+      ],
+      "pairing": {
+        "pairsWellWith": [
+          "black",
+          "navy",
+          "charcoal",
+          "grey",
+          "green",
+          "camel"
+        ],
+        "avoidWith": [],
+        "notes": "Priority 10 (Zara staff-discount eligible). Size S/M. Black washed-leather gloves for cold Guimarães mornings with the overcoat or duffle."
+      },
+      "image": "images/wl_zara_black_washed_leather_gloves.webp",
+      "meta": {
+        "priceEur": 25.95,
+        "productUrl": "https://www.zara.com/pt/pt/luvas-de-pele-com-efeito-lavado-p04284301.html?v1=550814902",
+        "purchasedAt": null,
+        "lastWornAt": null,
+        "wearCount": 0,
+        "favorite": true,
+        "createdAt": "2026-11-27T02:20:00+00:00",
+        "updatedAt": "2026-11-27T02:20:00+00:00",
+        "addedAt": "2026-11-27T02:20:00+00:00"
+      },
+      "updatedAt": "2026-11-27T02:20:00+00:00"
     }
   ],
   "outfits": [
